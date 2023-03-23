@@ -1,5 +1,9 @@
 import requests
+import sys
 from bs4 import BeautifulSoup
+from textobject import *
+
+
 
 offical_languages = {
     'English': 'en',
@@ -11,11 +15,10 @@ offical_languages = {
 }
 
 
-def get_website_text(websiteUrl, language):
-    url = websiteUrl+language
-    print('### WEBSITE-NAME: ' + url)
+def get_website_text(websiteUrl):
+    print('### WEBSITE-NAME: ' + websiteUrl)
 
-    page = requests.get(url)
+    page = requests.get(websiteUrl)
     soup = BeautifulSoup(page.content, "html.parser")
     
     results = soup.find(id="main-content")
@@ -38,13 +41,30 @@ def get_website_text(websiteUrl, language):
 
     
 def start_scraping():
+    elementList = []
+
+    f = open("scraping_01.txt", "a")
+
     for language,language_abbreviation in offical_languages.items():
-        text = get_website_text("https://european-union.europa.eu/principles-countries-history/history-eu_", language_abbreviation)
-        print(language)
-        print(text)
-        print('------------------------------------------------')
+        url = "https://european-union.europa.eu/principles-countries-history/history-eu_" + language_abbreviation
+        text = get_website_text(url)
+        
+        textElement = TextObject(url, language, text)
+        elementList.append(textElement)
+
+        f.write(url)
+        f.write("\n")
+        f.write(language)
+        f.write("\n")
+        f.write(text[0])
+        f.write("\n")
+        f.write("---------")
+        f.write("\n")
+        
+    f.close()
+    return elementList
 
 
 
 if __name__ == "__main__" :
-        start_scraping()
+        scrapedElements = start_scraping()

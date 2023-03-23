@@ -83,6 +83,8 @@ def needleman_wunsch(sequence_one, sequence_two):
         score_up = score[i][j-1]
         score_left = score[i-1][j]
 
+        # Check to figure out which cell the current score was calculated from,
+        # then update i and j to correspond to that cell.
         if score_current == score_diagonal + match_score(sequence_one[j-1], sequence_two[i-1]):
             alignment_one += sequence_one[j-1]
             alignment_two += sequence_two[i-1]
@@ -97,6 +99,7 @@ def needleman_wunsch(sequence_one, sequence_two):
             alignment_two += sequence_two[i-1]
             i -= 1
 
+    # Finish tracing up to the top left cell
     while j > 0:
         alignment_one += sequence_one[j-1]
         alignment_two += '-'
@@ -106,6 +109,8 @@ def needleman_wunsch(sequence_one, sequence_two):
         alignment_two += sequence_two[i-1]
         i -= 1
 
+    # Since we traversed the score matrix from the bottom right, our two sequences will be reversed.
+    # These two lines reverse the order of the characters in each sequence.
     alignment_one = alignment_one[::-1]
     alignment_two = alignment_two[::-1]
     
@@ -157,6 +162,7 @@ def scoring_distance_matrix(scoring_matrix):
 
 scoring = scoring_matrix(language)
 scoring_distance_matrix = scoring_distance_matrix(scoring)
+print(scoring)
 average = linkage(scoring_distance_matrix, "average")
 dendrogram(average, labels=language)
 pylab.subplots_adjust(bottom=0.1, left=0.2, right=1.0, top=1.0)
