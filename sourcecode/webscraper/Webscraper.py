@@ -1,10 +1,8 @@
 import requests
-import sys
+import os
 from bs4 import BeautifulSoup
-from textobject import *
 
-
-
+# --------------------------------- VARIABLES -------------------------------- #
 offical_languages = {
     'English': 'en',
     'German': 'de',
@@ -15,8 +13,9 @@ offical_languages = {
 }
 
 
+# --------------------------------- SCRAPING --------------------------------- #
 def get_website_text(websiteUrl):
-    print('### WEBSITE-NAME: ' + websiteUrl)
+    #print('### WEBSITE-NAME: ' + websiteUrl)
 
     page = requests.get(websiteUrl)
     soup = BeautifulSoup(page.content, "html.parser")
@@ -39,18 +38,22 @@ def get_website_text(websiteUrl):
 
     return titles
 
-    
-def start_scraping():
-    elementList = []
 
-    f = open("scraping_01.txt", "a")
+# ------------------------------- START METHOD ------------------------------- #
+def start_scraping(filename="webscraper"):
+    languageList = []
+    sentenceList = []
+    combinationDictionary = {}
+
+    f = open(os.path.abspath(os.curdir) + '/sourcecode/files/' + filename + ".txt", "w")
 
     for language,language_abbreviation in offical_languages.items():
         url = "https://european-union.europa.eu/principles-countries-history/history-eu_" + language_abbreviation
         text = get_website_text(url)
-        
-        textElement = TextObject(url, language, text)
-        elementList.append(textElement)
+    
+        languageList.append(language)
+        sentenceList.append(text[0])
+        combinationDictionary[language] = text[0]
 
         f.write(url)
         f.write("\n")
@@ -62,9 +65,7 @@ def start_scraping():
         f.write("\n")
         
     f.close()
-    return elementList
+    return languageList, sentenceList, combinationDictionary
 
 
 
-if __name__ == "__main__" :
-        scrapedElements = start_scraping()

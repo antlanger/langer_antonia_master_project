@@ -1,0 +1,252 @@
+------------------------------
+Sentence 1: Peace in Europe and the beginnings of cooperation
+Sentence 2: Peace in Europe and the beginnings of cooperation
+Alignment:
+Peace in Europe and the beginnings of cooperation
+Peace in Europe and the beginnings of cooperation
+------------------------------
+------------------------------
+Sentence 1: Peace in Europe and the beginnings of cooperation
+Sentence 2: Der Beginn der Zusammenarbeit fur ein friedliches Europa
+Alignment:
+Pe-ace i-n Europe a---nd the-- ---begin------ni-ngs of cooperation
+Der Beginn der Zusammen-arbeit fur e-in friedliches --Europ--a----
+------------------------------
+------------------------------
+Sentence 1: Peace in Europe and the beginnings of cooperation
+Sentence 2: Paz en Europa y comienzos de la cooperacion
+Alignment:
+Peace in Europe and the beginnings--- of cooperation
+P-a-z en Europ--a-- --y comien-zos de la cooperacion
+------------------------------
+------------------------------
+Sentence 1: Peace in Europe and the beginnings of cooperation
+Sentence 2: La pace in Europa e gli inizi della cooperazione
+Alignment:
+--Peace in Europe and the beg-i-nnings ---of cooperation-
+La pace in Europ--a-- --e --gli ini-zi della cooperazione
+------------------------------
+------------------------------
+Sentence 1: Peace in Europe and the beginnings of cooperation
+Sentence 2: Siochain san Eoraip agus tus an chomhair
+Alignment:
+---Peace -in Eur-ope a-nd the beginnings of cooperation
+Siochain san Eoraip- agus t-----------us an cho-mha-i-r
+------------------------------
+------------------------------
+Sentence 1: Peace in Europe and the beginnings of cooperation
+Sentence 2: La paix en Europe et les debuts de la cooperation
+Alignment:
+--Peace in Europe and the- beginnings of cooperation
+La paix en Europe -et -les de-buts de la cooperation
+------------------------------
+------------------------------
+Sentence 1: Der Beginn der Zusammenarbeit fur ein friedliches Europa
+Sentence 2: Peace in Europe and the beginnings of cooperation
+Alignment:
+Der Beginn der Zusammen-arbeit fur e-in friedliches --Europ--a----
+Pe-ace i-n Europe a---nd the-- ---begin------ni-ngs of cooperation
+------------------------------
+------------------------------
+Sentence 1: Der Beginn der Zusammenarbeit fur ein friedliches Europa
+Sentence 2: Der Beginn der Zusammenarbeit fur ein friedliches Europa
+Alignment:
+Der Beginn der Zusammenarbeit fur ein friedliches Europa
+Der Beginn der Zusammenarbeit fur ein friedliches Europa
+------------------------------
+------------------------------
+Sentence 1: Der Beginn der Zusammenarbeit fur ein friedliches Europa
+Sentence 2: Paz en Europa y comienzos de la cooperacion
+Alignment:
+Der Beginn der--- Zusammenarbeit fur ein friedl-ic--hes Europa
+Paz -e---n Europa y comien---zos ---de-- -----la coope-racio-n
+------------------------------
+------------------------------
+Sentence 1: Der Beginn der Zusammenarbeit fur ein friedliches Europa
+Sentence 2: La pace in Europa e gli inizi della cooperazione
+Alignment:
+Der --Beginn der Zusammenarbeit fur ein friedl-ic--hes Europa
+-La pace i-n Eur--opa- e-- gli- -inizi- --della coope-razione
+------------------------------
+------------------------------
+Sentence 1: Der Beginn der Zusammenarbeit fur ein friedliches Europa
+Sentence 2: Siochain san Eoraip agus tus an chomhair
+Alignment:
+Der Beginn der Zusammenarbeit fur ein friedliches Europa
+-Siochai-n san Eora-ip a--gus tus -an -------chomhair---
+------------------------------
+------------------------------
+Sentence 1: Der Beginn der Zusammenarbeit fur ein friedliches Europa
+Sentence 2: La paix en Europe et les debuts de la cooperation
+Alignment:
+Der Beginn der Zusammenarbeit fur -ein friedl-ic--hes Europa
+-La -pai-x -en Eu-rope--- e-t les debuts de la coope-ratio-n
+------------------------------
+------------------------------
+Sentence 1: Paz en Europa y comienzos de la cooperacion
+Sentence 2: Peace in Europe and the beginnings of cooperation
+Alignment:
+P-a-z en Europ--a-- --y comien-zos de la cooperacion
+Peace in Europe and the beginnings--- of cooperation
+------------------------------
+------------------------------
+Sentence 1: Paz en Europa y comienzos de la cooperacion
+Sentence 2: Der Beginn der Zusammenarbeit fur ein friedliches Europa
+Alignment:
+Paz -e---n Europa y comien---zos ---de-- -----la coope-racio-n
+Der Beginn der--- Zusammenarbeit fur ein friedl-ic--hes Europa
+------------------------------
+------------------------------
+Sentence 1: Paz en Europa y comienzos de la cooperacion
+Sentence 2: Paz en Europa y comienzos de la cooperacion
+Alignment:
+Paz en Europa y comienzos de la cooperacion
+Paz en Europa y comienzos de la cooperacion
+------------------------------
+------------------------------
+Sentence 1: Paz en Europa y comienzos de la cooperacion
+Sentence 2: La pace in Europa e gli inizi della cooperazione
+Alignment:
+Paz ---e--n Europa y comi-en-zos de la cooperacion-
+La- pace in Europa e -gli iniz-i della cooperazione
+------------------------------
+------------------------------
+Sentence 1: Paz en Europa y comienzos de la cooperacion
+Sentence 2: Siochain san Eoraip agus tus an chomhair
+Alignment:
+----Pa-z -en Europa y comienzos -de la- cooperacion
+Siochain san E--oraip -----agus tus -an cho-mha-i-r
+------------------------------
+------------------------------
+Sentence 1: Paz en Europa y comienzos de la cooperacion
+Sentence 2: La paix en Europe et les debuts de la cooperation
+Alignment:
+---Pa-z en Europa -y -comienzos de la cooperacion
+La paix en Europe et les debuts de la cooperation
+------------------------------
+------------------------------
+Sentence 1: La pace in Europa e gli inizi della cooperazione
+Sentence 2: Peace in Europe and the beginnings of cooperation
+Alignment:
+La pace in Europ--a-- --e --gli- inizi della cooperazione
+--Peace in Europe and the beg-innin-gs ---of cooperation-
+------------------------------
+------------------------------
+Sentence 1: La pace in Europa e gli inizi della cooperazione
+Sentence 2: Der Beginn der Zusammenarbeit fur ein friedliches Europa
+Alignment:
+-La pace i-n Eur--opa- e-- gli- -inizi- --della coope-razione
+Der --Beginn der Zusammenarbeit fur ein friedl-ic--hes Europa
+------------------------------
+------------------------------
+Sentence 1: La pace in Europa e gli inizi della cooperazione
+Sentence 2: Paz en Europa y comienzos de la cooperacion
+Alignment:
+La- pace in Europa e -gli iniz-i della cooperazione
+Paz ---e--n Europa y comi-en-zos de la cooperacion-
+------------------------------
+------------------------------
+Sentence 1: La pace in Europa e gli inizi della cooperazione
+Sentence 2: La pace in Europa e gli inizi della cooperazione
+Alignment:
+La pace in Europa e gli inizi della cooperazione
+La pace in Europa e gli inizi della cooperazione
+------------------------------
+------------------------------
+Sentence 1: La pace in Europa e gli inizi della cooperazione
+Sentence 2: Siochain san Eoraip agus tus an chomhair
+Alignment:
+-La pace -in Eur-opa e gli inizi della- cooperazione
+Siochain san Eoraip- -agus --tus ----an cho-mha-i--r
+------------------------------
+------------------------------
+Sentence 1: La pace in Europa e gli inizi della cooperazione
+Sentence 2: La paix en Europe et les debuts de la cooperation
+Alignment:
+La pace in Europa e- gl-i -inizi della cooperazione
+La paix en Europe et -les debuts de la cooperation-
+------------------------------
+------------------------------
+Sentence 1: Siochain san Eoraip agus tus an chomhair
+Sentence 2: Peace in Europe and the beginnings of cooperation
+Alignment:
+Siochain san Eoraip- agus t-----------us an cho-mha-i-r
+---Peace -in Eur-ope a-nd the beginnings of cooperation
+------------------------------
+------------------------------
+Sentence 1: Siochain san Eoraip agus tus an chomhair
+Sentence 2: Der Beginn der Zusammenarbeit fur ein friedliches Europa
+Alignment:
+-Siochai-n san Eora-ip a--gus tus -an -------chomhair---
+Der Beginn der Zusammenarbeit fur ein friedliches Europa
+------------------------------
+------------------------------
+Sentence 1: Siochain san Eoraip agus tus an chomhair
+Sentence 2: Paz en Europa y comienzos de la cooperacion
+Alignment:
+Siochain san E--oraip -----agus tus -an cho-mha-i-r
+----Pa-z -en Europa y comienzos -de la- cooperacion
+------------------------------
+------------------------------
+Sentence 1: Siochain san Eoraip agus tus an chomhair
+Sentence 2: La pace in Europa e gli inizi della cooperazione
+Alignment:
+Siochain san Eoraip- -agus --tus ----an cho-mha-i--r
+-La pace -in Eur-opa e gli inizi della- cooperazione
+------------------------------
+------------------------------
+Sentence 1: Siochain san Eoraip agus tus an chomhair
+Sentence 2: Siochain san Eoraip agus tus an chomhair
+Alignment:
+Siochain san Eoraip agus tus an chomhair
+Siochain san Eoraip agus tus an chomhair
+------------------------------
+------------------------------
+Sentence 1: Siochain san Eoraip agus tus an chomhair
+Sentence 2: La paix en Europe et les debuts de la cooperation
+Alignment:
+Siochain san Eoraip- --agus --tu-s--- -an cho-mha-i-r
+-La paix -en Eur-ope et les debuts de la- cooperation
+------------------------------
+------------------------------
+Sentence 1: La paix en Europe et les debuts de la cooperation
+Sentence 2: Peace in Europe and the beginnings of cooperation
+Alignment:
+La paix en Europe -et -les de-buts de la cooperation
+--Peace in Europe and the- beginnings of cooperation
+------------------------------
+------------------------------
+Sentence 1: La paix en Europe et les debuts de la cooperation
+Sentence 2: Der Beginn der Zusammenarbeit fur ein friedliches Europa
+Alignment:
+-La -pai-x -en Eu-rope--- e-t les debuts de la coope-ratio-n
+Der Beginn der Zusammenarbeit fur -ein friedl-ic--hes Europa
+------------------------------
+------------------------------
+Sentence 1: La paix en Europe et les debuts de la cooperation
+Sentence 2: Paz en Europa y comienzos de la cooperacion
+Alignment:
+La paix en Europe et les debuts de la cooperation
+---Pa-z en Europa -y -comienzos de la cooperacion
+------------------------------
+------------------------------
+Sentence 1: La paix en Europe et les debuts de la cooperation
+Sentence 2: La pace in Europa e gli inizi della cooperazione
+Alignment:
+La paix en Europe et -les debuts de la cooperation-
+La pace in Europa e- gl-i -inizi della cooperazione
+------------------------------
+------------------------------
+Sentence 1: La paix en Europe et les debuts de la cooperation
+Sentence 2: Siochain san Eoraip agus tus an chomhair
+Alignment:
+-La paix -en Eur-ope et les debuts de la- cooperation
+Siochain san Eoraip- --agus --tu-s--- -an cho-mha-i-r
+------------------------------
+------------------------------
+Sentence 1: La paix en Europe et les debuts de la cooperation
+Sentence 2: La paix en Europe et les debuts de la cooperation
+Alignment:
+La paix en Europe et les debuts de la cooperation
+La paix en Europe et les debuts de la cooperation
+------------------------------

@@ -1,0 +1,252 @@
+------------------------------
+Sentence 1: PeaceinEuropeandthebeginningsofcooperation
+Sentence 2: PeaceinEuropeandthebeginningsofcooperation
+Alignment:
+PeaceinEuropeandthebeginningsofcooperation
+PeaceinEuropeandthebeginningsofcooperation
+------------------------------
+------------------------------
+Sentence 1: PeaceinEuropeandthebeginningsofcooperation
+Sentence 2: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Alignment:
+Peace-i-n---Eu-rope-a--ndthebegin-ningsofcooperatio-n
+DerBeginnderZusammenarbeitfure-infri-edlic--hesEuropa
+------------------------------
+------------------------------
+Sentence 1: PeaceinEuropeandthebeginningsofcooperation
+Sentence 2: PazenEuropaycomienzosdelacooperacion
+Alignment:
+PeaceinEuropeandthebeginningsofcooperation
+P-aze-nEurop-a-ycomie--nzosdelacooperacion
+------------------------------
+------------------------------
+Sentence 1: PeaceinEuropeandthebeginningsofcooperation
+Sentence 2: LapaceinEuropaegliinizidellacooperazione
+Alignment:
+-PeaceinEuropeandthebegin-ningsofcooperation-
+LapaceinEurop-a----egliinizidellacooperazione
+------------------------------
+------------------------------
+Sentence 1: PeaceinEuropeandthebeginningsofcooperation
+Sentence 2: SiochainsanEoraipagustusanchomhair
+Alignment:
+Peac-ei---nEur-opeandthebeginningsofcooperation
+SiochainsanEoraip-a-------g--ustusancho-mha-i-r
+------------------------------
+------------------------------
+Sentence 1: PeaceinEuropeandthebeginningsofcooperation
+Sentence 2: LapaixenEuropeetlesdebutsdelacooperation
+Alignment:
+-Pea-ceinEuropeandthe-beginningsofcooperation
+Lapaixe-nEurope--etlesde--butsdelacooperation
+------------------------------
+------------------------------
+Sentence 1: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Sentence 2: PeaceinEuropeandthebeginningsofcooperation
+Alignment:
+DerBeginnderZusammenarbeitfure-infri-edlic--hesEuropa
+Peace-i-n---Eu-rope-a--ndthebegin-ningsofcooperatio-n
+------------------------------
+------------------------------
+Sentence 1: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Sentence 2: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Alignment:
+DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+------------------------------
+------------------------------
+Sentence 1: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Sentence 2: PazenEuropaycomienzosdelacooperacion
+Alignment:
+DerBeginnderZusammenarbeitfurein-friedlic--hesEuropa
+-Paze---nEur-opa----ycomi----e-nzosde-lacooperacio-n
+------------------------------
+------------------------------
+Sentence 1: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Sentence 2: LapaceinEuropaegliinizidellacooperazione
+Alignment:
+-DerBeginnderZusammenarbeitfureinfri-edlic--hesEuropa
+Lapace-i-nEur-opa--e---gli-----inizidellacooperazione
+------------------------------
+------------------------------
+Sentence 1: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Sentence 2: SiochainsanEoraipagustusanchomhair
+Alignment:
+DerBegin--nderZusammenarbeitfureinfriedlich-esEuropa
+SiochainsanEor---a--ipa-gust-u-san-------chomhair---
+------------------------------
+------------------------------
+Sentence 1: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Sentence 2: LapaixenEuropeetlesdebutsdelacooperation
+Alignment:
+DerBeginnderZusammenarbeit-fureinfriedlic--hesEuropa
+--Lapai--xenEu-rope----e-tlesdebutsde-lacooperatio-n
+------------------------------
+------------------------------
+Sentence 1: PazenEuropaycomienzosdelacooperacion
+Sentence 2: PeaceinEuropeandthebeginningsofcooperation
+Alignment:
+P-aze-nEurop-a-ycomie--nzosdelacooperacion
+PeaceinEuropeandthebeginningsofcooperation
+------------------------------
+------------------------------
+Sentence 1: PazenEuropaycomienzosdelacooperacion
+Sentence 2: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Alignment:
+-Paze---nEur-opa----ycomi----e-n-zosdelacooperacio-n
+DerBeginnderZusammenarbeitfureinfried-lic--hesEuropa
+------------------------------
+------------------------------
+Sentence 1: PazenEuropaycomienzosdelacooperacion
+Sentence 2: PazenEuropaycomienzosdelacooperacion
+Alignment:
+PazenEuropaycomienzosdelacooperacion
+PazenEuropaycomienzosdelacooperacion
+------------------------------
+------------------------------
+Sentence 1: PazenEuropaycomienzosdelacooperacion
+Sentence 2: LapaceinEuropaegliinizidellacooperazione
+Alignment:
+--Paze-nEuropaycomien-zosde-lacooperacion-
+LapaceinEuropa-egliiniz-idellacooperazione
+------------------------------
+------------------------------
+Sentence 1: PazenEuropaycomienzosdelacooperacion
+Sentence 2: SiochainsanEoraipagustusanchomhair
+Alignment:
+----Pa--zenEuropaycomienzosdela-cooperacion
+SiochainsanE--ora----ipagustusancho-mha-i-r
+------------------------------
+------------------------------
+Sentence 1: PazenEuropaycomienzosdelacooperacion
+Sentence 2: LapaixenEuropeetlesdebutsdelacooperation
+Alignment:
+--Pa-zenEurop-aycomienzosdelacooperacion
+LapaixenEuropeetlesdebutsdelacooperation
+------------------------------
+------------------------------
+Sentence 1: LapaceinEuropaegliinizidellacooperazione
+Sentence 2: PeaceinEuropeandthebeginningsofcooperation
+Alignment:
+LapaceinEurop-a----egliinizidellacooperazione
+-PeaceinEuropeandthebegin-ningsofcooperation-
+------------------------------
+------------------------------
+Sentence 1: LapaceinEuropaegliinizidellacooperazione
+Sentence 2: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Alignment:
+Lapace-i-nEur-opa--e---gli-----inizidellacooperazione
+-DerBeginnderZusammenarbeitfureinfri-edlic--hesEuropa
+------------------------------
+------------------------------
+Sentence 1: LapaceinEuropaegliinizidellacooperazione
+Sentence 2: PazenEuropaycomienzosdelacooperacion
+Alignment:
+LapaceinEuropa-egliiniz-idellacooperazione
+--Paze-nEuropaycomien-zosde-lacooperacion-
+------------------------------
+------------------------------
+Sentence 1: LapaceinEuropaegliinizidellacooperazione
+Sentence 2: LapaceinEuropaegliinizidellacooperazione
+Alignment:
+LapaceinEuropaegliinizidellacooperazione
+LapaceinEuropaegliinizidellacooperazione
+------------------------------
+------------------------------
+Sentence 1: LapaceinEuropaegliinizidellacooperazione
+Sentence 2: SiochainsanEoraipagustusanchomhair
+Alignment:
+Lapac-ei---nEur-opaegliinizidella-cooperazione
+-SiochainsanEoraipa-g------ustusancho-mha-i--r
+------------------------------
+------------------------------
+Sentence 1: LapaceinEuropaegliinizidellacooperazione
+Sentence 2: LapaixenEuropeetlesdebutsdelacooperation
+Alignment:
+Lapa-ceinEuropaegl--iinizidellacooperazione
+Lapaixe-nEuropeetlesdebutsde-lacooperation-
+------------------------------
+------------------------------
+Sentence 1: SiochainsanEoraipagustusanchomhair
+Sentence 2: PeaceinEuropeandthebeginningsofcooperation
+Alignment:
+SiochainsanEoraip-a-------g--ustusancho-mha-i-r
+Peac-ei---nEur-opeandthebeginningsofcooperation
+------------------------------
+------------------------------
+Sentence 1: SiochainsanEoraipagustusanchomhair
+Sentence 2: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Alignment:
+SiochainsanEor---a--ipa-gust-u-san-------ch-----omhair
+DerBegin--nderZusammenarbeitfureinfriedlichesEuro-pa--
+------------------------------
+------------------------------
+Sentence 1: SiochainsanEoraipagustusanchomhair
+Sentence 2: PazenEuropaycomienzosdelacooperacion
+Alignment:
+SiochainsanE--ora----ipagustusancho-mha-i-r
+----Pa--zenEuropaycomienzosdela-cooperacion
+------------------------------
+------------------------------
+Sentence 1: SiochainsanEoraipagustusanchomhair
+Sentence 2: LapaceinEuropaegliinizidellacooperazione
+Alignment:
+-SiochainsanEoraipa-g------ustusancho-mha-i--r
+Lapac-ei---nEur-opaegliinizidella-cooperazione
+------------------------------
+------------------------------
+Sentence 1: SiochainsanEoraipagustusanchomhair
+Sentence 2: SiochainsanEoraipagustusanchomhair
+Alignment:
+SiochainsanEoraipagustusanchomhair
+SiochainsanEoraipagustusanchomhair
+------------------------------
+------------------------------
+Sentence 1: SiochainsanEoraipagustusanchomhair
+Sentence 2: LapaixenEuropeetlesdebutsdelacooperation
+Alignment:
+SiochainsanEoraip--agus--tu-s---ancho-mha-i-r
+--Lapai-xenEur-opeetlesdebutsdela-cooperation
+------------------------------
+------------------------------
+Sentence 1: LapaixenEuropeetlesdebutsdelacooperation
+Sentence 2: PeaceinEuropeandthebeginningsofcooperation
+Alignment:
+-LapaixenEurope--etlesde--butsdelacooperation
+Peacei--nEuropeandthe-beginningsofcooperation
+------------------------------
+------------------------------
+Sentence 1: LapaixenEuropeetlesdebutsdelacooperation
+Sentence 2: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Alignment:
+--Lapai--xenEu-rope----e-tlesdebutsde-lacooperatio-n
+DerBeginnderZusammenarbeit-fureinfriedlic--hesEuropa
+------------------------------
+------------------------------
+Sentence 1: LapaixenEuropeetlesdebutsdelacooperation
+Sentence 2: PazenEuropaycomienzosdelacooperacion
+Alignment:
+LapaixenEuropeetlesdebutsdelacooperation
+--Pa-zenEurop-aycomienzosdelacooperacion
+------------------------------
+------------------------------
+Sentence 1: LapaixenEuropeetlesdebutsdelacooperation
+Sentence 2: LapaceinEuropaegliinizidellacooperazione
+Alignment:
+Lapaixe-nEuropeetlesdebutsde-lacooperation-
+Lapa-ceinEuropaegl--iinizidellacooperazione
+------------------------------
+------------------------------
+Sentence 1: LapaixenEuropeetlesdebutsdelacooperation
+Sentence 2: SiochainsanEoraipagustusanchomhair
+Alignment:
+--Lapai-xenEur-opeetlesdebutsdela-cooperation
+SiochainsanEoraip--agus--tu-s---ancho-mha-i-r
+------------------------------
+------------------------------
+Sentence 1: LapaixenEuropeetlesdebutsdelacooperation
+Sentence 2: LapaixenEuropeetlesdebutsdelacooperation
+Alignment:
+LapaixenEuropeetlesdebutsdelacooperation
+LapaixenEuropeetlesdebutsdelacooperation
+------------------------------

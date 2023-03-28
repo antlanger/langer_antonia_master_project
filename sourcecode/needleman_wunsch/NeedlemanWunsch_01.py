@@ -1,12 +1,13 @@
 import numpy as np
-import pylab
-from scipy.cluster.hierarchy import linkage, dendrogram
+import os
+from scipy.cluster import hierarchy
 
 # Declare values to calculate scores
 gap_penalty = -1
 match_award = 1
 mismatch_penalty = -1
 
+'''
 language = [
     'Deutsch',
     'Englisch',
@@ -33,6 +34,7 @@ combinations = {
     'Italienisch':'Questa è vita',
     'Finnisch':'Tämä on elämää'   
 }
+'''
 
 def match_score(alpha, beta):
     if alpha == beta:
@@ -116,24 +118,34 @@ def needleman_wunsch(sequence_one, sequence_two):
     
     return (score, alignment_one, alignment_two)
 
-def scoring_matrix(languages):
+def scoring_matrix(languages, sentences, combinations, filename):
     scoring_matrix = np.zeros((len(languages),len(languages)))
 
     i = 0
+    f = open(os.path.abspath(os.curdir) + '/sourcecode/files/' + filename + ".txt", "w")
+    
     for x in languages:
         j = 0
         for y in languages:
-            print()
-            M, alignment1, alignment2 = needleman_wunsch(combinations.get(x), combinations.get(y)) 
-            print("----------------------------------------------------------------------")
-            print("ALIGNMENT OF ----> " + combinations.get(x) + " AND " + combinations.get(y) + " <----")
-            print(alignment1)
-            print(alignment2)
-            print("----------------------------------------------------------------------")
+            M, alignment1, alignment2 = needleman_wunsch(combinations.get(x), combinations.get(y))
+            f.write('------------------------------')
+            f.write("\n")
+            f.write('Sentence 1: ' + combinations.get(x))
+            f.write("\n")
+            f.write('Sentence 2: ' + combinations.get(y))
+            f.write("\n")
+            f.write('Alignment:')
+            f.write("\n")
+            f.write(alignment1)
+            f.write("\n")
+            f.write(alignment2)
+            f.write("\n")
+            f.write('------------------------------')
+            f.write("\n")
             scoring_matrix[i][j] = M[-1][-1]
             j = j + 1
         i = i + 1
- 
+    f.close()
     return scoring_matrix
 
 def get_matrix_max(matrix):
@@ -149,21 +161,22 @@ def get_matrix_max(matrix):
  
     return max_value
 
-def scoring_distance_matrix(scoring_matrix):
+def scoring_distance_matrix(scoring_matrix, languages):
  
     scoring_distance_matrix = np.zeros((len(scoring_matrix[0]), len(scoring_matrix[0])))
     maxR = get_matrix_max(scoring_matrix)
  
-    for i in range(0, len(language)):
-        for j in range(0, len(language)):
+    for i in range(0, len(languages)):
+        for j in range(0, len(languages)):
             scoring_distance_matrix[i][j] = abs(scoring_matrix[i][j] - maxR)
  
     return scoring_distance_matrix
 
-scoring = scoring_matrix(language)
-scoring_distance_matrix = scoring_distance_matrix(scoring)
-print(scoring)
-average = linkage(scoring_distance_matrix, "average")
-dendrogram(average, labels=language)
-pylab.subplots_adjust(bottom=0.1, left=0.2, right=1.0, top=1.0)
-pylab.savefig("dendro.jpg")
+
+# ------------------------------- START METHOD ------------------------------- #
+def start_needleman_wunsch(languages, sentences, combinations, filename="algorithm"):
+    scoring = scoring_matrix(languages, sentences, combinations, filename)
+    scoring_distance_matrix1 = scoring_distance_matrix(scoring, languages)
+    print(scoring)
+    average = hierarchy.linkage(scoring_distance_matrix1, "average")
+    return average
