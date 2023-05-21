@@ -1,21 +1,24 @@
 import requests
 import os
 from bs4 import BeautifulSoup
+import pandas as pd
 
 # --------------------------------- VARIABLES -------------------------------- #
-offical_languages = {
-    'English': 'en',
-    'German': 'de',
-    'Spanish': 'es',
-    'Italian': 'it',
-    'Gaelic': 'ga',
-    'French': 'fr'
-}
+#offical_languages = {
+#    'English': 'en',
+#    'German': 'de',
+#    'Spanish': 'es',
+#    'Italian': 'it',
+#    'Gaelic': 'ga',
+#    'French': 'fr'
+#}
+
+offical_languages_dataframe = pd.read_excel(r'./sourcecode/webscraper/Abbreviations.xlsx')
+offical_languages = dict(zip(offical_languages_dataframe['Language'], offical_languages_dataframe['Version 1']))
 
 
 # --------------------------------- SCRAPING --------------------------------- #
 def get_website_text(websiteUrl):
-    #print('### WEBSITE-NAME: ' + websiteUrl)
 
     page = requests.get(websiteUrl)
     soup = BeautifulSoup(page.content, "html.parser")
@@ -43,6 +46,7 @@ def get_website_text(websiteUrl):
 def start_scraping(filename="webscraper"):
     languageList = []
     sentenceList = []
+    languageAbbreviationList = []
     combinationDictionary = {}
 
     f = open(os.path.abspath(os.curdir) + '/sourcecode/files/' + filename + ".txt", "w")
@@ -52,6 +56,7 @@ def start_scraping(filename="webscraper"):
         text = get_website_text(url)
     
         languageList.append(language)
+        languageAbbreviationList.append(language_abbreviation)
         sentenceList.append(text[0])
         combinationDictionary[language] = text[0]
 
@@ -65,7 +70,7 @@ def start_scraping(filename="webscraper"):
         f.write("\n")
         
     f.close()
-    return languageList, sentenceList, combinationDictionary
+    return languageList, languageAbbreviationList, sentenceList, combinationDictionary
 
 
 

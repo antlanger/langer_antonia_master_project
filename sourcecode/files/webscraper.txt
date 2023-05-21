@@ -1,24 +1,88 @@
-https://european-union.europa.eu/principles-countries-history/history-eu_en
-English
-Peace in Europe and the beginnings of cooperation
+https://european-union.europa.eu/principles-countries-history/history-eu_bg
+Bulgarian
+Мир в Европа и начало на сътрудничеството
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_da
+Dansk
+Fred i Europa og samarbejdet begynder
 ---------
 https://european-union.europa.eu/principles-countries-history/history-eu_de
 German
 Der Beginn der Zusammenarbeit für ein friedliches Europa
 ---------
-https://european-union.europa.eu/principles-countries-history/history-eu_es
-Spanish
-Paz en Europa y comienzos de la cooperación
+https://european-union.europa.eu/principles-countries-history/history-eu_en
+English
+Peace in Europe and the beginnings of cooperation
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_et
+Estonian
+Rahu Euroopas ja koostöö algus
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_fi
+Finnish
+Rauhan aika Euroopassa – yhteistyö alkaa
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_fr
+French
+La paix en Europe et les débuts de la coopération
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_el
+Greek
+Ειρήνη στην Ευρώπη και απαρχές συνεργασίας
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_ga
+Irish
+Síocháin san Eoraip agus tús an chomhair
 ---------
 https://european-union.europa.eu/principles-countries-history/history-eu_it
 Italian
 La pace in Europa e gli inizi della cooperazione
 ---------
-https://european-union.europa.eu/principles-countries-history/history-eu_ga
-Gaelic
-Síocháin san Eoraip agus tús an chomhair
+https://european-union.europa.eu/principles-countries-history/history-eu_lv
+Latvian
+Miers Eiropā – sadarbības pirmsākumi
 ---------
-https://european-union.europa.eu/principles-countries-history/history-eu_fr
-French
-La paix en Europe et les débuts de la coopération
+https://european-union.europa.eu/principles-countries-history/history-eu_lt
+Lithuanian
+Taika Europoje ir bendradarbiavimo pradžia
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_nl
+Dutch
+Vrede in Europa en het begin van de samenwerking
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_pl
+Polish
+Pokój w Europie i początek współpracy
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_pt
+Portuguese
+A paz na Europa e os primórdios da cooperação
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_ro
+Romanian
+Pacea în Europa și începuturile cooperării
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_sv
+Swedish
+Fred i Europa och nytt samarbete
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_sk
+Slovak
+Mier v Európe a začiatky spolupráce
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_sl
+Slovenian
+Mir v Evropi in začetek sodelovanja
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_es
+Spanish
+Paz en Europa y comienzos de la cooperación
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_cs
+Czech
+Mírová Evropa – počátky spolupráce
+---------
+https://european-union.europa.eu/principles-countries-history/history-eu_hu
+Hungarian
+Békekötés Európában és az együttműködés kezdetei
 ---------

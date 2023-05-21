@@ -1,5 +1,8 @@
 import unidecode
 import string
+from simplemma import text_lemmatizer
+
+_ABBREVIATION = []
 
 def removeWhitespace(sentences):
     sentences = modifySentence(sentences, 'removeWhitespaces')
@@ -13,8 +16,12 @@ def removeSpecialCharacter(sentences):
     sentences = modifySentence(sentences, 'removeDiacritics')
     return sentences
 
+def wordNormalization(sentences):   
+    sentences = modifySentence(sentences, 'normalizeSentence')
+    return sentences
+    
 
-#def wordNormalization():
+
 #def toLower():
 
 def modifySentence(sentences, operation):
@@ -25,6 +32,10 @@ def modifySentence(sentences, operation):
             modifiedSentence = sentences[i].translate(str.maketrans('', '', string.punctuation))
         elif operation == 'removeDiacritics':
             modifiedSentence = unidecode.unidecode(sentences[i])
+        elif operation == 'normalizeSentence':
+            modifiedSentence = text_lemmatizer(sentences[i], lang=_ABBREVIATION[i])
+            modifiedSentence = ' '.join(modifiedSentence)
+            print(modifiedSentence)
         else:
             print('Nothing to do!')
 

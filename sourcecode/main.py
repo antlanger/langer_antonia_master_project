@@ -1,6 +1,7 @@
 import webscraper.Webscraper as webscraper
 import needleman_wunsch.NeedlemanWunsch_01 as algorithm
 import helpers.textprocessing as nlp
+
 import matplotlib.pyplot as plt
 from scipy.cluster import hierarchy
 import os
@@ -10,13 +11,14 @@ def main():
     print('STARTING ALGORITHM...')
     
     dendrogramData = []
-    languages, sentences, combinations = webscraper.start_scraping()
+    languages, languageAbb, sentences, combinations = webscraper.start_scraping()
     
     # Original
     dendrogramData.append(algorithm.start_needleman_wunsch(languages, sentences, combinations, filename="original"))
 
-    functions = [nlp.removeSpecialCharacter, nlp.removePunctuation, nlp.removeWhitespace]
-    filenames = ["removedDiacritics", "removedPunctuation", "removedWhitespace"]
+    functions = [nlp.wordNormalization, nlp.removeSpecialCharacter, nlp.removePunctuation, nlp.removeWhitespace]
+    filenames = ["wordNormalization", "removedDiacritics", "removedPunctuation", "removedWhitespace"]
+    nlp._ABBREVIATION = languageAbb
     
     i = 0
     for func in functions:
@@ -30,7 +32,7 @@ def main():
 
 # ------------------------------- PLOT CREATION ------------------------------ #
 def createPlot(data, languages):
-    fig, axes = plt.subplots(2, 2, figsize=(12, 8))
+    fig, axes = plt.subplots(3, 2, figsize=(12, 8))
     #print(axes)
     
     #original
@@ -43,6 +45,8 @@ def createPlot(data, languages):
                            orientation='top', labels=languages)
     # without whitespaces
     dn4 = hierarchy.dendrogram(data[3], ax=axes[1][1],
+                           orientation='top', labels=languages)
+    dn5 = hierarchy.dendrogram(data[4], ax=axes[2][0],
                            orientation='top', labels=languages)
     plt.savefig(os.path.abspath(os.curdir) + '/sourcecode/files/' + "dendrogramplt1.jpg")
     plt.show()
@@ -61,10 +65,3 @@ def replaceCombinations(languages, sentences, combinations):
 if __name__ == '__main__':
     main()
 
-
-
-
-# Execute NLP-Steps
-# Lemmatization
-# Normalization of diacritics and special characters
-# Removing white space

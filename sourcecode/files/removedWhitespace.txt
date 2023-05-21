@@ -1,252 +1,3388 @@
 ------------------------------
-Sentence 1: PeaceinEuropeandthebeginningsofcooperation
-Sentence 2: PeaceinEuropeandthebeginningsofcooperation
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: mirvEvropainachalonastrudnichestvo
 Alignment:
-PeaceinEuropeandthebeginningsofcooperation
-PeaceinEuropeandthebeginningsofcooperation
+mirvEvropainachalonastrudnichestvo
+mirvEvropainachalonastrudnichestvo
 ------------------------------
 ------------------------------
-Sentence 1: PeaceinEuropeandthebeginningsofcooperation
-Sentence 2: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: frediEuropaogsamarbejdebegynde
 Alignment:
-Peace-i-n---Eu-rope-a--ndthebegin-ningsofcooperatio-n
-DerBeginnderZusammenarbeitfure-infri-edlic--hesEuropa
+mir--vEvropainachalonastrudniche-stvo
+-frediEuropa--ogsa--ma--rbejdebegynde
 ------------------------------
 ------------------------------
-Sentence 1: PeaceinEuropeandthebeginningsofcooperation
-Sentence 2: PazenEuropaycomienzosdelacooperacion
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
 Alignment:
-PeaceinEuropeandthebeginningsofcooperation
-P-aze-nEurop-a-ycomie--nzosdelacooperacion
+-----mirvEvr-opa--ina---chalonastr-udnichestvo--
+derBeginnderZusammenarbeitfureinfriedlich-Europa
 ------------------------------
 ------------------------------
-Sentence 1: PeaceinEuropeandthebeginningsofcooperation
-Sentence 2: LapaceinEuropaegliinizidellacooperazione
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: peaceinEuropeandthebeginningofcooperation
 Alignment:
--PeaceinEuropeandthebegin-ningsofcooperation-
-LapaceinEurop-a----egliinizidellacooperazione
+----mirvEvrop-ainach--alonastrudniche-stvo-
+peacei-nEuropea-ndthebeginningofcooperation
 ------------------------------
 ------------------------------
-Sentence 1: PeaceinEuropeandthebeginningsofcooperation
-Sentence 2: SiochainsanEoraipagustusanchomhair
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: rahuEuroopajakoostooalgus
 Alignment:
-Peac-ei---nEur-opeandthebeginningsofcooperation
-SiochainsanEoraip-a-------g--ustusancho-mha-i-r
+mirvEvr-opainachalonastrudnichestvo
+rahuEuroop---a-jako-ost--ooalgus---
 ------------------------------
 ------------------------------
-Sentence 1: PeaceinEuropeandthebeginningsofcooperation
-Sentence 2: LapaixenEuropeetlesdebutsdelacooperation
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
 Alignment:
--Pea-ceinEuropeandthe-beginningsofcooperation
-Lapaixe-nEurope--etlesde--butsdelacooperation
+mirvEvropainachalo-na-strudnichestvo-----
+--r--auhaaikaEurooppayht---ei---styoalkaa
 ------------------------------
 ------------------------------
-Sentence 1: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
-Sentence 2: PeaceinEuropeandthebeginningsofcooperation
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: lepaixenEuropeetledebutdelecooperation
 Alignment:
-DerBeginnderZusammenarbeitfure-infri-edlic--hesEuropa
-Peace-i-n---Eu-rope-a--ndthebegin-ningsofcooperatio-n
+---mi-rvEvropainachal-onastrud-nic--he-stvo-
+lepaixenEurop----eetledebut--delecooperation
 ------------------------------
 ------------------------------
-Sentence 1: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
-Sentence 2: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
 Alignment:
-DerBeginnderZusammenarbeitfureinfriedlichesEuropa
-DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+mir------vEvrop--ainachalonastrudnichestvo
+eirenestenEuropekai-a-parkhes--u-nergas-ia
 ------------------------------
 ------------------------------
-Sentence 1: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
-Sentence 2: PazenEuropaycomienzosdelacooperacion
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: siochainsanEoraipagustusancomhair
 Alignment:
-DerBeginnderZusammenarbeitfurein-friedlic--hesEuropa
--Paze---nEur-opa----ycomi----e-nzosde-lacooperacio-n
+mirvEvro-pain-a--chalona--stru-dnichestvo
+si-----ochainsanEora-ipagust-usan-comhair
 ------------------------------
 ------------------------------
-Sentence 1: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
-Sentence 2: LapaceinEuropaegliinizidellacooperazione
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
 Alignment:
--DerBeginnderZusammenarbeitfureinfri-edlic--hesEuropa
-Lapace-i-nEur-opa--e---gli-----inizidellacooperazione
+mi-----rvEvropa---in-----achalonastrudnichestvo
+-ilpaceinEuropaeiliniziodellaco-oper-azione----
 ------------------------------
 ------------------------------
-Sentence 1: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
-Sentence 2: SiochainsanEoraipagustusanchomhair
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: miersEiropasadarbibaspirmsakums
 Alignment:
-DerBegin--nderZusammenarbeitfureinfriedlich-esEuropa
-SiochainsanEor---a--ipa-gust-u-san-------chomhair---
+mi-rvEvropainacha-lonas-trudnichestvo
+miersEiropa-sa-darbibaspir-msakums---
 ------------------------------
 ------------------------------
-Sentence 1: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
-Sentence 2: LapaixenEuropeetlesdebutsdelacooperation
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
 Alignment:
-DerBeginnderZusammenarbeit-fureinfriedlic--hesEuropa
---Lapai--xenEu-rope----e-tlesdebutsde-lacooperatio-n
+-mirvEvropai---n----a-chalonastrudnichestvo
+taikaEuropairbendradarbiavimaspradzi------a
 ------------------------------
 ------------------------------
-Sentence 1: PazenEuropaycomienzosdelacooperacion
-Sentence 2: PeaceinEuropeandthebeginningsofcooperation
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
 Alignment:
-P-aze-nEurop-a-ycomie--nzosdelacooperacion
-PeaceinEuropeandthebeginningsofcooperation
+----mirvEvropain-achalon-a---strudniche-stvo
+vredei-nEuropaenhetbeginvandes-amen--werking
 ------------------------------
 ------------------------------
-Sentence 1: PazenEuropaycomienzosdelacooperacion
-Sentence 2: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: pokojwEuropaipoczatekwspolpraca
 Alignment:
--Paze---nEur-opa----ycomi----e-n-zosdelacooperacio-n
-DerBeginnderZusammenarbeitfureinfried-lic--hesEuropa
+--mirvEvropainachalonastrudnichestvo
+pokojwEuropaipoczatekwspolprac-----a
 ------------------------------
 ------------------------------
-Sentence 1: PazenEuropaycomienzosdelacooperacion
-Sentence 2: PazenEuropaycomienzosdelacooperacion
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: opazoeuropaeoprimordiodacooperacao
 Alignment:
-PazenEuropaycomienzosdelacooperacion
-PazenEuropaycomienzosdelacooperacion
+-mirvEvropainachalonastrudni---c--he-stvo
+opazoeuropa-eoprimo----r-d-iodacooperacao
 ------------------------------
 ------------------------------
-Sentence 1: PazenEuropaycomienzosdelacooperacion
-Sentence 2: LapaceinEuropaegliinizidellacooperazione
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: paceinEuropasiinceputcooperare
 Alignment:
---Paze-nEuropaycomien-zosde-lacooperacion-
-LapaceinEuropa-egliiniz-idellacooperazione
+---mirvEvropa--inachalonastrudnichestvo
+pacei-nEuropasiin-c-------eputcooperare
 ------------------------------
 ------------------------------
-Sentence 1: PazenEuropaycomienzosdelacooperacion
-Sentence 2: SiochainsanEoraipagustusanchomhair
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: fredaiEuropaochnyttasamarbete
 Alignment:
-----Pa--zenEuropaycomienzosdela-cooperacion
-SiochainsanE--ora----ipagustusancho-mha-i-r
+mir---vEvropainachalonastrudnichestvo
+-fredaiEuropa--och---nyttasamarbe-t-e
 ------------------------------
 ------------------------------
-Sentence 1: PazenEuropaycomienzosdelacooperacion
-Sentence 2: LapaixenEuropeetlesdebutsdelacooperation
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: miervEuropaazaciatokspolupraca
 Alignment:
---Pa-zenEurop-aycomienzosdelacooperacion
-LapaixenEuropeetlesdebutsdelacooperation
+mi-rvEvropainachalonas-trudnichestvo
+miervEuropaazaciato-kspoluprac-----a
 ------------------------------
 ------------------------------
-Sentence 1: LapaceinEuropaegliinizidellacooperazione
-Sentence 2: PeaceinEuropeandthebeginningsofcooperation
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: mirvEvropainzaceteksodelovanje
 Alignment:
-LapaceinEurop-a----egliinizidellacooperazione
--PeaceinEuropeandthebegin-ningsofcooperation-
+mirvEvropain-achalonastrudnichestv---o
+mirvEvropainzac--eteks--od----elovanje
 ------------------------------
 ------------------------------
-Sentence 1: LapaceinEuropaegliinizidellacooperazione
-Sentence 2: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: pazeneuropaycomienzodeelcooperacion
 Alignment:
-Lapace-i-nEur-opa--e---gli-----inizidellacooperazione
--DerBeginnderZusammenarbeitfureinfri-edlic--hesEuropa
+-mirvEvropainachalonastrud-nic--he-stvo-
+pazeneuropa--yc---omienzodeelcooperacion
 ------------------------------
 ------------------------------
-Sentence 1: LapaceinEuropaegliinizidellacooperazione
-Sentence 2: PazenEuropaycomienzosdelacooperacion
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: mirovyEvropapocatekspoluprace
 Alignment:
-LapaceinEuropa-egliiniz-idellacooperazione
---Paze-nEuropaycomien-zosde-lacooperacion-
+mir-v-Evropainachalonas-trudnichestvo
+mirovyEvropa-poc-a-tekspoluprac-e----
 ------------------------------
 ------------------------------
-Sentence 1: LapaceinEuropaegliinizidellacooperazione
-Sentence 2: LapaceinEuropaegliinizidellacooperazione
+Sentence 1: mirvEvropainachalonastrudnichestvo
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
 Alignment:
-LapaceinEuropaegliinizidellacooperazione
-LapaceinEuropaegliinizidellacooperazione
+-----mirvEvropainachalonastru--dniche--stvo
+bekekotesEuropaesa--zegyuttmukod-eskezdetei
 ------------------------------
 ------------------------------
-Sentence 1: LapaceinEuropaegliinizidellacooperazione
-Sentence 2: SiochainsanEoraipagustusanchomhair
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: mirvEvropainachalonastrudnichestvo
 Alignment:
-Lapac-ei---nEur-opaegliinizidella-cooperazione
--SiochainsanEoraipa-g------ustusancho-mha-i--r
+-frediEuropa--ogsa--ma--rbejdebegynde
+mir--vEvropainachalonastrudniche-stvo
 ------------------------------
 ------------------------------
-Sentence 1: LapaceinEuropaegliinizidellacooperazione
-Sentence 2: LapaixenEuropeetlesdebutsdelacooperation
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: frediEuropaogsamarbejdebegynde
 Alignment:
-Lapa-ceinEuropaegl--iinizidellacooperazione
-Lapaixe-nEuropeetlesdebutsde-lacooperation-
+frediEuropaogsamarbejdebegynde
+frediEuropaogsamarbejdebegynde
 ------------------------------
 ------------------------------
-Sentence 1: SiochainsanEoraipagustusanchomhair
-Sentence 2: PeaceinEuropeandthebeginningsofcooperation
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
 Alignment:
-SiochainsanEoraip-a-------g--ustusancho-mha-i-r
-Peac-ei---nEur-opeandthebeginningsofcooperation
+-fr-ediEuropaogsa-m--arbe-jdebegyn----d---------e
+derBegi-nnderZusammenarbeitfure-infriedlichEuropa
 ------------------------------
 ------------------------------
-Sentence 1: SiochainsanEoraipagustusanchomhair
-Sentence 2: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: peaceinEuropeandthebeginningofcooperation
 Alignment:
-SiochainsanEor---a--ipa-gust-u-san-------ch-----omhair
-DerBegin--nderZusammenarbeitfureinfriedlichesEuro-pa--
+fre--di-Europ-aogsamarbe-jdebeg---ynde------
+-peaceinEuropea--ndthebeginningofcooperation
 ------------------------------
 ------------------------------
-Sentence 1: SiochainsanEoraipagustusanchomhair
-Sentence 2: PazenEuropaycomienzosdelacooperacion
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: rahuEuroopajakoostooalgus
 Alignment:
-SiochainsanE--ora----ipagustusancho-mha-i-r
-----Pa--zenEuropaycomienzosdela-cooperacion
+frediEur-opaogsamarbejdebegynde
+-rahuEuroopa--ja-koostooalg--us
 ------------------------------
 ------------------------------
-Sentence 1: SiochainsanEoraipagustusanchomhair
-Sentence 2: LapaceinEuropaegliinizidellacooperazione
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
 Alignment:
--SiochainsanEoraipa-g------ustusancho-mha-i--r
-Lapac-ei---nEur-opaegliinizidella-cooperazione
+fr---edi--Europaogsamarbejdebegynde
+-rauhaaikaEuro--oppa-yhteistyoalkaa
 ------------------------------
 ------------------------------
-Sentence 1: SiochainsanEoraipagustusanchomhair
-Sentence 2: SiochainsanEoraipagustusanchomhair
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: lepaixenEuropeetledebutdelecooperation
 Alignment:
-SiochainsanEoraipagustusanchomhair
-SiochainsanEoraipagustusanchomhair
+fre-di---Europaogsamarbejdebegynde------
+-lepaixenEurop-eetledebutdelecooperation
 ------------------------------
 ------------------------------
-Sentence 1: SiochainsanEoraipagustusanchomhair
-Sentence 2: LapaixenEuropeetlesdebutsdelacooperation
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
 Alignment:
-SiochainsanEoraip--agus--tu-s---ancho-mha-i-r
---Lapai-xenEur-opeetlesdebutsdela-cooperation
+-fr--e--diEuropaogsamar-be-jdebegynde
+eirenestenEuropekaiaparkhesune-rgasia
 ------------------------------
 ------------------------------
-Sentence 1: LapaixenEuropeetlesdebutsdelacooperation
-Sentence 2: PeaceinEuropeandthebeginningsofcooperation
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: siochainsanEoraipagustusancomhair
 Alignment:
--LapaixenEurope--etlesde--butsdelacooperation
-Peacei--nEuropeandthe-beginningsofcooperation
+--fredi----Eur-opaog-s-amarbejdebegynde
+siochainsanEoraipa-gustusa-----ncomhair
 ------------------------------
 ------------------------------
-Sentence 1: LapaixenEuropeetlesdebutsdelacooperation
-Sentence 2: DerBeginnderZusammenarbeitfureinfriedlichesEuropa
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
 Alignment:
---Lapai--xenEu-rope----e-tlesdebutsde-lacooperatio-n
-DerBeginnderZusammenarbeit-fureinfriedlic--hesEuropa
+---fredi-Europa--------ogsamarbejde-begynde
+ilpace-inEuropaeiliniziodella-cooperazion-e
 ------------------------------
 ------------------------------
-Sentence 1: LapaixenEuropeetlesdebutsdelacooperation
-Sentence 2: PazenEuropaycomienzosdelacooperacion
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: miersEiropasadarbibaspirmsakums
 Alignment:
-LapaixenEuropeetlesdebutsdelacooperation
---Pa-zenEurop-aycomienzosdelacooperacion
+frediEuropaogsamar--b-ejdebegynde
+miersEiropa--sadarbibaspirmsakums
 ------------------------------
 ------------------------------
-Sentence 1: LapaixenEuropeetlesdebutsdelacooperation
-Sentence 2: LapaceinEuropaegliinizidellacooperazione
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
 Alignment:
-Lapaixe-nEuropeetlesdebutsde-lacooperation-
-Lapa-ceinEuropaegl--iinizidellacooperazione
+frediEuropa----ogsamarb-ejdebegynd--e
+taikaEuropairbendradarbiavimaspradzia
 ------------------------------
 ------------------------------
-Sentence 1: LapaixenEuropeetlesdebutsdelacooperation
-Sentence 2: SiochainsanEoraipagustusanchomhair
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
 Alignment:
---Lapai-xenEur-opeetlesdebutsdela-cooperation
-SiochainsanEoraip--agus--tu-s---ancho-mha-i-r
+fred-i-Europa------ogsamarbe-jde-be-gynde
+vredeinEuropaenhetbeginvandesamenwerkin-g
 ------------------------------
 ------------------------------
-Sentence 1: LapaixenEuropeetlesdebutsdelacooperation
-Sentence 2: LapaixenEuropeetlesdebutsdelacooperation
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: pokojwEuropaipoczatekwspolpraca
 Alignment:
-LapaixenEuropeetlesdebutsdelacooperation
-LapaixenEuropeetlesdebutsdelacooperation
+-frediEuropaogsamarbe-jdebegynde
+pokojwEuropaipocza-tekwspolpraca
+------------------------------
+------------------------------
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+frediEuropa-ogsamarbejd---ebegynde
+opazoeuropaeoprimordiodacooperacao
+------------------------------
+------------------------------
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+-fredi-Europaogsamarbe---jdebegynde
+pace-inEuropa--s-iinceputcoope-rare
+------------------------------
+------------------------------
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+fred-iEuropao------gsamarbejdebegynde
+fredaiEuropaochnyttasamar-----be---te
+------------------------------
+------------------------------
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+frediEuropaogsa-marbejdebegynde
+miervEuropa-azaciatokspolupraca
+------------------------------
+------------------------------
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+-frediEuropaogsamarbe--jdebegynde
+mir--vEvropainza-ceteksodelovanje
+------------------------------
+------------------------------
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+-frediEuropaogsamarbejdebe-gynde------
+paze-neuropa-ycomienzode-elcooperacion
+------------------------------
+------------------------------
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+-frediEuropa-ogsamarbe-jdebegynde
+mirovyEvropapo---ca-tekspoluprace
+------------------------------
+------------------------------
+Sentence 1: frediEuropaogsamarbejdebegynde
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+-fre---diEuropaogsa-----marbejde-begynde-
+bekekotesEuropa-esazegyuttmukodeskezdetei
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+derBeginnderZusammenarbeitfureinfriedlich-Europa
+-----mirvEvr-opa--ina---chalonastr-udnichestvo--
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+derBegi-nnderZusammenarbeitfure-infriedlichEuropa
+-fr-ediEuropaogsa-m--arbe-jdebegyn----d---------e
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+derBeginnderZusammenarbeitfureinfriedlichEuropa
+derBeginnderZusammenarbeitfureinfriedlichEuropa
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+derBeginnderZusammenarbeitfure-infriedlic-hEur---opa
+peace-i-n---Eu-rope-a--ndthebegin-ningofcooperatio-n
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+derBeginnderZusammenarbeitfureinfriedlichEuropa
+--r---ahuEuroopa---jakoost--------ooal---gu---s
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+derBeginnderZusammenarbei-tfureinfriedli-chEuropa
+-----------rauha----a---ikaEurooppayhteistyoalkaa
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+derBeginnderZusammenarbeitfureinfriedlic-hEur---opa
+le--pai--xenEu-rope----e-tlede-butde-lecooperatio-n
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+de-rBeginnderZusammen-ar-be--itfur--e-infriedlichEuropa
+-eir-e---n-e---s--tenEuropekaiaparkhesuner-gasi-------a
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+derBegin--nderZusammenarbeitfureinfriedlichEuropa
+siochainsanEor---a--ipa-gust-u-san-----comhair---
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+-derBeginnderZusammenarbeitfureinfri--edlic-hEur---opa
+ilpace-i-n---Eu---ropa--ei----liniziodellacooperazione
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+-derBeginnder-ZusammenarbeitfureinfriedlichEuropa
+mier-sEi----ropasa---darb-i-baspi--r----msaku--ms
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+derBeginnderZusammenarbeitfureinfr-iedlichEur--opa
+----taikaEur-opa----irbe--ndr-adarbi-avimaspradzia
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+derBe-ginnderZusammenarbeitfure-in-friedlichEur-opa
+-vr-edei-nEur-opa--en--he-t--beginvandesamenwerking
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+derBeginnderZusa-mmenarbeitfureinfriedlichEuropa
+---pokojwEur-opaipocza----t---e--kwspol----praca
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+-derBeginnderZusammenarbeitfureinfriedlic-hEuropa-
+opazoe-----ur-opa--eopr--i-mor----diod-acooperacao
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+derBeginnderZusammenarbeitfureinfriedlichEurop--a--
+-pace-i-n---Eu---ropa--si-----in--ceputc---ooperare
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+derBe-ginnderZusammenarbeitfureinfriedlichEuropa
+-fr-edai--Eur-opaochn----yt-tasamarbe---------te
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+derBeginnder-Zusammenarbei-tfureinfriedlichEu-ropa
+-----mi---ervEu--ropaazaciat------okspol----upraca
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+derBeginnderZusammen-arbeitfureinfriedlichEuropa---
+-----mirvEvr-opa--inza-ce-t---e-ksode-l------ovanje
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+derBeginnde-rZusa---mmenarbeitfureinfriedlichEuropa
+-paze---n-eur-opaycomienzode-----elcoope-rac---io-n
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+derBeginnderZusammenarbeitfureinfriedlichEu-ropa
+mir---ovyEvr-opa-poca----t---e---kspol----uprace
+------------------------------
+------------------------------
+Sentence 1: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+derBeginnderZusammenarbe---itfu--reinfriedlichEuropa
+be-ke--kotesEuropaesa-zegyuttmukodeskezdetei--------
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+peacei-nEuropea-ndthebeginningofcooperation
+----mirvEvrop-ainach--alonastrudniche-stvo-
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+-peaceinEuropea--ndthebeginningofcooperation
+fre--di-Europ-aogsamarbe-jdebeg---ynde------
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+peace-i-n---Eu-rope-a--ndthebegin-ningofcooperatio-n
+derBeginnderZusammenarbeitfure-infriedlic-hEur---opa
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+peaceinEuropeandthebeginningofcooperation
+peaceinEuropeandthebeginningofcooperation
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+peaceinEur-opeandthebeginningofcooperation
+-ra--huEuroop-a----------jakoostoo---algus
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+pea--cei-nEur-opeandthebeginningofcooperation
+-rauhaaikaEurooppa--yh-te----i---styo---alkaa
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+pe-a-ceinEuropeandthebeginningofcooperation
+lepaixe-nEurope--etlede--butdelecooperation
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+pe--ace--inEurope-a-ndthebeginningofcooper-ation
+-eirenestenEuropekaiaparkhe---sun-------ergasi-a
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+peac-ei---nEur-opea-ndthebeginningofcooperation
+siochainsanEoraip-agust------usan---c-o-mha-i-r
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+--peaceinEuropeandthebeginningo----fcooperation-
+ilp-aceinEurop-a----e-ili-niziodellacooperazione
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+peaceinEuropea-ndthebeginningofcooper--ation
+--miersEirop-asad-arb-----i----baspirmsakums
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+peacei-nEurop----eandthebeginningofcoopera-tion
+-ta--ikaEuropairbe-ndradarbiavi----masp-radzi-a
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+-peaceinEurop-eandthe-beginnin-gofcooperation-
+vre-deinEuropae-n--hetbeginvandesamenwer-ki-ng
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+peaceinEuropea-ndthebeginningofcooperation
+p-okojwEurop-aipoczate------kwspolp-ra--ca
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+-pea-ceinEuropeandthebeginningo-fcooperation
+op-azoe---urop-a----eoprimordiodacooperacao-
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+peaceinEuropeandthebeginningofcooperation
+p-aceinEurop-a-------siinceputcoopera--re
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+-pe-aceinEuropeandthebeginningofcooperation
+freda--i-Europ-a-och-----nyttasamarbe--t--e
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+peaceinEuropeandthebeginningo-fco-operation
+--miervEurop-a-------azaciatokspolup-ra--ca
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+peacei-nEuropea-ndthebeginningofcooperation
+----mirvEvrop-ainzacete-----ksodelo--va-nje
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+peaceinEuropeandthebeginningofcooperation
+p-aze-neurop-a-ycomie--nzodeelcooperacion
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+peaceinEuropeandthebeginningofcooperation
+-mirovyEvrop-a-pocate----kspo--lup-ra--ce
+------------------------------
+------------------------------
+Sentence 1: peaceinEuropeandthebeginningofcooperation
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+peace---inEuropeandthebeg-inningofcoope-rat-ion
+be-kekotesEurop-a--esazegyuttmuko-deskezdetei--
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+rahuEuroop---a-jako-ost--ooalgus---
+mirvEvr-opainachalonastrudnichestvo
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+-rahuEuroopa--ja-koostooalg--us
+frediEur-opaogsamarbejdebegynde
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+--r---ahuEuroopa---jakoost--------ooal---gu---s
+derBeginnderZusammenarbeitfureinfriedlichEuropa
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+-ra--huEuroop-a----------jakoostoo---algus
+peaceinEur-opeandthebeginningofcooperation
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+rahuEuroopajakoostooalgus
+rahuEuroopajakoostooalgus
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+ra-h----uEuroo-pajakoostooalgus
+rauhaaikaEurooppayhteistyoalkaa
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+--ra--huEuroop--ajakoost-----oo---algus
+lepaixenEur-opeetledebutdelecooperation
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+--r----ahuEuroop----aja-koostooalgus--
+eirenestenEur-opekaiaparkhes-unergasia
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+----ra---huEuroopajakoos-tooalgus
+siochainsanEoraipagustusancomhair
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+--ra--huEuroopa-----jako---ostoo---a-lgus
+ilpaceinEur-opaeiliniziodellacooperazione
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+-rahuEuroop--aja--koos--tooalgu-s
+miersEir-opasadarbibaspirmsa-kums
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+ra-huEuroop----------a--ja-koostooalgus
+taikaEur-opairbendradarbiavimas-pradzia
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+-r--ahuEuroopa----------jakoos---tooalgus
+vredeinEur-opaenhetbeginvandesamenwerking
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+--rahuEuroopa----ja--koostooalgus
+pokojwEur-opaipoczatek-wspolpraca
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+-rahuEuro---opajako---o-stoo---algus
+opazoeuropaeop-rimordiodacoopera-cao
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+ra--huEuroopa--jakoost-oo-algus
+paceinEur-opasiinceputcooperare
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+-r--ahuEuroopajakoost--ooa-lgus
+freda-iEur-opaochnyttasamarbete
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+-rahuEuroop---a-jakoostooalgu----s
+miervEur-opaazaciatoks-po-l-upraca
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+rahuEuroopa--ja----k-oostooalgus
+mirvEvr-opainzaceteksodelova-nje
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+ra-huEuroopajako-----o---stoo---algus
+pazeneur-opa-ycomienzodeelcooperacion
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+--rahuEuroopa--jakoostooalgu----s
+mirovyEvr-opapocateks-po-l-uprace
+------------------------------
+------------------------------
+Sentence 1: rahuEuroopajakoostooalgus
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+-----rahuEuroopa-ja---------ko-ostooalgus
+bekekotesEur-opaesazegyuttmukodeskezdetei
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+--r--auhaaikaEurooppayht---ei---styoalkaa
+mirvEvropainachalo-na-strudnichestvo-----
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+-rauhaaikaEuro--oppa-yhteistyoalkaa
+fr---edi--Europaogsamarbejdebegynde
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+-----------rauha----a---ikaEurooppayhteistyoalkaa
+derBeginnderZusammenarbei-tfureinfriedli-chEuropa
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+-rauhaaikaEurooppa--yh-te----i---styo---alkaa
+pea--cei-nEur-opeandthebeginningofcooperation
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+rauhaaikaEurooppayhteistyoalkaa
+ra-h----uEuroo-pajakoostooalgus
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+rauhaaikaEurooppayhteistyoalkaa
+rauhaaikaEurooppayhteistyoalkaa
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+rauhaai-kaEuroop-----payht-eistyo---alkaa
+--lepaixenEur-opeetledebutdelecooperation
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+--rauhaaikaEuroop-----pa-yhteis--tyoalkaa
+eir-enestenEur-opekaiaparkh-e-sunerga-sia
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+-rauhaai-ka-Eurooppa-yhteis-tyoalka-a
+sioch-ainsanEor-aipagust-usanco-mhair
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+rauha-aikaEurooppayhtei-styo-alka------a-----
+-ilpacei-nEur-o-pa-eiliniziodellacooperazione
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+rauhaai-kaEuroop-payhtei--s--tyoalk-aa
+-----miersEir-opasadarbibaspirmsa-kums
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+rauhaaikaEurooppayhte--------istyoa-lka---a
+----taikaEur-o-pairbendradarbiavimaspradzia
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+-rauhaaikaEurooppa-yh-t-e-i------s--tyoalk-aa
+vr--edei-nEur-o-paenhetbeginvandesamenwerking
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+rauhaaikaEuroop--p-ayhte-istyoal-ka-a
+---pokojwEur-opaipoczatekws-po-lpraca
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+rauhaaikaEuro---oppayhtei--styoalka-a-
+---opa-zoeuropaeoprimordiodacooperacao
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+rauhaaikaEurooppa--yhteist-yoalka-a
+pa--cei-nEur-o-pasiinceputcooperare
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+-rauhaaikaEurooppa-yh--teistyoa-lkaa
+fr--edai--Eur-o-paochnyttas-amarbete
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+rauhaai-kaEurooppayhteistyo---al--ka-a
+-----miervEur-o-paazaciat-okspolupraca
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+rauhaaikaEuroop---payhteistyo-al-ka--a
+-----mirvEvr-opainzaceteks--odelovanje
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+rauhaaikaEurooppayhteistyo--al-----ka---a
+----pazeneur-o-paycomienzodeelcooperacion
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+rauhaaikaEuroop-payhteistyoal--ka-a
+---mirovyEvr-opapocateks-po-luprace
+------------------------------
+------------------------------
+Sentence 1: rauhaaikaEurooppayhteistyoalkaa
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+rauhaaikaEuroop--pa---y-ht-----eistyoalkaa
+bekekotesEur-opaesazegyuttmukode-skezdetei
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+lepaixenEurop----eetl--edebutdelecooperation
+---mi-rvEvropainachalonastru-d-nic--he-stvo-
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+-lepaixenEurop-eetledebutdelecooperation
+fre-di---Europaogsamarbejdebegynde------
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+le--pai--xenEu-rope----e-tlede-butde-lecooperatio-n
+derBeginnderZusammenarbeitfureinfriedlic-hEur---opa
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+lepaixe-nEurope--etlede--butdelecooperation
+pe-a-ceinEuropeandthebeginningofcooperation
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+lepaixenEur-opeetledebutdelecooperation
+--ra--huEuroop--ajakoost-----oo---algus
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+--lepaixenEur-opeetledebutdelecooperation
+rauhaai-kaEuroop-----payht-eistyo---alkaa
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+lepaixenEuropeetledebutdelecooperation
+lepaixenEuropeetledebutdelecooperation
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+--lepaixenEuropeetledebutdelecooper-ation
+eirenestenEurop-e--kaiaparkhe-sunergasi-a
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+--lepai-xenEur-opeetledebu-tdelecooperation
+siochainsanEoraip------agustusanc-o-mha-i-r
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+-lepaixe-nEuropeetledebutde-lecooperation-
+il-pa-ceinEuropaeiliniziodellacooperazione
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+lepaixe-nEuropeetled-ebutdelecooper--ation
+---mi-ersEirop--asadarb-----ibaspirmsakums
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+lepaixenEuropeetle-d--ebutdelecoopera-tion
+--tai-kaEuropairbendradarbiavimasp-radzi-a
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+-lepaixenEurop-e--etle-debutdelecooperation-
+vredei--nEuropaenhetbeginvandesamenwer-ki-ng
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+lepaixenEuropeetledebutde-lecooperation
+--pokojwEurop--aipoczat-ekwspolp-ra--ca
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+lepaixenEuropeetledebutd-elecooperation
+-opazoe--uropae-oprimordiodacooperacao-
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+lepaixe-nEuropeetledebutdelecooperation
+--pa-ceinEuropasiinceput----coopera--re
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+-lepaixenEuropeetledebutdelecooperation
+fredai---Europ---aochnyttasamarbe--t--e
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+lepaixe-nEuropeetledebutdeleco-operation
+---mi-ervEurop--aazaciat-okspolup-ra--ca
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+lepaixenEurop--eetledebutdelecooperation
+---mi-rvEvropainzaceteksodel---o--va-nje
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+lepaixenEuropeetledebutd-elecooperation
+--pa-zeneuropaycomienzodeel-cooperacion
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+lepai-xenEuropeetledebutdeleco-operation
+---mirovyEvrop----apocat-ekspolup-ra--ce
+------------------------------
+------------------------------
+Sentence 1: lepaixenEuropeetledebutdelecooperation
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+le-paixenEurop-eetledebu-t----de-lecooperat-ion
+bekekotesEuropaesaze-gyuttmukodeske--zde--tei--
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+eirenestenEuropekai-a-parkhes--u-nergas-ia
+mir------vEvrop--ainachalonastrudnichestvo
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+eirenestenEuropekaiaparkhesune-rgasia
+-fr--e--diEuropaogsamar-be-jdebegynde
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+-eir-e---n-e---s--tenEuropekaiaparkhesuner-gasi-------a
+de-rBeginnderZusammen-ar-be--itfur--e-infriedlichEuropa
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+-eirenestenEuropekaiaparkhe---sun-------ergasi-a
+pe--ace--inEurope-a-ndthebeginningofcooper-ation
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+eirenestenEur-opekaiaparkhes-unergasia
+--r----ahuEuroop----aja-koostooalgus--
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+eir-enestenEur-opekaiaparkh-e-sunerga-sia
+--rauhaaikaEuroop-----pa-yhteis--tyoalkaa
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+eirenestenEurop-e--kaiaparkhe-sunergasi-a
+--lepaixenEuropeetledebutdelecooper-ation
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+eirenestenEuropekaiaparkhesunergasia
+eirenestenEuropekaiaparkhesunergasia
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+ei---renestenEuropekaiapa-rkhesun-ergasia
+siochain-s-anE--o--rai-pagustusancomha-ir
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+ei-renestenEurop-ekaiaparkhe----sunergasi--a
+-ilpace--inEuropaeiliniziodellacooper-azione
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+eirenestenEuropekaiapar-khesuner-ga-sia
+mi-e-rs---Eirop--asadarbibas-pirmsakums
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+-eirenestenEurop----ekaiapar--khesunerga-sia
+tai------kaEuropairbendradarbiavimaspr-adzia
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+eirenestenEurop----e--kaiaparkhes--un-ergasi-a
+-vrede--inEuropaenhetbeginva-ndesamenwer--king
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+eirenestenEuropekaiap---a-rkhes-unergasia
+----pokojwEurop--ai-poczatek-wspolpr-a-ca
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+eirenestenEurop-e-kaiapar---khesunergasia-
+---opazoe--uropaeopri-mordiodacooper-a-cao
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+eirenestenEuropeka-iaparkhesu----nergasia
+--pace--inEurop--asi---inceputcooper-a-re
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+eirenestenEuropekaiaparkhesunergasia
+-fr--e-daiEurop--aochnyttasamar-bete
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+eirenestenEurop-eka-iapark-hesunergasia
+mi---e--rvEuropaazacia-tokspolu-pr-a-ca
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+eirenestenEuropekaiaparkhe-sune-rgasia
+mir------vEvrop--ainzaceteksodelovanje
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+eirenestenEurop--ekaiaparkhe--sunergasi-a
+pazen---e--uropaycomienzodeelcooper-acion
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+eirenestenEuropekaiapa-rk-hesunergasia
+mir----ovyEvrop--apocatekspolu-pr-a-ce
+------------------------------
+------------------------------
+Sentence 1: eirenestenEuropekaiaparkhesunergasia
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+-eirenestenEurop-eka----iapark-hesune-rgasia
+be-ke-kotesEuropaesazegyuttmukodes-kezdetei-
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+si-----ochainsanEora-ipagust-usan-comhair
+mirvEvro-pain-a--chalona--stru-dnichestvo
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+siochainsanEoraipa-gustusa-----ncomhair
+--fredi----Eur-opaog-s-amarbejdebegynde
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+siochainsanEor---a--ipa-gust-u-san-----comhair---
+derBegin--nderZusammenarbeitfureinfriedlichEuropa
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+siochainsanEoraip-agust------usan---c-o-mha-i-r
+peac-ei---nEur-opea-ndthebeginningofcooperation
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+siochainsanEoraipagustusancomhair
+----ra---huEuroopajakoos-tooalgus
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+sioch-ainsanEor-aipagust-usanco-mhair
+-rauhaai-ka-Eurooppa-yhteis-tyoalka-a
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+siochainsanEoraip------agustusanc-o-mha-i-r
+--lepai-xenEur-opeetledebu-tdelecooperation
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+siochain-s-anE--o--rai-pagustusancomha-ir
+ei---renestenEuropekaiapa-rkhesun-ergasia
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+siochainsanEoraipagustusancomhair
+siochainsanEoraipagustusancomhair
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+si--ochainsanEora---i-pagustusanc-o-mha-i--r
+-ilpac-ein-Europaeiliniziodella-cooperazione
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+----s-i-ochainsanEoraipagustusancomhair
+miersEiro-pa--sa-darbibaspirmsa-kum---s
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+-si-----ochainsanEoraipa-gustusancomhair
+taikaEuro-pairben-dra-darbiavimaspradzia
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+siochainsanEoraipa-gust----usan--com----hai-r
+-vredei---nEur-opaenhetbeginvandesamenwerking
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+siochainsanEoraipagustusanco-mhair
+-po--kojwEuropaipoczatekwspolpraca
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+--siochainsanEo-raipagustusanc-o-mha-ir
+opazo-europa-eopr-i-mordioda-cooperacao
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+siochainsanEoraipa-gustusanc-o-mhair-
+-pac-ei---nEur-opasiinceputcoopera-re
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+siochainsanEoraipa---gustusancomhair----
+-fredai----Eur-opaochnyttasa---m-a-rbete
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+si-ochainsanEora-ipa-gus--tu-sancomhair
+miervEuropa--azaci-atokspolupra-c---a--
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+siochainsanEorai-pagust-us-ancomha-ir
+-----mirvEvropainza-ceteksodelo-vanje
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+siochainsanEoraipagustusan------c-o-mha-i-r
+----pa--zeneur-opa-ycomienzodeelcooperacion
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+si-ochainsanEoraipa-gust-usancomhair
+miro------vyEvr-opapocatekspoluprace
+------------------------------
+------------------------------
+Sentence 1: siochainsanEoraipagustusancomhair
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+siochainsanEoraipa--g-ust-u----sancomhair
+bekekotesEuropaesazegyuttmukodeskezdetei-
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+-ilpaceinEuropaei-----lin-iziodellacooperazione
+mi-----rvEvropa-inachalonastrud--nic--he-stvo--
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+ilpace-inEuropaeiliniziodella-cooperazion-e
+---fredi-Europa--------ogsamarbejde-begynde
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+ilpace-i-n---Eu---ropa--ei----liniziodellacooperazione
+-derBeginnderZusammenarbeitfureinfri--edlic-hEur---opa
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+ilp-aceinEurop-a----e-ili-niziodellacooperazione
+--peaceinEuropeandthebeginningo----fcooperation-
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+ilpaceinEur-opaeiliniziodellacooperazione
+--ra--huEuroopa-----jako---ostoo---a-lgus
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+-ilpacei-nEur-o-pa-eiliniziodellacooperazione
+rauha-aikaEurooppayhtei-styo-alka------a-----
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+il-pa-ceinEuropaeiliniziodellacooperazione
+-lepaixe-nEuropeetledebutde-lecooperation-
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+-ilpace--inEuropaeiliniziodellacooper-azione
+ei-renestenEurop-ekaiaparkhe----sunergasi--a
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+-ilpac-ein-Europaeiliniziodella-cooperazione
+si--ochainsanEora---i-pagustusanc-o-mha-i--r
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+ilpaceinEuropaeiliniziodellacooperazione
+ilpaceinEuropaeiliniziodellacooperazione
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+-ilpaceinEuropaeiliniziodellacooper--azione
+mi----ersEiropa-sadarbi----ba--spirmsa-kums
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+ilpacei-nEuropaei-liniziod-ella--coopera-zione
+--ta--ikaEuropa-irben-dradarbiavimasp-radzi--a
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+ilpaceinEuropa---e--iliniziodellacooperazione
+-vredeinEuropaenhetbegin-vande-samenwer-ki-ng
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+ilpaceinEuropaeiliniziodellacooperazione
+--pokojwEuropa-i-pocz-atekwspolp-ra---ca
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+ilpa-ceinEuropae-ili-niziodellacooperazione
+-opazoe---uropaeoprimordiod---acooperacao--
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+ilpaceinEuropaeiliniziodellacooperazione
+--paceinEuropasi-in----ceputcoopera---re
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+-ilpaceinEuropaeiliniziodellacooperazione
+freda--i-Europa-ochn-----ytta---samarbete
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+-ilpaceinEuropaeilinizio-dellacooperazione
+mi----ervEuropa-azaciatokspol---up-ra---ca
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+-ilpaceinEuropaeiliniziodellacooperazion-e
+mi-----rvEvropa---in-z-ace-teksode-lovanje
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+ilpaceinEuropa-eili-niziodellacooperazione
+--paze-neuropaycomien-z-odeel-cooperacion-
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+-ilpaceinEuropa-eiliniziodellacooperazione
+mi---rovyEvropapocatekspo---l---up-ra---ce
+------------------------------
+------------------------------
+Sentence 1: ilpaceinEuropaeiliniziodellacooperazione
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+--ilpaceinEuropaeiliniziodellacoope-razione-
+bekekote-sEuropae---sazegyuttmukodeskezdetei
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+miersEiropa-sa-darbibaspir-msakums---
+mi-rvEvropainacha-lonas-trudnichestvo
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+miersEiropa--sadarbibaspirmsakums
+frediEuropaogsamar--b-ejdebegynde
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+mier-sEi----ropasa---darb-i-baspi--r----msaku--ms
+-derBeginnder-ZusammenarbeitfureinfriedlichEuropa
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+--miersEirop-asad-arb-----i----baspirmsakums
+peaceinEuropea-ndthebeginningofcooper--ation
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+miersEir-opasadarbibaspirmsa-kums
+-rahuEuroop--aja--koos--tooalgu-s
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+-----miersEir-opasadarbibaspirmsa-kums
+rauhaai-kaEuroop-payhtei--s--tyoalk-aa
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+---mi-ersEirop--asadarb-----ibaspirmsakums
+lepaixe-nEuropeetled-ebutdelecooper--ation
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+mi-e-rs---Eirop--asadarbibas-pirmsakums
+eirenestenEuropekaiapar-khesuner-ga-sia
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+miersEiro-pa--sa-darbibaspirmsa-kum---s
+----s-i-ochainsanEoraipagustusancomhair
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+mi----ersEiropa-sadarbi----ba--spirmsa-kums
+-ilpaceinEuropaeiliniziodellacooper--azione
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+miersEiropasadarbibaspirmsakums
+miersEiropasadarbibaspirmsakums
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+-miersEiropa------sadarb---ibaspirmsakums
+tai-kaEuropairbendradarbiavimasp-r--adzia
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+--miersEiropasadarb--i-ba---s-pirmsakums
+vredeinEuropaenhetbeginvandesamenwerking
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+-miersEiropa--sadarbibaspirmsakums
+pokojwEuropaipocza-tekwspolpra--ca
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+miersEiropa---sadarbi-ba--spirmsakums
+opazoeuropaeoprimordiodacooper--a-cao
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+-miersEiropas--adarbibaspirmsakums
+paceinEuropasiinceputcooper--a--re
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+mie-rsEiropasadarbibaspirmsa-kums
+fredaiEuropa-ochnyttas--am-arbete
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+miersEiropasadarbiba---sp-irmsakums
+miervEuropa-aza-ci-atokspolupra--ca
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+miersEiropasadarbibas-pirmsakums
+mi-rvEvropainzaceteksodelova-nje
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+-miersEiropa-------sadarbibaspirmsakums
+paze-neuropaycomienzod-eelcooper--acion
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+mier--sEiropasadarbibasp-irmsakums
+mi-rovyEvropapoca--tekspolupra--ce
+------------------------------
+------------------------------
+Sentence 1: miersEiropasadarbibaspirmsakums
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+-mie---rsEiropa-sa-darbibaspirmsak----ums
+bekekotesEuropaesazegyuttmukodes-kezdetei
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+taikaEuropairbendradarbiavimaspradzi------a
+-mirvEvropai---n----a-chalonastrudnichestvo
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+taikaEuropairbendradarbiavimaspradzia
+frediEuropa----ogsamarb-ejdebegynd--e
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+----taikaEur-opa----irbe--ndr-adarbi-avimaspradzia
+derBeginnderZusammenarbeitfureinfr-iedlichEur--opa
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+-ta--ikaEurop-airbendradarbiavi----masp-radzi-a
+peacei-nEuropea----ndthebeginningofcoopera-tion
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+taikaEur-opairbendradarbiavimas-pradzia
+ra-huEuroop----------a--ja-koostooalgus
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+----taikaEur-o-pairbendradarbiavimaspradzia
+rauhaaikaEurooppayhte--------istyoa-lka---a
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+--tai-kaEuropairbendradarbiavimasp-radzi-a
+lepaixenEuropeetle-d--ebutdelecoopera-tion
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+tai------kaEuropairbendradarbiavimaspr-adzia
+-eirenestenEurop----ekaiapar--khesunerga-sia
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+taikaEuro-pairben-dra-darbiavimaspradzia
+-si-----ochainsanEoraipa-gustusancomhair
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+--ta--ikaEuropa-irben-dradarbiavimasp-radzi--a
+ilpacei-nEuropaei-liniziod-ella--coopera-zione
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+tai-kaEuropairbendradarbi-a-vi-maspradzia
+-miersEiropa------sadarbibaspirm-s--akums
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+taikaEuropairbendradarbiavimaspradzia
+taikaEuropairbendradarbiavimaspradzia
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+---taikaEuropa---irbe--ndra-darbiavim-aspradzi-a
+vredei-nEuropaenhetbegin-vand--esa--menwer--king
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+taik--aEuropairbendradarbiavimaspradzia
+-pokojwEuropai----pocza-tekwspolpra--ca
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+-taikaEuropairbendradarbiavimasp-radzia-
+opa-zoeuropa---eoprimordiodacoopera--cao
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+ta--ikaEuropa-irbendradarbiavimasp-radzia
+pacei-nEuropasi--in------ceputcoopera--re
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+---taikaEuropairbendradarbiavimaspradzia
+fredai--Europa-ochn-ytta--sa--ma--r-bete
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+tai-kaEuropairbendradarbiavimas----pradzia
+-miervEuropa-------aza-cia-tokspolupra--ca
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+taikaEuropairbendradarbiavimaspradzia
+-mirvEvropai---n-za-ceteksodelova-nje
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+taikaEuropa--irbendradarbiavimasp-radzi-a
+pazeneuropaycomien-zod----eelcoopera-cion
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+tai--kaEuropairbendradarbiavimaspradzia
+-mirovyEvropa------poca-tekspolupra--ce
+------------------------------
+------------------------------
+Sentence 1: taikaEuropairbendradarbiavimaspradzia
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+-taik---aEuropairbendradarbiavim----asprad--zia
+bekekotesEuropa---e--sa-zegyuttmukodeskezdetei-
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+-vredeinEuropaenhetbeginvandes-amen--werking
+mir----vEvropain-achalon-a---strudniche-stvo
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+vredeinEuropaenhetbeginvandesamenwerkin-g
+fred-i-Europa------ogsamarbe-jde-be-gynde
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+-vr-edei-nEur-opa--en--he-t--beginvandesamenwerking
+derBe-ginnderZusammenarbeitfure-in-friedlichEur-opa
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+vre-deinEurop-aen--hetbeginvandesamenwer-ki-ng
+-peaceinEuropea-ndthe-beginnin-gofcooperation-
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+vredeinEur-opaenhetbeginvandesamenwerking
+-r--ahuEuroopa----------jakoos---tooalgus
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+vr--edei-nEur-o-paenhetbeginvandesamenwerking
+-rauhaaikaEurooppa-yh-t-e-i------s--tyoalk-aa
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+vredei--nEuropaenhetbeginvandesamenwer-ki-ng
+-lepaixenEurop-e--etle-debutdelecooperation-
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+-vrede--inEuropaenhetbeginva-ndesamenwer--king
+eirenestenEurop----e--kaiaparkhes--un-ergasi-a
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+-vredei---nEur-opaenhetbeginvandesamenwerking
+siochainsanEoraipa-gust----usan--com----hai-r
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+-vredeinEuropaenhetbegin-vande-samenwer-ki-ng
+ilpaceinEuropa---e--iliniziodellacooperazione
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+vredeinEuropaenhetbeginvandesamenwerking
+--miersEiropasadarb--i-ba---s-pirmsakums
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+vredei-nEuropaenhetbegin-vand--esa--menwer--king
+---taikaEuropa---irbe--ndra-darbiavim-aspradzi-a
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+vredeinEuropaenhetbeginvandesamenwerking
+vredeinEuropaenhetbeginvandesamenwerking
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+vredeinEuropaenhetbeginvandesamenwerking
+-pokojwEuropa------ipocza-tekwspolpr-aca
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+-vredeinEuropaenhetbeginvand-esamenwerking
+opazoe---uropa---e-opri-mordiodacooperacao
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+vredeinEuropaenhetbeginvande-samenwerking
+-paceinEuropa-------si--inceputcooper-are
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+vredeinEuropaenh-etbeginvandesamenwerking
+fredai-Europaochnyt-----ta---sam---arbete
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+vredeinEuropaenhetbeginvandesamenwerking
+--miervEuropa----azaci--atoks-polupr-aca
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+-vredeinEuropaen--hetbeginvandesamenwerking
+mir----vEvropainzacet-e---ksodelovanje-----
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+vredeinEuropaenhetbeginvandesamenwer-ki-ng
+-paze-neuropa-ycomie--n-zodeelcooperacion-
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+-vredeinEuropaenhetbeginvandesamenwerking
+mir--ovyEvropapocat-e-------ks-polupr-ace
+------------------------------
+------------------------------
+Sentence 1: vredeinEuropaenhetbeginvandesamenwerking
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+vrede---inEuropae-nhetbeginvandesamenwerking
+-bekekotesEuropaesazegyuttmukodes-kezdetei--
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+pokojwEuropaipoczatekwspolprac-----a
+--mirvEvropainachalonastrudnichestvo
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+pokojwEuropaipocza-tekwspolpraca
+-frediEuropaogsamarbe-jdebegynde
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+---pokojwEur-opaipocza----t---e--kwspol----praca
+derBeginnderZusa-mmenarbeitfureinfriedlichEuropa
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+p-okojwEurop-aipoczate------kwspolp-ra--ca
+peaceinEuropea-ndthebeginningofcooperation
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+pokojwEur-opaipoczatek-wspolpraca
+--rahuEuroopa----ja--koostooalgus
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+---pokojwEur-opaipoczatekws-po-lpraca
+rauhaaikaEuroop--p-ayhte-istyoal-ka-a
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+--pokojwEurop--aipoczat-ekwspolp-ra--ca
+lepaixenEuropeetledebutde-lecooperation
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+----pokojwEurop--ai-poczatek-wspolpr-a-ca
+eirenestenEuropekaiap---a-rkhes-unergasia
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+-po--kojwEuropaipoczatekwspolpraca
+siochainsanEoraipagustusanco-mhair
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+--pokojwEuropa-i-pocz-atekwspolp-ra---ca
+ilpaceinEuropaeiliniziodellacooperazione
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+pokojwEuropaipocza-tekwspolpra--ca
+-miersEiropa--sadarbibaspirmsakums
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+-pokojwEuropai----pocza-tekwspolpra--ca
+taik--aEuropairbendradarbiavimaspradzia
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+-pokojwEuropa------ipocza-tekwspolpr-aca
+vredeinEuropaenhetbeginvandesamenwerking
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+pokojwEuropaipoczatekwspolpraca
+pokojwEuropaipoczatekwspolpraca
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+-pokojwEuropa-ip-oczatekwspolp-raca-
+opazo--europaeoprimordiodacooperacao
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+pokojwEuropa-ipoczatekwspolp-raca
+paceinEuropasiinc---eputcooperare
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+pokojwEuropaipoc-zatekwspolpr-aca
+fredaiEuropa--ochnyt-tas-amarbete
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+pokojwEuropaipoczatekwspol-praca
+-miervEuropaazaciatok-spolupraca
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+pokojwEuropaipocza--tekwspo--lpra-ca
+--mirvEvropai--nzacetek-s-odelovanje
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+pokojwEuropaipo---czatekwspolp-rac--a
+p-azeneuropaycomienzode-elcooperacion
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+pokojwEuropaipoczatekwspol-praca
+mirovyEvropa-poc-atek-spoluprace
+------------------------------
+------------------------------
+Sentence 1: pokojwEuropaipoczatekwspolpraca
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+--poko-jwEuropaipocz----at-ek--wspolpraca
+bekekotesEuropa-esazegyuttmukodeskezdetei
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+opazoeuropa-eoprimo----r-d-iodacooperacao
+-mirvEvropainachalonastrudni---c--he-stvo
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+opazoeuropaeoprimordiodacooperacao
+frediEuropa-ogsamarbejd---ebegynde
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+opazoe-----ur-opa--eopr--i-mor----diod-acooperacao
+-derBeginnderZusammenarbeitfureinfriedlic-hEuropa-
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+op-azoe---urop-a----eoprimordiodacooperacao-
+-pea-ceinEuropeandthebeginningo-fcooperation
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+opazoeur-opaeoprimordiodacoopera-cao
+-rahuEuroopa---jako---o-stoo---algus
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+---opa-zoeuropaeoprimordiodacooperacao
+rauhaaikaEuro---oppayhtei--styoalka-a-
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+-opazoe--uropae-oprimordiodacooperacao-
+lepaixenEuropeetledebutd-elecooperation
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+---opazoe--uropaeopri-mordiodacooper-a-cao
+eirenestenEurop-e-kaiapar---khesunergasia-
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+--o-pa-zoeuropaeoprimordioda-cooperacao
+siochainsanEora-ip--agustusanc-o-mha-ir
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+-opazoe---uropaeoprimordiod---acooperacao--
+ilpa-ceinEuropae-ili-niziodellacooperazione
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+opazoeuropaeoprimordiodacooper--a-cao
+miersEiropa---sadarbi-ba--spirmsakums
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+opa-zoeuropa---eoprimordiodacoopera--cao
+-taikaEuropairbendradarbiavimasp-radzia-
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+opazoe---uropa---e-opri-mordiodacooperacao
+-vredeinEuropaenhetbeginvand-esamenwerking
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+opazo--europaeoprimordiodacooperacao
+-pokojwEuropa-ip-oczatekwspolp-raca-
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+opazoeuropaeoprimordiodacooperacao
+opazoeuropaeoprimordiodacooperacao
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+opazoe---uropaeoprimordiodacooperacao
+-pa-ceinEuropa---si-inceputcoopera-re
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+--opazoeuropaeoprimordiodacooperacao
+freda-iEuropa-o----chnytta-samarbete
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+opazoeuropaeopri-mordiodacooperacao
+miervEuropaazaciatokspo---lup-raca-
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+opazoeuropaeoprimordiodacooperacao
+-mirvEvropainzaceteksod-elo--vanje
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+opaz-oeuropa-eopri--mordiodacooperacao-
+-pazeneuropayco-mienzo-d-eelcooperacion
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+opazo--europaeoprimordiodaco-operacao
+-mirovyEvropa--p---ocatekspolup-rac-e
+------------------------------
+------------------------------
+Sentence 1: opazoeuropaeoprimordiodacooperacao
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+-opazo-e--uropae---oprimordiodacoope-racao
+bekekotesEuropaesazegyuttmukod--eskezdetei
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+pacei-nEuropasiin-c-------eputcooperare
+---mirvEvropa--inachalonastrudnichestvo
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+pace-inEuropa--s-iinceputcoope-rare
+-fredi-Europaogsamarbe---jdebegynde
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+-pace-i-n---Eu---ropa--si-----in--ceputc---ooperare
+derBeginnderZusammenarbeitfureinfriedlichEurop--a--
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+p-aceinEurop-a-------siinceputcoopera--re
+peaceinEuropeandthebeginningofcooperation
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+paceinEur-opasiinceputcooperare
+ra--huEuroopa--jakoost-oo-algus
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+pa--cei-nEur-o-pasiinceputcooperare
+rauhaaikaEurooppa--yhteist-yoalka-a
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+--pa-ceinEuropasiinceput----coopera--re
+lepaixe-nEuropeetledebutdelecooperation
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+--pace--inEurop--asi---inceputcooper-a-re
+eirenestenEuropeka-iaparkhesu----nergasia
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+-pac-ei---nEur-opasiinceputcoopera-re
+siochainsanEoraipa-gustusanc-o-mhair-
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+--paceinEuropasi-in----ceputcoopera---re
+ilpaceinEuropaeiliniziodellacooperazione
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+paceinEuropasiinceputcooper--a--re
+-miersEiropas--adarbibaspirmsakums
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+pacei-nEuropasi--in------ceputcoopera--re
+ta--ikaEuropa-irbendradarbiavimasp-radzia
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+-paceinEuropa-------si--inceputcooper-are
+vredeinEuropaenhetbeginvande-samenwerking
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+paceinEuropasiinc---eputcooperare
+pokojwEuropa-ipoczatekwspolp-raca
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+-pa-ceinEuropa---si-inceputcoopera-re
+opazoe---uropaeoprimordiodacooperacao
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+paceinEuropasiinceputcooperare
+paceinEuropasiinceputcooperare
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+pace--inEuropasiinceputcooper-are
+-fredai-Europaochn--yttasamarbete
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+paceinEuropasiinceputco---o--perare
+-miervEuropa-azac-iat-okspolup-raca
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+pacei-nEuropasiin--ceput-coope--ra-re
+---mirvEvropa--inzace--teksodelovanje
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+paceinEuropa---siin--ceputcoopera--re
+paze-neuropaycomienzode-elcooperacion
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+paceinEuropasiinceputco-operare
+mirovyEvropapocate-kspolup-race
+------------------------------
+------------------------------
+Sentence 1: paceinEuropasiinceputcooperare
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+pace---inEuropa-siince-pu-t--co--ope-rare-
+bekekotesEuropaes--azegyuttmukodeskezdetei
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+-fredaiEuropa--och---nyttasamarbe-t-e
+mir---vEvropainachalonastrudnichestvo
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+fredaiEuropaochnyttasamar-----be---te
+fred-iEuropao------gsamarbejdebegynde
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+-fr-edai--Eur-opaochn----yt-tasamarbe---------te
+derBe-ginnderZusammenarbeitfureinfriedlichEuropa
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+freda--i-Europ-a-och-----nyttasamarbe--t--e
+-pe-aceinEuropeandthebeginningofcooperation
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+freda-iEur-opaochnyttasamarbete
+-r--ahuEuroopajakoost--ooa-lgus
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+fr--edai--Eur-o-paochnyttas-amarbete
+-rauhaaikaEurooppa-yh--teistyoa-lkaa
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+fredai---Europ---aochnyttasamarbe--t--e
+-lepaixenEuropeetledebutdelecooperation
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+-fr--e-daiEurop--aochnyttasamar-bete
+eirenestenEuropekaiaparkhesunergasia
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+-fredai----Eur-opaochnyttasa---m-a-rbete
+siochainsanEoraipa---gustusancomhair----
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+freda--i-Europa-ochn-----ytta---samarbete
+-ilpaceinEuropaeiliniziodellacooperazione
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+fredaiEuropa-ochnyttas--am-arbete
+mie-rsEiropasadarbibaspirmsa-kums
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+fredaiEuropa-ochn-ytta--sa--ma--r-bete
+taika-Europairbendradarbiavimaspradzia
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+fredai-Europaochnyt-----ta---sam---arbete
+vredeinEuropaenh-etbeginvandesamenwerking
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+fredaiEuropa--ochnyt-tas-amarbete
+pokojwEuropaipoc-zatekwspolpr-aca
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+freda-iEuropa-o----chnytta-samarbete
+--opazoeuropaeoprimordiodacooperacao
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+-fredai-Europaochn--yttasamarbete
+pace--inEuropasiinceputcooper-are
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+fredaiEuropaochnyttasamarbete
+fredaiEuropaochnyttasamarbete
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+fredaiEurop-a-ochnyttas--amarbete
+mie-rvEuropaazac-iatokspolupr-aca
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+-fredaiEuropa-ochnyttas--amarbete
+mir---vEvropainzaceteksodelovanje
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+-fredaiEuropa--o-chn---yttasamar-bete
+paze--neuropaycomienzodeelcooperacion
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+-fredaiEuropa-ochnyttas--amarbete
+mir-ovyEvropapoc--atekspolupr-ace
+------------------------------
+------------------------------
+Sentence 1: fredaiEuropaochnyttasamarbete
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+-fre--daiEuropa--ochny-tt-----asamarbete-
+bekekotesEuropaesazegyuttmukodes-kezdetei
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+miervEuropaazaciato-kspoluprac-----a
+mi-rvEvropainachalonas-trudnichestvo
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+miervEuropa-azaciatokspolupraca
+frediEuropaogsa-marbejdebegynde
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+-----mi---ervEu--ropaazaciat------okspol----upraca
+derBeginnder-Zusammenarbei-tfureinfriedlichEu-ropa
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+--miervEurop-a-------azaciatokspolup-ra--ca
+peaceinEuropeandthebeginningo-fco-operation
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+miervEur-opaazaciatoks-po-l-upraca
+-rahuEuroop---a-jakoostooalgu----s
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+-----miervEur-o-paazaciat-okspolupraca
+rauhaai-kaEurooppayhteistyo---al--ka-a
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+---mi-ervEurop--aazaciat-okspolup-ra--ca
+lepaixe-nEuropeetledebutdeleco-operation
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+mi---e--rvEuropaazacia-tokspolu-pr-a-ca
+eirenestenEurop-eka-iapark-hesunergasia
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+miervEuropa--azaci-atokspolupra-c---a--
+si-ochainsanEora-ipa-gus--tu-sancomhair
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+mi----ervEuropa-azaciato---kspolup-ra---ca
+-ilpaceinEuropaeiliniziodellaco-operazione
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+miervEuropa-aza-ci-atokspolupra--ca
+miersEiropasadarbiba---sp-irmsakums
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+-miervEuropa-------aza-cia-tokspolupra--ca
+tai-kaEuropairbendradarbiavimas----pradzia
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+--miervEuropa----azaci--atoks-polupr-aca
+vredeinEuropaenhetbeginvandesamenwerking
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+-miervEuropaazaciatok-spolupraca
+pokojwEuropaipoczatekwspol-praca
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+miervEuropaazaciatokspo---lup-raca-
+opazoeuropaeopri-mordiodacooperacao
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+-miervEuropa-azac-iat-okspolup-raca
+paceinEuropasiinceputco---o--perare
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+mie-rvEuropaazac-iatokspolupr-aca
+fredaiEurop-a-ochnyttas--amarbete
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+miervEuropaazaciatokspolupraca
+miervEuropaazaciatokspolupraca
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+miervEuropa-azaciatokspo--lupra-ca
+mi-rvEvropainzac-eteks-odel-ovanje
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+-miervEuropaazaci-ato--kspolup-rac--a
+paze-neuropaycomienzodeelco-operacion
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+mier-v-Europaazaciatokspolupraca
+mi-rovyEvrop-apoc-atekspoluprace
+------------------------------
+------------------------------
+Sentence 1: miervEuropaazaciatokspolupraca
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+-mie---rvEuropa--az-aciat---o-kspolupraca
+bekekotesEuropaesazegyuttmukodes-kezdetei
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+mirvEvropainzac--eteks--od----elovanje
+mirvEvropain-achalonastrudnichestv---o
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+mir--vEvropainza-ceteksodelovanje
+-frediEuropaogsamarbe--jdebegynde
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+-----mirvEvr-opa--inza-ce-t---e-ksode-l------ovanje
+derBeginnderZusammen-arbeitfureinfriedlichEuropa---
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+----mirvEvrop-ainzacete-----ksodelo--va-nje
+peacei-nEuropea-ndthebeginningofcooperation
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+mirvEvr-opainzaceteksodelova-nje
+rahuEuroopa--ja----k-oostooalgus
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+-----mirvEvr-opainzaceteks--odelovanje
+rauhaaikaEuroop---payhteistyo-al-ka--a
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+---mi-rvEvropainzaceteksodel---o--va-nje
+lepaixenEurop--eetledebutdelecooperation
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+mir------vEvrop--ainzaceteksodelovanje
+eirenestenEuropekaiaparkhe-sune-rgasia
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+-----mirvEvropainza-ceteksodelo-vanje
+siochainsanEorai-pagust-us-ancomha-ir
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+mi-----rvEvropa---in-z-ace-teksode-lovanje
+-ilpaceinEuropaeiliniziodellacooperazion-e
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+mi-rvEvropainzaceteksodelova-nje
+miersEiropasadarbibas-pirmsakums
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+-mirvEvropai---n-za-ceteksodelova-nje
+taikaEuropairbendradarbiavimaspradzia
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+----mirvEvropainzacet-e---ksodelovanje-----
+vredei-nEuropaen--hetbeginvandesamenwerking
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+--mirvEvropai--nzacetek-s-odelovanje
+pokojwEuropaipocza--tekwspo--lpra-ca
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+-mirvEvropainzaceteksod-elo--vanje
+opazoeuropaeoprimordiodacooperacao
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+---mirvEvropa--inzace--teksodelovanje
+pacei-nEuropasiin--ceput-coope--ra-re
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+mir---vEvropainzaceteksodelovanje
+-fredaiEuropa-ochnyttas--amarbete
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+mi-rvEvropainzac-eteks-odel-ovanje
+miervEuropa-azaciatokspo--lupra-ca
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+mirvEvropainzaceteksodelovanje
+mirvEvropainzaceteksodelovanje
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+-mirvEvropa----i-nzacete-ksodelova-nje
+pazeneuropaycomienzode-elcoope--racion
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+mir-v-Evropainzaceteks-odel-ovanje
+mirovyEvropa--pocatekspo--lupra-ce
+------------------------------
+------------------------------
+Sentence 1: mirvEvropainzaceteksodelovanje
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+-----mirvEvropainzace----t-eksode-lovanje-
+bekekotesEuropa-esazegyuttmuk-odeskezdetei
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+pazeneuropa--yc---omienzodeelcooperacion
+-mirvEvropainachalonastrud-nic--he-stvo-
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+paze-neuropa-ycomienzode-elcooperacion
+-frediEuropaogsamarbejdebe-gynde------
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+-paze---n-eur-opaycomienzode-----elcoope-rac---io-n
+derBeginnde-rZusa---mmenarbeitfureinfriedlichEuropa
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+p-aze-neurop-a-ycomie--nzodeelcooperacion
+peaceinEuropeandthebeginningofcooperation
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+pazeneur-opa-ycomienzodeelcooperacion
+ra-huEuroopajako-----o---stoo---algus
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+----pazeneur-o-paycomienzodeelcooperacion
+rauhaaikaEurooppayhteistyo--al-----ka---a
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+--pa-zeneuropaycomienzode-elcooperacion
+lepaixenEuropeetledebutdele-cooperation
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+pazen---e--uropaycomienzodeelcooper-acion
+eirenestenEurop--ekaiaparkhe--sunergasi-a
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+----pa--zeneur-opa-ycomienzodeelcooperacion
+siochainsanEoraipagustusan------c-o-mha-i-r
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+--paze-neuropaycomien-z-odeel-cooperacion-
+ilpaceinEuropa-eili-niziodellacooperazione
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+paze-neuropaycomienzod-eelcooper--acion
+-miersEiropa-------sadarbibaspirmsakums
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+pazeneuropaycomien-zod----eelcoopera-cion
+taikaEuropa--irbendradarbiavimasp-radzi-a
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+-paze-neuropa-ycomie--n-zodeelcooperacion-
+vredeinEuropaenhetbeginvandesamenwer-ki-ng
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+p-azeneuropaycomienzode-elcooperacion
+pokojwEuropaipo---czatekwspolp-rac--a
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+-pazeneuropayco-mienzo-d-eelcooperacion
+opaz-oeuropa-eopri--mordiodacooperacao-
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+paze-neuropaycomienzode-elcooperacion
+paceinEuropa---siin--ceputcoopera--re
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+paze--neuropaycomienzodeelcooperacion
+-fredaiEuropa--o-chn---yttasamar-bete
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+paze-neuropaycomienzo-deelcooperacion
+-miervEuropaazaci-atokspol--up-rac--a
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+pazeneuropa---ycomienzodeelcooperacion
+-mirvEvropainzac-eteksod-el--o--va-nje
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+pazeneuropaycomienzodeelcooperacion
+pazeneuropaycomienzodeelcooperacion
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+-pazeneuropa-ycomie-nzodeelcooperacion
+mirovyEvropapoc-atekspo---l--up-rac--e
+------------------------------
+------------------------------
+Sentence 1: pazeneuropaycomienzodeelcooperacion
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+paze--ne--urop---a---y-comienzodeelcooperacion
+bekekotesEuropaesazegyuttm--ukod-eskezde-tei--
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+mirovyEvropa-poc-a-tekspoluprac-e----
+mir-v-Evropainachalonas-trudnichestvo
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+mirovyEvropapo---ca-tekspoluprace
+-frediEuropa-ogsamarbe-jdebegynde
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+mir---ovyEvr-opa-poca----t---e---kspol----uprace
+derBeginnderZusammenarbeitfureinfriedlichEu-ropa
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+-mirovyEvrop-a-pocate----kspo--lup-ra--ce
+peaceinEuropeandthebeginningofcooperation
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+mirovyEvr-opapocateks-po-l-uprace
+--rahuEuroopa--jakoostooalgu----s
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+---mirovyEvr-opapocateks-po-luprace
+rauhaaikaEuroop-payhteistyoal--ka-a
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+---mirovyEvrop----apocat-ekspolup-ra--ce
+lepai-xenEuropeetledebutdeleco-operation
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+mir----ovyEvrop--apocatekspolu-pr-a-ce
+eirenestenEuropekaiapa-rk-hesunergasia
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+miro------vyEvr-opapocatekspoluprace
+si-ochainsanEoraipa-gust-usancomhair
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+mi---rovyEvropa-----pocate-kspolup-ra---ce
+-ilpaceinEuropaeiliniziodellaco-operazione
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+mi-rovyEvropapoca--tekspolupra--ce
+mier--sEiropasadarbibasp-irmsakums
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+-mirovyEvropa------poca-tekspolupra--ce
+tai--kaEuropairbendradarbiavimaspradzia
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+mir--ovyEvropapocat-e-------ks-polupr-ace
+-vredeinEuropaenhetbeginvandesamenwerking
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+mirovyEvropa-poc-atek-spoluprace
+pokojwEuropaipoczatekwspol-praca
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+-mirovyEvropa--p---ocatekspolup-rac-e
+opazo--europaeoprimordiodaco-operacao
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+mirovyEvropapocate-kspolup-race
+paceinEuropasiinceputco-operare
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+mir-ovyEvropapoc--atekspolupr-ace
+-fredaiEuropa-ochnyttas--amarbete
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+mi-rovyEvrop-apoc-atekspoluprace
+mier-v-Europaazaciatokspolupraca
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+mirovyEvropa--pocatekspo--lupra-ce
+mir-v-Evropainzaceteks-odel-ovanje
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+mirovyEvropa-pocatekspo---l--up-rac--e
+-pazeneuropayco-mie-nzodeelcooperacion
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+mirovyEvropapocatekspoluprace
+mirovyEvropapocatekspoluprace
+------------------------------
+------------------------------
+Sentence 1: mirovyEvropapocatekspoluprace
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+--miro-vyEvropapoca------t-ek-spoluprace-
+bekekotesEuropa-esazegyuttmukodeskezdetei
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: mirvEvropainachalonastrudnichestvo
+Alignment:
+bekekotesEuropaesa--zegyuttmukod-eskezdetei
+-----mirvEvropainachalonastru--dniche--stvo
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: frediEuropaogsamarbejdebegynde
+Alignment:
+bekekotesEuropa-esazegyuttmukodeskezdetei
+-fre---diEuropaogsa-----marbejde-begynde-
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: derBeginnderZusammenarbeitfureinfriedlichEuropa
+Alignment:
+be-ke--kotesEuropaesa-zegyuttmukodeskezdetei--------
+derBeginnderZusammenarbe---itfu--reinfriedlichEuropa
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: peaceinEuropeandthebeginningofcooperation
+Alignment:
+be-kekotesEurop-a--esazegyuttmuko-deskezdetei--
+peace---inEuropeandthebeg-inningofcoope-rat-ion
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: rahuEuroopajakoostooalgus
+Alignment:
+bekekotesEur-opaesazegyuttmukodeskezdetei
+-----rahuEuroopa-ja---------ko-ostooalgus
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: rauhaaikaEurooppayhteistyoalkaa
+Alignment:
+bekekotesEur-opaesazegyuttmukode-skezdetei
+rauhaaikaEuroop--pa---y-ht-----eistyoalkaa
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: lepaixenEuropeetledebutdelecooperation
+Alignment:
+bekekotesEuropaesaze-gyuttmukodeske--zde--tei--
+le-paixenEurop-eetledebu-t----de-lecooperat-ion
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: eirenestenEuropekaiaparkhesunergasia
+Alignment:
+be-ke-kotesEuropaesazegyuttmukodes-kezdetei-
+-eirenestenEurop-eka----iapark-hesune-rgasia
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: siochainsanEoraipagustusancomhair
+Alignment:
+bekekotesEuropaesazegyuttmukodeskezdetei-
+siochainsanEoraipa--g-ust-u----sancomhair
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: ilpaceinEuropaeiliniziodellacooperazione
+Alignment:
+bekekote-sEuropae---sazegyuttmukodeskezdetei
+--ilpaceinEuropaeiliniziodellacoope-razione-
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: miersEiropasadarbibaspirmsakums
+Alignment:
+bekekotesEuropaesazegyuttmukodes-kezdetei
+-mie---rsEiropa-sa-darbibaspirmsak----ums
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: taikaEuropairbendradarbiavimaspradzia
+Alignment:
+bekekotesEuropa---e--sa-zegyuttmukodeskezdetei-
+-taik---aEuropairbendradarbiavim----asprad--zia
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: vredeinEuropaenhetbeginvandesamenwerking
+Alignment:
+-bekekotesEuropaesazegyuttmukodes-kezdetei--
+vrede---inEuropae-nhetbeginvandesamenwerking
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: pokojwEuropaipoczatekwspolpraca
+Alignment:
+bekekotesEuropa-esazegyuttmukodeskezdetei
+--poko-jwEuropaipocz----at-ek--wspolpraca
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: opazoeuropaeoprimordiodacooperacao
+Alignment:
+bekekotesEuropaesazegyuttmukod--eskezdetei
+-opazo-e--uropae---oprimordiodacoope-racao
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: paceinEuropasiinceputcooperare
+Alignment:
+bekekotesEuropaes--azegyuttmukodeskezdetei
+pace---inEuropa-siince-pu-t--co--ope-rare-
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: fredaiEuropaochnyttasamarbete
+Alignment:
+bekekotesEuropaesazegyuttmukodes-kezdetei
+-fre--daiEuropa--ochny-tt-----asamarbete-
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: miervEuropaazaciatokspolupraca
+Alignment:
+bekekotesEuropaesazegyuttmukodes-kezdetei
+-mie---rvEuropa--az-aciat---o-kspolupraca
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: mirvEvropainzaceteksodelovanje
+Alignment:
+bekekotesEuropa-esazegyuttmuk-odeskezdetei
+-----mirvEvropainzace----t-eksode-lovanje-
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: pazeneuropaycomienzodeelcooperacion
+Alignment:
+bekekotesEuropaesazegyuttm--ukod-eskezde-tei--
+paze--ne--urop---a---y-comienzodeelcooperacion
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: mirovyEvropapocatekspoluprace
+Alignment:
+bekekotesEuropa-esazegyuttmukodeskezdetei
+--miro-vyEvropapoca------t-ek-spoluprace-
+------------------------------
+------------------------------
+Sentence 1: bekekotesEuropaesazegyuttmukodeskezdetei
+Sentence 2: bekekotesEuropaesazegyuttmukodeskezdetei
+Alignment:
+bekekotesEuropaesazegyuttmukodeskezdetei
+bekekotesEuropaesazegyuttmukodeskezdetei
 ------------------------------

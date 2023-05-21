@@ -1,0 +1,3388 @@
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+мир в Европа и начало на сътрудничество
+мир в Европа и начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+-мир в Европа -и -начало на сътрудничество
+fred i Europa og samarbejde -------begynde
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+-------мир --в ---Европа и начало -на --сътрудничество
+der Beginn der Zusammenarbeit für ein friedlich Europa
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+--мир -в ----Европа --и начало на сътрудничество
+peace in Europe and the beginning of cooperation
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+мир в Европа и начало на сътрудничество
+--------rahu -Euroopa ja -koostöö algus
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+мир в Европа и начало на -сътрудничество
+rauha --aika Eurooppa -– yhteistyö alkaa
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+----мир -в Европа -и --начало на сътрудничество
+le paix en Europe et le début de le coopération
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+-мир в Европа и начало на сътрудничество
+ειρήνη στην Ευρώπη και απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+мир в Европа и начало на сътрудничество
+síocháin san Eoraip agus tús an comhair
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+----мир -в --Европа -и начало -на сътрудничество
+il pace in Europa e il inizio della cooperazione
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+мир в Европа и -начало на сътрудничество
+miers Eiropa – sadarbības ----pirmsākums
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+мир в Европа -и -начало на сътрудничество
+taika Europa ir bendradarbiavimas pradžia
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+--мир -в Европа -и ---начало -на -сътрудничество
+vrede in Europa en het begin van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+--мир в Европа и начало на сътрудничество
+pokój w Europa i -początek ----współpraca
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+--мир в --Европа и начало на сътрудничество
+o paz o europa e o primórdio -da cooperação
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+-мир -в Европа -и начало на сътрудничество
+pace în Europa și --început -----cooperare
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+мир в Европа и начало на сътрудничество
+freda i Europa ---och --nytta samarbete
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+-мир в Европа и начало на сътрудничество
+mier v Európa a -začiatok ----spolupráca
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+мир в Европа -и начало на сътрудничество
+mir v Evropa in --začetek ---sodelovanje
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+мир -в Европа и --начало на сътрудничество
+paz en europa y comienzo de el cooperación
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+-мир в Европа и начало на сътрудничество
+mírový Evropa – --počátek ----spolupráce
+------------------------------
+------------------------------
+Sentence 1: мир в Европа и начало на сътрудничество
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+----мир в Европа -и -начало на сътрудничество
+békekötés Európa és az együttműködés kezdetei
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+fred i Europa og samarbejde -------begynde
+-мир в Европа -и -начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+fred i Europa og samarbejde begynde
+fred i Europa og samarbejde begynde
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+-fr--ed i-- Europa og sa-m--arbe-----jde-- --be-------gynde
+der Be-ginn der--- -Zusammenarbeit für ein friedlich Europa
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+fre--d i- Europa og samarbejde beg---yn--------de------
+-peace in Europ---e ---and the beginning of cooperation
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+fred i Eur-opa og samarbejde begynde
+-r-ahu Euroopa--- ja koostöö alg--us
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+fr--ed -i-- Eur-o-pa og samarbejde begynde
+-rauha aika Eurooppa -– ---yhteistyö alkaa
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+fred --i---- Europa og samarb-ejde be-------gynde
+-le- paix en Europe et le début de le coopération
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+--fred ---i Europa -og samarbejde begynde
+ειρήνη στην Ευρώπη και -απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+----fred --i Eur-opa og samarbejde begynde
+síocháin san Eoraip- agus-- tús an comhair
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+----fred i- Europa og --samarbejde--- ---be---gynde
+il pace- in Europa -e il inizio della cooperazion-e
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+fred i Europa og samarbejde ---begynde
+mie-rs Eiropa -– sadarbības pirmsākums
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+fred i Europa og ----samarb---ejde begynde
+-taika Europa ir bendradarbiavimas pradžia
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+fred- i- Europa og samarbe-------jde begynde-----
+vrede in Europa en -het begin van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+-fred i Europa og samarbe-jde begynde
+pokój w Europa -i początek współpraca
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+-fred i Europa-- og -samar-bejde ---begynde
+o paz o europa e o- primórdio da cooperação
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+-fred -i Europa og samarbejde ---begynde
+pace- în Europa și ---început coope-rare
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+fred- i Europa o-------g samarbejde begynde
+freda i Europa och nytta samar------be---te
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+fred i Europa og sa-marbejde begynde
+mier v Európa -a začiatok spolupráca
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+-fred i Europa og samarbe---jde begynde
+mir-- v Evropa in za-četek sode-lovanje
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+fred -i Europa og sam-arbejde be--gynde------
+-paz en europa -y comienzo de -el cooperación
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+-fred i Europa og samarbe-jde begynde
+mír-ový Evropa -– -počátek spolupráce
+------------------------------
+------------------------------
+Sentence 1: fred i Europa og samarbejde begynde
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+-fre--d i Europa og sa------marbejd-e begynde-
+békekötés Európa és -az együttműködés kezdetei
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+der Beginn der Zusammenarbeit für ein friedlich Europa
+-------мир --в ---Европа и начало -на --сътрудничество
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+der Be-ginn der--- -Zusammenarbeit für ein friedlich Europa
+-fr--ed i-- Europa og sa-m--arbe-----jde-- --be-------gynde
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+der Beginn der Zusammenarbeit für ein friedlich Europa
+der Beginn der Zusammenarbeit für ein friedlich Europa
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+der Beginn der Zusammen-arbeit für e-in friedlich Europ--a----
+pe-ace i-n Europe a---nd the-- ---begin--ni-ng of -cooperation
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+der Beginn der Zusammenarbeit für ein friedlich Europa
+--r----ahu Eur-oopa-- ja----- koostöö ----al----gu---s
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+der Beginn -der Zusammenarbeit für ein friedlich Europa
+--r---auha aika Eu-------r---ooppa --– yhteistyö -alkaa
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+der Beginn der Zusammenarbeit für ein friedl-ich Eur---opa
+le- -pai-x -en Eu-rope--- e-t -le début de le coopératio-n
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+der Beginn -der Zusammenarbeit für ein friedlich Europa
+----ειρήνη στην --------Ευρώπη και ---απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+der Beginn der Zusammenarbeit für ein friedlich Europa
+-síochái-n san Eora-ip a--gus tús -an -----comh-air---
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+der --Beginn der Zusammenarbeit für ein friedl-ich Eur---opa
+-il pace i-n Eur--opa- e---- il -inizio --della cooperazione
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+-der- Beginn der Zusammenarbeit für ein friedlich Europa
+miers --Ei--ropa – sa---darb---ības pi---r-----msāku--ms
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+--der Beginn der Zusammenarbeit für ein friedlich Europa
+taika Europa -ir -bendradarb-i---avimas pr-adži--------a
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+der Beginn der Zusammenarbeit für e-in --friedlich Eur-opa
+-vrede i-n Eur--opa- en- he-t ---begin van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+der Beginn der Zusammenarbeit für ein friedlich Europa
+-----pokój --w Eu-------r-opa --i -początek współpraca
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+der Beginn der Zusammenarbeit für ein fr-i-edlich Eur-opa
+--o ---paz --o eu---ropa- e o -pr--i-mórdio da cooperação
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+der Beginn der Zusammenarbeit für ein friedlich Europ--a--
+--pace---- -în Eu-------r-----opa și- înce--put -cooperare
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+der Beginn der Zusammenarbeit für ein friedlich Eur-opa
+-fr--e--da --i Eu-------r-opa och --n----ytta samarbete
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+-der Beginn der Zusammenarbei-t für ein friedlich Eu-ropa
+mier -----v Eur--ópa a za--čiat------ok --spol-----upráca
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+der Beginn der Zusammen--arbeit für ein friedlich Europa---
+mir -----v Evr--opa- in za-če-t-----e-k sode-l-------ovanje
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+der Beginn de-r--- Zusammenarbeit für ein friedlich Eur--opa
+paz -e---n -europa y comien----zo ---de-- ---e-l cooperación
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+der Beginn der Zusammenarbeit für ein friedlich Eu-ropa
+mír----ový Evr--opa-- – počát-----e-k --spol-----upráce
+------------------------------
+------------------------------
+Sentence 1: der Beginn der Zusammenarbeit für ein friedlich Europa
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+der Be-ginn der--- Zus-ammenarbeit für ein frie-dlich Europa
+--békekötés Európa -és az e---gyüttműködés --kezd-------etei
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+peace in Europe and the beginning of cooperation
+--мир -в ----Европа --и начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+-peace in Europ---e ---and the beginning of cooperation
+fre--d i- Europa og samarbejde beg---yn--------de------
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+pe-ace i-n Europe a---nd the-- ---begin--ni-ng of -cooperation
+der Beginn der Zusammen-arbeit für e-in friedlich Europ--a----
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+peace in Europe and the beginning of cooperation
+peace in Europe and the beginning of cooperation
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+peace in Eur-ope and the beginning of co-operation
+-ra---hu Euroop--a-- -ja ---------ko---ostöö algus
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+pea-ce -i-n Eur-ope and the beginning of cooperation
+-rauha aika Euroop-pa – yh--te----i-styö ------alkaa
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+pe--ace in Europe and the beginning of cooperation
+le paix en Europe -et -le -début de le coopération
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+peace in Europe and the beginning of cooperation
+--ειρήνη --στην -Ευρώπη --και απαρχή -συνεργασία
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+peac---e -in Eur-ope a-nd the beginning of cooperation
+síocháin san Eoraip- agus tús ------an---- c-o-mha-i-r
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+---peace in Europe and the beginni-ng ---of cooperation-
+il p-ace in Europ--a-- --e il i-nizio della cooperazione
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+peace in Europe and the beginning of cooper--ation
+--mie-rs Eirop--a-- --– --sadarbības ---pirmsākums
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+peace i-n Europ---e -and the beginning of coopera-tion
+-ta---ika Europa ir bendradarb--iavi--mas ---p-radži-a
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+-peace in Europe and the- begin-ning of --cooperation-
+vre-de in Europa en- -het begin van- de samenwer-ki-ng
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+peace in Europe and the beginning of cooperation
+pokój -w Europ--a-- --i -początek -współp-ra--ca
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+--peace in Europe and the -begi--nning of cooperation
+o p-a-z -o europ--a-- --e o primórdi-o da cooperação-
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+peace in Europe and the beginning of cooperation
+p-ace în Europ--a-- -și ----în-ceput coopera--re
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+-pe-ace in Europe and -the beginning of cooperation
+freda-- i- Europ--a-- och- ----nytta -samarbe--t--e
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+-peace in Europe and the beginning of -co-operation
+mie--r -v Európ--a-- --a ---zači-atok spolup-r--áca
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+peace in Europe and -the beginning -of cooperation
+--mir -v Evropa in- zače-te------k so-delo--va-nje
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+peace in Europe and the begi-n-ning of cooperation
+p-a-z en europ--a-- --y comienzo de el cooperación
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+peace in Europe and the beginning of co-operation
+--mírový Evrop--a-- --– --počátek --spolup-r--áce
+------------------------------
+------------------------------
+Sentence 1: peace in Europe and the beginning of cooperation
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+--peace in Europe and the beg--inning of cooperat-ion
+béke-kötés Európa -és -az -együttműködés kezde--tei--
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+--------rahu -Euroopa ja -koostöö algus
+мир в Европа и начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+-r-ahu Euroopa--- ja koostöö alg--us
+fred i Eur-opa og samarbejde begynde
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+--r----ahu Eur-oopa-- ja----- koostöö ----al----gu---s
+der Beginn der Zusammenarbeit für ein friedlich Europa
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+-ra---hu Euroop--a-- -ja ---------ko---ostöö algus
+peace in Eur-ope and the beginning of co-operation
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+rahu Euroopa ja koostöö algus
+rahu Euroopa ja koostöö algus
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+ra-h-----u Euroo-pa ja --koostöö algus
+rauha aika Eurooppa -– yhteistyö alkaa
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+---ra---hu Euroop---a ja koost----öö ------algus
+le paix en Eur-ope et le début de le coopération
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+--rahu ----Euroopa -ja koostöö -----algus
+ειρήνη στην Ευρώπη και -απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+--rah------u Euroopa ja koos-töö a-----lgus
+síocháin san Eoraip- -a--gus tús an comhair
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+---ra---hu Euroopa------------ ---ja koostöö a-lgus
+il pace in Eur-opa e il inizio della coo--perazione
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+-rahu Euroopa-- --ja- koos-töö algu-s
+miers Eir-opa – sadarbības pirmsākums
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+ra-hu Euroopa--- ------ja- koostöö --algus
+taika Eur-opa ir bendradarbiavimas pradžia
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+-r---ahu Euroopa ja --koostöö -a--lgus-----------
+vrede in Eur-opa en het begin van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+---rahu Euroopa ja ko-ostöö -----algus
+pokój w Eur-opa -i początek współpraca
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+--ra-hu Euro-----o-p-------a ja koostöö algus
+o paz o europa e o primórdio da coo--pera-ção
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+ra---hu Euroopa ja --koost--öö algus
+pace în Eur-opa și început cooperare
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+-r--ahu Euroopa -ja koostöö ---a-lgus
+freda i Eur-opa och --nytta samarbete
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+---rahu Euroopa ja -koostöö --algu----s
+mier- v Eur-ópa -a začiatok spol-upráca
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+--rahu Euroopa ja koostöö ---al---gus
+mir- v Evr-opa in začetek sodelovanje
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+ra--hu Euroopa ja ko-----o--stöö ------algus
+paz en eur-opa -y comienzo de el cooperación
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+--rahu Euroopa ja koostöö --algu----s
+mírový Evr-opa -– počátek spol-upráce
+------------------------------
+------------------------------
+Sentence 1: rahu Euroopa ja koostöö algus
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+-----rahu Euroopa --ja- -koost---ö--ö ---algus
+békekötés Eur-ópa és az együttműködés kezdetei
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+rauha --aika Eurooppa -– yhteistyö alkaa
+мир в Европа и начало на -сътрудничество
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+-rauha aika Eurooppa -– ---yhteistyö alkaa
+fr--ed -i-- Eur-o-pa og samarbejde begynde
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+--r---auha aika Eu-------r---ooppa --– yhteistyö -alkaa
+der Beginn -der Zusammenarbeit für ein friedlich Europa
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+-rauha aika Euroop-pa – yh--te----i-styö ------alkaa
+pea-ce -i-n Eur-ope and the beginning of cooperation
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+rauha aika Eurooppa -– yhteistyö alkaa
+ra-h-----u Euroo-pa ja --koostöö algus
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+rauha aika Eurooppa – yhteistyö alkaa
+rauha aika Eurooppa – yhteistyö alkaa
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+rauha -ai--ka Euroop--pa -– --yht-----e-istyö alkaa
+---le paix en Eur-ope et le début de le coopération
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+-rauha aika --Eurooppa – yhteistyö alkaa
+ειρήνη στην Ευρώπη και απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+-rauh--a -aika Eurooppa- – yhteistyö -alka-a
+síocháin sa--n Eoraip agus --t-ús an comhair
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+rauha-- aika Eurooppa – yhtei-styö -alka-------a-----
+il pace -i-n Eur-o-pa e -il inizio della cooperazione
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+rauha ai-ka Eurooppa – ----yhteis-työ alk-aa
+------miers Eir-o-pa – sadarbības pirmsākums
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+rauha aika Eurooppa -– ------yhtei--styö --alkaa
+-----taika Eur-o-pa ir bendradarbiavimas pradžia
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+-rauha aika Eurooppa -– yh-t--e-i----styö -a-----lk-aa
+vr-ede -i-n Eur-o-pa en -het begin van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+rauha aika Eurooppa – ---yhte--is-työ alkaa
+pokój ---w Eur-o-pa i początek współpra--ca
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+rauha -aika Eurooppa – yhtei--styö -a-----lka--a
+----o paz o eur-o-pa e o primórdio da cooperação
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+rauha aika Eurooppa -– yhteist-yö alka-a
+pa-ce --în Eur-o-pa și început cooperare
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+-rauha aika Eurooppa --– -yhteistyö a-lkaa
+fr-eda -i-- Eur-o-pa och nytta s--amarbete
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+rauha aika Eurooppa – yhteistyö --al---kaa
+-mier ---v Eur--ópa a -začiatok spolupráca
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+rauha aika Eurooppa -– --yhte-istyö al-ka--a
+--mir ---v Evr-o-pa in začetek s--odelovanje
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+rauha aika Eurooppa – -yhte-istyö al------ka---a
+pa--z --en eur-o-pa y comienzo de el cooperación
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+rauha aika Eurooppa – --yhte-istyö alkaa
+----mírový Evr-o-pa – počátek spolupráce
+------------------------------
+------------------------------
+Sentence 1: rauha aika Eurooppa – yhteistyö alkaa
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+rauha aika Eurooppa -– yhte--ist--yö--- ---alkaa
+-békekötés Eur--ópa és az együttműködés kezdetei
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+le paix en Europe et le début de le coopération
+----мир -в Европа -и --начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+-le- paix en Europe et le début de le coopération
+fred --i---- Europa og samarb-ejde be-------gynde
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+le- -pai-x -en Eu-rope--- e-t -le début de le coopératio-n
+der Beginn der Zusammenarbeit für ein friedl-ich Eur---opa
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+le paix en Europe -et -le -début de le coopération
+pe--ace in Europe and the beginning of cooperation
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+le paix en Eur-ope et le début de le coopération
+---ra---hu Euroop---a ja koost----öö ------algus
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+---le paix en Eur-ope et le début de le coopération
+rauha -ai--ka Euroop--pa -– --yht-----e-istyö alkaa
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+le paix en Europe et le début de le coopération
+le paix en Europe et le début de le coopération
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+le paix --en Europe et le début de le coopération
+-ειρήνη στην Ευρώπη --και -----απαρχή -συνεργασία
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+-le paix -en Eur-ope et le début de le coopération
+síocháin san Eoraip- -agus ----t-ús an c-o-mha-i-r
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+-le paix en Europe et -le -début de le coopération-
+il- pace in Europa e- il- inizio della cooperazione
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+le paix e-n Europe et le d-ébut de le coopér--ation
+----mi--ers Eiropa -– -sadarb----ības ---pirmsākums
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+le paix en Europe et le début de le coopéra-tion
+---tai--ka Europa ir bendradarbiavimas p-radži-a
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+-le paix en Europ--e- -et le- début de le coopération-
+vre---de in Europa en het begin van de -samenwer-ki-ng
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+le p-aix en Europe et le début de- le coopération
+---pokój -w Europa -i --począt--ek -współp-ra--ca
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+le paix en Europe et le début d-e le coopération
+-o pa-z -o europa e- -o primórdio da cooperação-
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+le paix en Europe et le début de le coopération
+---pace în Europa și -început------ coopera--re
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+-le paix en Europe et le début de le coopér-ation
+fre-da-- -i Europa --och --nyt----ta -samarbet--e
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+-le paix en Europe et le début de le co-opération
+mie----r -v Európa -a --začiat-ok --spolup-r--áca
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+le paix en Europe et --le début de le coopération
+----mir -v Evropa in zače-tek sode-l----o--va-nje
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+le paix en Europe et le début de -le coopération
+---pa-z en europa -y comienzo de el- cooperación
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+le paix en Europe et le début de- le co-opération
+----mírový Evrop---a -– počát--ek --spolup-r--áce
+------------------------------
+------------------------------
+Sentence 1: le paix en Europe et le début de le coopération
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+le paix en Europe et le -début--- d-e le coopérat-ion
+-békekötés Európa és az együttműködés ke-----zdetei--
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+ειρήνη στην Ευρώπη και απαρχή συνεργασία
+-мир в Европа и начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+ειρήνη στην Ευρώπη και -απαρχή συνεργασία
+--fred ---i Europa -og samarbejde begynde
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+----ειρήνη στην --------Ευρώπη και ---απαρχή συνεργασία
+der Beginn -der Zusammenarbeit für ein friedlich Europa
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+--ειρήνη --στην -Ευρώπη --και απαρχή -συνεργασία
+peace in Europe and the beginning of cooperation
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+ειρήνη στην Ευρώπη και -απαρχή συνεργασία
+--rahu ----Euroopa -ja koostöö -----algus
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+ειρήνη στην Ευρώπη και απαρχή συνεργασία
+-rauha aika --Eurooppa – yhteistyö alkaa
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+-ειρήνη στην Ευρώπη --και -----απαρχή -συνεργασία
+le paix --en Europe et le début de le coopération
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+ειρήνη στην Ευρώπη και απαρχή συνεργασία
+ειρήνη στην Ευρώπη και απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+--ειρήνη στην Ευρώπη -και απαρχή συνεργασία
+síocháin -san Eoraip agus ---tús an comhair
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+-ειρήνη στην Ευρώπη -και ------απαρχή --συνεργασία
+il pace --in Europa e il inizio della cooperazione
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+ειρήνη στην Ευρώπη και απαρχή συνεργασία
+-miers ---Eiropa – sadarbības pirmsākums
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+ειρήνη --στην Ευρώπη και απαρχή συνεργασία
+-taika Europa ir bendradarbiavimas pradžia
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+--ειρήνη --στην Ευρώπη --και απαρχή --συνεργασία
+vrede in Europa en het begin van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+ειρήνη στην Ευρώπη και απαρχή συνεργασία
+-pokój ---w Europa i początek współpraca
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+ειρήνη στην Ευρώπη και ------απαρχή συνεργασία
+-o paz ---o europa e o primórdio da cooperação
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+ειρήνη στην Ευρώπη και -απαρχή συνεργασία
+--pace --în Europa -și început -cooperare
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+ειρήνη στην Ευρώπη και απαρχή συνεργασία
+-freda ---i Europa och -nytta -samarbete
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+ειρήνη στην Ευρώπη και απαρχή συνεργασία
+--mier ---v Európa a začiatok spolupráca
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+ειρήνη στην Ευρώπη και -απαρχή -συνεργασία
+---mir ---v Evropa -in začetek sodelovanje
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+ειρήνη --στην Ευρώπη και απαρχή -συνεργασία
+paz en europa y comienzo -de el cooperación
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+ειρήνη στην Ευρώπη και -απαρχή συνεργασία
+-----mírový Evropa --– počátek spolupráce
+------------------------------
+------------------------------
+Sentence 1: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+---ειρήνη --στην Ευρώπη -και απαρχή συνεργασία
+békekötés Európa -és az együttműködés kezdetei
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+síocháin san Eoraip agus tús an comhair
+мир в Европа и начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+síocháin san Eoraip- agus-- tús an comhair
+----fred --i Eur-opa og samarbejde begynde
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+-síochái-n san Eora-ip a--gus tús -an -----comh-air---
+der Beginn der Zusammenarbeit für ein friedlich Europa
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+síocháin san Eoraip- agus tús ------an---- c-o-mha-i-r
+peac---e -in Eur-ope a-nd the beginning of cooperation
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+síocháin san Eoraip- -a--gus tús an comhair
+--rah------u Euroopa ja koos-töö a-----lgus
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+síocháin sa--n Eoraip agus --t-ús an comhair
+-rauh--a -aika Eurooppa- – yhteistyö -alka-a
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+síocháin san Eoraip- -agus ----t-ús an c-o-mha-i-r
+-le paix -en Eur-ope et le début de le coopération
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+síocháin -san Eoraip agus ---tús an comhair
+--ειρήνη στην Ευρώπη -και απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+síocháin san Eoraip agus tús an comhair
+síocháin san Eoraip agus tús an comhair
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+--síocháin san Eora---ip --agus tús an c-o-mha-i--r
+il pace in --Europa e il inizio della- cooperazione
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+síocháin san E--oraip -a-gus tús an comhair
+-----miers-- Eiropa – sadarbības pirmsākums
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+síocháin san E--ora-ip -----a-gus tús an comhair
+----tai--ka- Europa ir bendradarbiavimas pradžia
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+síocháin san Eoraip agus --t----ús -an--- com----hai-r
+---vrede -in Eur-op-a en het begin van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+síocháin san E--ora-ip agus tús an comhair
+-po--kój --w Europa i- początek współpraca
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+síocháin san Eo---r--a--ip -agus tús -an c-o-mha-ir
+--o----- paz -o europa e o primórdio da- cooperação
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+síocháin san Eoraip agus -tús an c-o-mhair-
+-pac---e -în Eur-op-a și început coopera-re
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+síocháin san Eoraip- agus tús an comhair----
+---freda --i Eur-opa -och nytta- sam-a-rbete
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+síochái-n san Eoraip- agus tús a--n -comhair---
+-----mier --v Eur-ópa a--- začiatok spo-lupráca
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+síocháin san E--ora-ip -agus tús -an comha-ir
+-----mir --v Evropa in za--četek sodelo-vanje
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+síocháin ----sa-n Eoraip agus tús an c-o-mha-i-r
+--paz en europa y co-mi--enzo -de el cooperación
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+sí-ocháin san Eoraip- -agus tús an comhair---
+míro-------vý Evr-opa – počátek --spo-lupráce
+------------------------------
+------------------------------
+Sentence 1: síocháin san Eoraip agus tús an comhair
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+síocháin san Eor--a-ip a---gus t-----ús an comhair
+-békekötés-- Európa és az együttműködés -kezdetei-
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+il pace in Europa e il inizio della cooperazione
+----мир -в --Европа -и начало -на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+il pace- in Europa -e il inizio della cooperazion-e
+----fred i- Europa og --samarbejde--- ---be---gynde
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+-il pace i-n Eur--opa- e---- il -inizio --della cooperazione
+der --Beginn der Zusammenarbeit für ein friedl-ich Eur---opa
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+il p-ace in Europ--a-- --e il i-nizio della cooperazione
+---peace in Europe and the beginni-ng ---of cooperation-
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+il pace in Eur-opa e il inizio della coo--perazione
+---ra---hu Euroopa------------ ---ja koostöö a-lgus
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+il pace -i-n Eur-o-pa e -il inizio della cooperazione
+rauha-- aika Eurooppa – yhtei-styö -alka-------a-----
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+il- pace in Europa e- il- inizio della cooperazione
+-le paix en Europe et -le -début de le coopération-
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+il pace --in Europa e il inizio della cooperazione
+-ειρήνη στην Ευρώπη -και ------απαρχή --συνεργασία
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+il pace in --Europa e il inizio della- cooperazione
+--síocháin san Eora---ip --agus tús an c-o-mha-i--r
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+il pace in Europa e il inizio della cooperazione
+il pace in Europa e il inizio della cooperazione
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+-il pace in Europa e il inizio della- cooper-azione
+mi-----e-rs Eiropa-- -– ---sadarbības ---pirmsākums
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+il pace i-n Europa e il -inizio d-ella-- coopera-zione
+---ta---ika Europa-- ir ben--dradarbiavimas p-radži--a
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+il pace in Europa e- -il ---inizio della cooperazione
+--vrede in Europa en het begin van de sa-menwer-ki-ng
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+il p-ace in Europa e il inizio della coop--erazione
+---pokój -w Europa-- i- pocz--ąte--k -współpra---ca
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+il pace in Europa e il --i-nizio della cooperazione
+-o pa-z -o europa e -o primórdio d---a cooperação--
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+il pace in Europa e il inizio della cooperazione
+---pace în Europa -și- în-----ceput coopera---re
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+il pace in Europa e il inizio della cooperazione
+freda-- i- Europa -och -n------ytta ---samarbete
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+-il pace- in Europa e il inizio- della cooperazione
+mi-----er -v Európa a --začiatok spol----up-r---áca
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+-il pace in Europa e il inizio della cooperazion-e
+mi-----r -v Evropa----- in z--ačetek -sode-lovanje
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+il pace in Europa e il i-nizio de-lla cooperazione
+---pa-z en europa y comien-z-o de el- cooperación-
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+il pace in Europa e il inizio- della -co-operazione
+----mírový Evropa-- -– ----počáte--k spolup-r---áce
+------------------------------
+------------------------------
+Sentence 1: il pace in Europa e il inizio della cooperazione
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+il pace in Europa -e il -inizio della cooperazione-
+-békekötés Európa és az együttműködés ---ke--zdetei
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+miers Eiropa – sadarbības ----pirmsākums
+мир в Европа и -начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+mie-rs Eiropa -– sadarbības pirmsākums
+fred i Europa og samarbejde ---begynde
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+miers --Ei--ropa – sa---darb---ības pi---r-----msāku--ms
+-der- Beginn der Zusammenarbeit für ein friedlich Europa
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+--mie-rs Eirop--a-- --– --sadarbības ---pirmsākums
+peace in Europe and the beginning of cooper--ation
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+miers Eir-opa – sadarbības pirmsākums
+-rahu Euroopa-- --ja- koos-töö algu-s
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+------miers Eir-o-pa – sadarbības pirmsākums
+rauha ai-ka Eurooppa – ----yhteis-työ alk-aa
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+----mi--ers Eiropa -– -sadarb----ības ---pirmsākums
+le paix e-n Europe et le d-ébut de le coopér--ation
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+-miers ---Eiropa – sadarbības pirmsākums
+ειρήνη στην Ευρώπη και απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+-----miers-- Eiropa – sadarbības pirmsākums
+síocháin san E--oraip -a-gus tús an comhair
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+mi-----e-rs Eiropa-- -– ---sadarbības ---pirmsākums
+-il pace in Europa e il inizio della- cooper-azione
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+miers Eiropa – sadarbības pirmsākums
+miers Eiropa – sadarbības pirmsākums
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+-miers Eiropa -– ----sadarb---ības pirmsākums
+tai-ka Europa ir bendradarbiavimas p-r--adžia
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+--mie-rs Eiropa -– sadarb----ības --pirm---sākums
+vrede in Europa en -het begin van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+--miers Eiropa – -sadarbības pirmsākums
+pokój w Europa i początek ws-p--ółpraca
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+--miers Eiropa-- – -sadar--bības ---pirmsākums
+o paz o europa e o primórdio da- cooper---ação
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+-mie-rs Eiropa -– sadarbības pirmsākums
+pace în Europa și început cooper----are
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+mie--rs Eiropa – sadarbības pirmsākums
+freda i Europa-- och nytta- -samarbete
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+mier-s Eiropa – sa-darbības pirmsākums
+mier v Európa a začia-tok s-p-olupráca
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+mier-s Eiropa -– sadarbības pirmsākums
+mi-r v Evropa in za-četek s-odelovanje
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+--miers Eiropa – -------sadarbības pirmsākums
+paz e-n europa y comienzo de el cooper--ación
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+mier--s Eiropa – sadarbības pirmsākums
+m-írový Evropa – -počátek s-p-olupráce
+------------------------------
+------------------------------
+Sentence 1: miers Eiropa – sadarbības pirmsākums
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+-mie---rs Eiropa -– sa-darbības pirmsāk----ums
+békekötés Európa és -az együttműködés kezdetei
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+taika Europa ir bendradarbiavimas pradžia
+мир в Европа -и -начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+-taika Europa ir bendradarbiavimas pradžia
+fred i Europa og ----samarb---ejde begynde
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+taika Europa -ir -bendradarb-i---avimas pr-adži--------a
+--der Beginn der Zusammenarbeit für ein friedlich Europa
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+-ta---ika Europa ir bendradarb--iavi--mas ---p-radži-a
+peace i-n Europ---e -and the beginning of coopera-tion
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+taika Eur-opa ir bendradarbiavimas pradžia
+ra-hu Euroopa--- ------ja- koostöö --algus
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+-----taika Eur-o-pa ir bendradarbiavimas pradžia
+rauha aika Eurooppa -– ------yhtei--styö --alkaa
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+---tai--ka Europa ir bendradarbiavimas p-radži-a
+le paix en Europe et le début de le coopéra-tion
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+-taika Europa ir bendradarbiavimas pradžia
+ειρήνη --στην Ευρώπη και απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+----tai--ka- Europa ir bendradarbiavimas pradžia
+síocháin san E--ora-ip -----a-gus tús an comhair
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+---ta---ika Europa-- ir ben--dradarbiavimas p-radži--a
+il pace i-n Europa e il -inizio d-ella-- coopera-zione
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+tai-ka Europa ir bendradarbiavimas p-r--adžia
+-miers Eiropa -– ----sadarb---ības pirmsākums
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+taika Europa ir bendradarbiavimas pradžia
+taika Europa ir bendradarbiavimas pradžia
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+----taika Europa--- -ir be--ndra--darbiavimas pradži-a
+vrede i-n Europa en het begin van d-e sa--menwer--king
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+taik---a Europa ir bendradarbiavimas pradžia
+-pokój w Europa i- ----początek współpra--ca
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+--taika Europa ir bendradarbiavimas ---p-radžia
+o paz o europa -e -o primórdi-o da- coopera-ção
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+ta--ika Europa -ir bendradarbiavimas p-radžia
+pace în Europa și- -în------ceput coopera--re
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+---ta-ika Europa -ir bendradarbiavimas pradžia
+freda i-- Europa och --n-ytta- sa--ma---r-bete
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+tai--ka Europa ir bendradarbiavimas--- pradžia
+-mier v Európa -a ------za-čiatok spolupr--áca
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+tai-ka Europa ir bendradarbiavimas pradžia
+-mir v Evropa i----n za-četek sodelova-nje
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+ta-ika Europa ir ---bendradarbiavimas p-radži-a
+paz en europa -y comienzo d---e el coopera-ción
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+-taika Europa ir bendradarbiavimas pradžia
+mírový Evropa -– -----počátek spolupr--áce
+------------------------------
+------------------------------
+Sentence 1: taika Europa ir bendradarbiavimas pradžia
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+-taik---a Europa ir bendradarbiavimas prad--žia
+békekötés Európa és -az együttműködés kezdetei-
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+vrede in Europa en het begin van de samenwerking
+--мир -в Европа -и ---начало -на -сътрудничество
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+vrede in Europa en -het begin van de samenwerking
+fred- i- Europa og samarbe-------jde begynde-----
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+-vrede i-n Eur--opa- en- he-t ---begin van de samenwerking
+der Beginn der Zusammenarbeit für e-in --friedlich Eur-opa
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+vre-de in Europa en- -het begin van- de samenwer-ki-ng
+-peace in Europe and the- begin-ning of --cooperation-
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+vrede in Eur-opa en het begin van de samenwerking
+-r---ahu Euroopa ja --koostöö -a--lgus-----------
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+vr-ede -i-n Eur-o-pa en -het begin van de samenwerking
+-rauha aika Eurooppa -– yh-t--e-i----styö -a-----lk-aa
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+vre---de in Europa en het begin van de -samenwer-ki-ng
+-le paix en Europ--e- -et le- début de le coopération-
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+vrede in Europa en het begin van de samenwerking
+--ειρήνη --στην Ευρώπη --και απαρχή --συνεργασία
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+---vrede -in Eur-op-a en het begin van de samenwerking
+síocháin san Eoraip agus --t----ús -an--- com----hai-r
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+--vrede in Europa en het begin van de sa-menwer-ki-ng
+il pace in Europa e- -il ---inizio della cooperazione
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+vrede in Europa en -het begin van de samenwerking
+--mie-rs Eiropa -– sadarb----ības --pirm---sākums
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+vrede i-n Europa en het begin van d-e sa--menwer--king
+----taika Europa--- -ir be--ndra--darbiavimas pradži-a
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+vrede in Europa en het begin van de samenwerking
+vrede in Europa en het begin van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+vrede in Europa en -het begin van de samenwerking
+pokój -w Europa -i począte------k --ws--półpr-aca
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+vrede in Europa en het begi-n van de samenwerking
+o paz -o europa e- --o -primórdio da --cooperação
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+vrede in Europa en het begin van de samenwerking
+-pace în Europa și --început -coope-ra-----r---e
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+vrede in Europa en het begin- van de samenwerking
+freda i- Europa -och-- ----nytta---- sam---arbete
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+vrede in Europa en het begin van de samenwerking
+mie-r -v Európa--- --a zači---a-tok s-polupr-áca
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+-vrede in Europa en --het begin van de- samenwerking
+mir--- -v Evropa in začet--e--k --sodelova--nje-----
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+vrede in Europa en het begin van de -samenwer-ki-ng
+--paz en europa -y -comie--n--zo de el cooperación-
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+-vrede in Europa en het begin van de samenwerking
+mír---ový Evropa -– počáte---------k s-polupr-áce
+------------------------------
+------------------------------
+Sentence 1: vrede in Europa en het begin van de samenwerking
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+-vrede in Europa en het beg-in van de samenwerking
+békekötés Európa és -az -együttműköd-és kezdetei--
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+pokój w Europa i -początek ----współpraca
+--мир в Европа и начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+pokój w Europa -i początek współpraca
+-fred i Europa og samarbe-jde begynde
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+-----pokój --w Eu-------r-opa --i -początek współpraca
+der Beginn der Zusammenarbeit für ein friedlich Europa
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+pokój -w Europ--a-- --i -początek -współp-ra--ca
+peace in Europe and the beginning of cooperation
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+pokój w Eur-opa -i początek współpraca
+---rahu Euroopa ja ko-ostöö -----algus
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+pokój ---w Eur-o-pa i początek współpra--ca
+rauha aika Eurooppa – ---yhte--is-työ alkaa
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+---pokój -w Europa -i --począt--ek -współp-ra--ca
+le p-aix en Europe et le début de- le coopération
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+-pokój ---w Europa i początek współpraca
+ειρήνη στην Ευρώπη και απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+-po--kój --w Europa i- początek współpraca
+síocháin san E--ora-ip agus tús an comhair
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+---pokój -w Europa-- i- pocz--ąte--k -współpra---ca
+il p-ace in Europa e il inizio della coop--erazione
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+pokój w Europa i początek ws-p--ółpraca
+--miers Eiropa – -sadarbības pirmsākums
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+-pokój w Europa i- ----początek współpra--ca
+taik---a Europa ir bendradarbiavimas pradžia
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+pokój -w Europa -i począte------k --ws--półpr-aca
+vrede in Europa en -het begin van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+pokój w Europa i początek współpraca
+pokój w Europa i początek współpraca
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+po-kój w Europa-- i p-oczątek -współp-ra-ca
+-o paz o europa e o primórdio da cooperação
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+pokój -w Europa -i poc-zątek -współpraca
+p-ace în Europa și început-- coop--erare
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+pokój w Europa i poc--zątek współpr-aca
+freda i Europa-- -och nytta -s-amarbete
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+pokój w Europa i początek wsp-ółpraca
+-mier v Európa a začiatok -spolupráca
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+pokój w Europa i- początek ws-półpra-ca
+--mir v Evropa in -začetek -sodelovanje
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+pokój -w Europa i po---cz-ątek -współp-rac--a
+p--az en europa y comienzo de- el cooperación
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+pokój w Europa i początek wsp-ółpraca
+-mírový Evropa – po-čátek -spolupráce
+------------------------------
+------------------------------
+Sentence 1: pokój w Europa i początek współpraca
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+--pokój w Europa--- -i począt-ek- ws-półpraca
+békekötés Európa és az együttműködés kezdetei
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+o paz o europa e o primórdio -da cooperação
+--мир в --Европа и начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+o paz o europa e o- primórdio da cooperação
+-fred i Europa-- og -samar-bejde ---begynde
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+--o ---paz --o eu---ropa- e o -pr--i-mórdio da cooperação
+der Beginn der Zusammenarbeit für ein fr-i-edlich Eur-opa
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+o p-a-z -o europ--a-- --e o primórdi-o da cooperação-
+--peace in Europe and the -begi--nning of cooperation
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+o paz o europa e o primórdio da coo--pera-ção
+--ra-hu Euro-----o-p-------a ja koostöö algus
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+----o paz o eur-o-pa e o primórdio da cooperação
+rauha -aika Eurooppa – yhtei--styö -a-----lka--a
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+-o pa-z -o europa e- -o primórdio da cooperação-
+le paix en Europe et le début d-e le coopération
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+-o paz ---o europa e o primórdio da cooperação
+ειρήνη στην Ευρώπη και ------απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+--o----- paz -o europa e o primórdio da- cooperação
+síocháin san Eo---r--a--ip -agus tús -an c-o-mha-ir
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+-o pa-z -o europa e -o primórdio d---a cooperação--
+il pace in Europa e il --i-nizio della cooperazione
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+o paz o europa e o primórdio da- cooper---ação
+--miers Eiropa-- – -sadar--bības ---pirmsākums
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+o paz o europa -e -o primórdi-o da- coopera-ção
+--taika Europa ir bendradarbiavimas ---p-radžia
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+o paz -o europa e- --o -primórdio da --cooperação
+vrede in Europa en het begi-n van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+-o paz o europa e o primórdio da cooperação
+po-kój w Europa-- i p-oczątek -współp-ra-ca
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+o paz o europa e o primórdio da cooperação
+o paz o europa e o primórdio da cooperação
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+o pa-z -o europa e o primórdio da cooperação
+--pace în Europa---- -și- început coopera-re
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+-o paz o europa e o primórdio da cooperação
+freda- i Europa-- o-----ch nytta -samarbete
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+o paz o europa e o primórdio- da co-operação
+-mier v Európa a -zači---atok --spolup-r-áca
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+o paz o europa -e o primórdio da cooperação
+--mir v Evropa in -začetek so-d--elo--vanje
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+o paz -o europa e -o primórdio d---a coopera-ção
+--paz en europa y co----mienzo de el cooperación
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+o paz o europa e o primórdio da co-operação
+-mírový Evropa-- – p--očátek --spolup-r-áce
+------------------------------
+------------------------------
+Sentence 1: o paz o europa e o primórdio da cooperação
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+--o paz o europa -e -o primórdio d-a cooperação
+békekötés Európa és az együttműködés kezde--tei
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+pace în Europa și --început -----cooperare
+-мир -в Европа -и начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+pace- în Europa și ---început coope-rare
+-fred -i Europa og samarbejde ---begynde
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+--pace---- -în Eu-------r-----opa și- înce--put -cooperare
+der Beginn der Zusammenarbeit für ein friedlich Europ--a--
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+p-ace în Europ--a-- -și ----în-ceput coopera--re
+peace in Europe and the beginning of cooperation
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+pace în Eur-opa și început cooperare
+ra---hu Euroopa ja --koost--öö algus
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+pa-ce --în Eur-o-pa și început cooperare
+rauha aika Eurooppa -– yhteist-yö alka-a
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+---pace în Europa și -început------ coopera--re
+le paix en Europe et le début de le coopération
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+--pace --în Europa -și început -cooperare
+ειρήνη στην Ευρώπη και -απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+-pac---e -în Eur-op-a și început coopera-re
+síocháin san Eoraip agus -tús an c-o-mhair-
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+---pace în Europa -și- în-----ceput coopera---re
+il pace in Europa e il inizio della cooperazione
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+pace în Europa și început cooper----are
+-mie-rs Eiropa -– sadarbības pirmsākums
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+pace în Europa și- -în------ceput coopera--re
+ta--ika Europa -ir bendradarbiavimas p-radžia
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+-pace în Europa și --început -coope-ra-----r---e
+vrede in Europa en het begin van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+p-ace în Europa și început-- coop--erare
+pokój -w Europa -i poc-zątek -współpraca
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+--pace în Europa---- -și- început coopera-re
+o pa-z -o europa e o primórdio da cooperação
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+pace în Europa și început cooperare
+pace în Europa și început cooperare
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+pace-- în Europa -și început- cooper-are
+-freda -i Europa och -n--ytta -samarbete
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+pace- în Europa și început-- -co-operare
+-mier -v Európa -a -začiatok spolup-ráca
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+pace în Europa și- început coope--ra-re
+-mir -v Evropa -in začetek -sodelovanje
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+pace în Europa-- --și în---ceput coopera--re
+pa-z en europa y comi-enzo de el cooperación
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+pace în Europa și început -co-operare
+-mírový Evropa -– počátek spolup-ráce
+------------------------------
+------------------------------
+Sentence 1: pace în Europa și început cooperare
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+pace-- în Europa și înce--put---- coope-rare-
+békekötés Európa és az együttműködés kezdetei
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+freda i Europa ---och --nytta samarbete
+мир в Европа и начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+freda i Europa och nytta samar------be---te
+fred- i Europa o-------g samarbejde begynde
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+-fr--e--da --i Eu-------r-opa och --n----ytta samarbete
+der Beginn der Zusammenarbeit für ein friedlich Eur-opa
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+freda-- i- Europ--a-- och- ----nytta -samarbe--t--e
+-pe-ace in Europe and -the beginning of cooperation
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+freda i Eur-opa och --nytta samarbete
+-r--ahu Euroopa -ja koostöö ---a-lgus
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+fr-eda -i-- Eur-o-pa och nytta s--amarbete
+-rauha aika Eurooppa --– -yhteistyö a-lkaa
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+fre-da-- -i Europa --och --nyt----ta -samarbet--e
+-le paix en Europe et le début de le coopér-ation
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+-freda ---i Europa och -nytta -samarbete
+ειρήνη στην Ευρώπη και απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+---freda --i Eur-op-a och nytta- sam-a-rbete
+síocháin san Eoraip a-gus tús an comhair----
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+freda-- i- Europa -och -n------ytta ---samarbete
+il pace in Europa e il inizio della cooperazione
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+freda i Europa-- och nytta- -samarbete
+mie--rs Eiropa – sadarbības pirmsākums
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+freda i Europa och --n-ytta- sa--ma---r-bete
+taika-- Europa -ir bendradarbiavimas pradžia
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+freda i- Europa -och-- ----nytta---- sam---arbete
+vrede in Europa en het begin- van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+freda i Europa-- -och nytta -s-amarbete
+pokój w Europa i poc--zątek współpr-aca
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+freda- i Europa-- o-----ch nytta -samarbete
+-o paz o europa e o primórdio da cooperação
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+-freda -i Europa och -n--ytta -samarbete
+pace-- în Europa -și început- cooper-are
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+freda i Europa och nytta samarbete
+freda i Europa och nytta samarbete
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+freda i Europa -och nytta s--amarbete
+mie-r v Európa a začiatok spolupr-áca
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+-freda i Europa och --nytta s--amarbete
+mir--- v Evropa -in začetek sodelovanje
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+freda- -i Europa-- -o----ch nytta -samar-bete
+---paz en europa y comienzo de el cooperación
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+-freda i Europa och nytta s--amarbete
+mír--ový Evropa – počátek spolupr-áce
+------------------------------
+------------------------------
+Sentence 1: freda i Europa och nytta samarbete
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+-fre-da i Europa --och -ny-tt----a samarbete-
+békekötés Európa és az együttműködés kezdetei
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+mier v Európa a -začiatok ----spolupráca
+-мир в Европа и начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+mier v Európa -a začiatok spolupráca
+fred i Europa og sa-marbejde begynde
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+mier -----v Eur--ópa a za--čiat------ok --spol-----upráca
+-der Beginn der Zusammenarbei-t für ein friedlich Eu-ropa
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+mie--r -v Európ--a-- --a ---zači-atok spolup-r--áca
+-peace in Europe and the beginning of -co-operation
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+mier- v Eur-ópa -a začiatok spol-upráca
+---rahu Euroopa ja -koostöö --algu----s
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+-mier ---v Eur--ópa a -začiatok spolupráca
+rauha aika Eurooppa – yhteistyö --al---kaa
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+----mier -v Európa -a --začiat-ok --spolup-r--áca
+le pai-x en Europe et le début de le co-opération
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+--mier ---v Európa a začiatok spolupráca
+ειρήνη στην Ευρώπη και απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+-----mier --v Eur-ópa a--- začiatok spo-lupráca
+síochái-n san Eoraip- agus tús a--n -comhair---
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+mi-----er -v Európa a --začiatok spol----up-r---áca
+-il pace- in Europa e il inizio- della cooperazione
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+mier v Európa a začia-tok s-p-olupráca
+mier-s Eiropa – sa-darbības pirmsākums
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+-mier v Európa -a ------za-čiatok spolupr--áca
+tai--ka Europa ir bendradarbiavimas--- pradžia
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+mie-r -v Európa--- --a zači---a-tok s-polupr-áca
+vrede in Europa en het begin van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+-mier v Európa a začiatok -spolupráca
+pokój w Europa i początek wsp-ółpraca
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+-mier v Európa a -zači---atok --spolup-r-áca
+o paz o europa e o primórdio- da co-operação
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+-mier -v Európa -a -začiatok spolup-ráca
+pace- în Europa și început-- -co-operare
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+mie-r v Európa a začiatok spolupr-áca
+freda i Europa -och nytta s--amarbete
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+mier v Európa a začiatok spolupráca
+mier v Európa a začiatok spolupráca
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+mier v Európa -a začiatok spo--lupráca
+mi-r v Evropa in zač-etek s-odelovanje
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+mier -v Európa a zači-ato--k --spolup-rác--a
+-paz en europa y comienzo de el co-operación
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+mier v- Európa a začiatok spolupráca
+m-írový Evropa – poč-átek spolupráce
+------------------------------
+------------------------------
+Sentence 1: mier v Európa a začiatok spolupráca
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+-mie--r v Európa--- a- začiat-ok-- spolupráca
+békekötés Európa és az együttműködés kezdetei
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+mir v Evropa in --začetek ---sodelovanje
+мир в Европа -и начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+mir-- v Evropa in za-četek sode-lovanje
+-fred i Europa og samarbe---jde begynde
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+mir -----v Evr--opa- in za-če-t-----e-k sode-l-------ovanje
+der Beginn der Zusammen--arbeit für ein friedlich Europa---
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+--mir -v Evropa in- zače-te------k so-delo--va-nje
+peace in Europe and -the beginning -of cooperation
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+mir- v Evr-opa in začetek sodelovanje
+--rahu Euroopa ja koostöö ---al---gus
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+--mir ---v Evr-o-pa in začetek s--odelovanje
+rauha aika Eurooppa -– --yhte-istyö al-ka--a
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+----mir -v Evropa in zače-tek sode-l----o--va-nje
+le paix en Europe et --le début de le coopération
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+---mir ---v Evropa -in začetek sodelovanje
+ειρήνη στην Ευρώπη και -απαρχή -συνεργασία
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+-----mir --v Evropa in za--četek sodelo-vanje
+síocháin san E--ora-ip -agus tús -an comha-ir
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+mi-----r -v Evropa----- in z--ačetek -sode-lovanje
+-il pace in Europa e il inizio della cooperazion-e
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+mi-r v Evropa in za-četek s-odelovanje
+mier-s Eiropa -– sadarbības pirmsākums
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+-mir v Evropa i----n za-četek sodelova-nje
+tai-ka Europa ir bendradarbiavimas pradžia
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+mir--- -v Evropa in začet--e--k --sodelova--nje-----
+-vrede in Europa en --het begin van de- samenwerking
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+--mir v Evropa in -začetek -sodelovanje
+pokój w Europa i- początek ws-półpra-ca
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+--mir v Evropa in -začetek so-d--elo--vanje
+o paz o europa -e o primórdio da cooperação
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+-mir -v Evropa -in začetek -sodelovanje
+pace în Europa și- început coope--ra-re
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+mir--- v Evropa -in začetek sodelovanje
+-freda i Europa och --nytta s--amarbete
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+mi-r v Evropa in zač-etek s-odelovanje
+mier v Európa -a začiatok spo--lupráca
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+mir v Evropa in začetek sodelovanje
+mir v Evropa in začetek sodelovanje
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+mir -v Evropa-- ---i-n z-ačetek -sodelova-nje
+paz en europa y comien-zo de el coope--ración
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+mir v- Evropa in začetek s-odelovanje
+mírový Evropa -– počátek spo--lupráce
+------------------------------
+------------------------------
+Sentence 1: mir v Evropa in začetek sodelovanje
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+----mir v Evropa in -zače----t-ek-- sodelovanje-
+békekötés Európa és az- együttműködés ke--zdetei
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+paz en europa y comienzo de el cooperación
+мир -в Европа и --начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+-paz en europa -y comienzo de -el cooperación
+fred -i Europa og sam-arbejde be--gynde------
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+paz -e---n -europa y comien----zo ---de-- ---e-l cooperación
+der Beginn de-r--- Zusammenarbeit für ein friedlich Eur--opa
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+p-a-z en europ--a-- --y comienzo de el cooperación
+peace in Europe and the begi-n-ning of cooperation
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+paz en eur-opa -y comienzo de el cooperación
+ra--hu Euroopa ja ko-----o--stöö ------algus
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+pa--z --en eur-o-pa y comienzo de el cooperación
+rauha aika Eurooppa – -yhte-istyö al------ka---a
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+---pa-z en europa -y comienzo de -el cooperación
+le paix en Europe et le début de le- coopération
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+paz en europa y comienzo -de el cooperación
+ειρήνη --στην Ευρώπη και απαρχή -συνεργασία
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+--paz en europa y co-mi--enzo -de el cooperación
+síocháin ----sa-n Eoraip agus tús an c-o-mha-i-r
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+---pa-z en europa y comien-z-o de el- cooperación-
+il pace in Europa e il i-nizio de-lla cooperazione
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+paz e-n europa y comienzo de el cooper--ación
+--miers Eiropa – -------sadarbības pirmsākums
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+paz en europa -y comienzo d---e el coopera-ción
+ta-ika Europa ir ---bendradarbiavimas p-radži-a
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+--paz en europa -y -comie--n--zo de el cooperación-
+vrede in Europa en het begin van de -samenwer-ki-ng
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+p--az en europa y comienzo de- el cooperación
+pokój -w Europa i po---cz-ątek -współp-rac--a
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+--paz en europa y co----mienzo de el cooperación
+o paz -o europa e -o primórdio d---a coopera-ção
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+pa-z en europa -y comienzo de el cooperación
+pace în Europa și ----în---ceput coopera--re
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+---paz en europa y comienzo de el cooperación
+freda- -i Europa-- -o----ch nytta -samar-bete
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+-paz en europa y comienzo- de el cooperación
+mier -v Európa a zači-atok -spol---up-rác--a
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+paz en europa y comien-zo de el coope--ración
+mir -v Evropa-- ---i-n z-ačetek -sodelova-nje
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+paz en europa y comienzo de el cooperación
+paz en europa y comienzo de el cooperación
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+paz en europa y co-mienzo de el cooperación
+mírový Evropa – počáte--k -spol---up-rác--e
+------------------------------
+------------------------------
+Sentence 1: paz en europa y comienzo de el cooperación
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+paz e----n europa -y comie---nzo de el cooperación
+-békekötés Európa és -az együttműködés kezde-tei--
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+mírový Evropa – --počátek ----spolupráce
+-мир в Европа и начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+mír-ový Evropa -– -počátek spolupráce
+-fred i Europa og samarbe-jde begynde
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+mír----ový Evr--opa-- – počát-----e-k --spol-----upráce
+der Beginn der Zusammenarbeit für ein friedlich Eu-ropa
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+--mírový Evrop--a-- --– --počátek --spolup-r--áce
+peace in Europe and the beginning of co-operation
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+mírový Evr-opa -– počátek spol-upráce
+--rahu Euroopa ja koostöö --algu----s
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+----mírový Evr-o-pa – počátek spolupráce
+rauha aika Eurooppa – --yhte-istyö alkaa
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+----mírový Evrop---a -– počát--ek --spolup-r--áce
+le paix en Europe et le début de- le co-opération
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+-----mírový Evropa --– počátek spolupráce
+ειρήνη στην Ευρώπη και -απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+míro-------vý Evr-opa – počátek --spo-lupráce
+sí-ocháin san Eoraip- -agus tús an comhair---
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+----mírový Evropa-- -– ----počáte--k spolup-r---áce
+il pace in Europa e il inizio- della -co-operazione
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+m-írový Evropa – -počátek s-p-olupráce
+mier--s Eiropa – sadarbības pirmsākums
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+mírový Evropa -– -----počátek spolupr--áce
+-taika Europa ir bendradarbiavimas pradžia
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+mír---ový Evropa -– počáte---------k s-polupr-áce
+-vrede in Europa en het begin van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+-mírový Evropa – po-čátek -spolupráce
+pokój w Europa i początek wsp-ółpraca
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+-mírový Evropa-- – p--očátek --spolup-r-áce
+o paz o europa e o primórdio da co-operação
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+-mírový Evropa -– počátek spolup-ráce
+pace în Europa și început -co-operare
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+mír--ový Evropa – počátek spolupr-áce
+-freda i Europa och nytta s--amarbete
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+m-írový Evropa – poč-átek spolupráce
+mier v- Európa a začiatok spolupráca
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+mírový Evropa -– počátek spo--lupráce
+mir v- Evropa in začetek s-odelovanje
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+mírový Evropa – počáte--k -spol---up-rác--e
+paz en europa y co-mienzo de el cooperación
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+mírový Evropa – počátek spolupráce
+mírový Evropa – počátek spolupráce
+------------------------------
+------------------------------
+Sentence 1: mírový Evropa – počátek spolupráce
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+---mírový Evropa--- -– -počát-ek-- spolupráce-
+békekötés Európa és az együttműködés- kezdetei
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: мир в Европа и начало на сътрудничество
+Alignment:
+békekötés Európa és az együttműködés kezdetei
+----мир в Европа -и -начало на сътрудничество
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: fred i Europa og samarbejde begynde
+Alignment:
+békekötés Európa és -az együttműködés kezdetei
+-fre--d i Europa og sa------marbejd-e begynde-
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: der Beginn der Zusammenarbeit für ein friedlich Europa
+Alignment:
+--békekötés Európa -és az e---gyüttműködés --kezd-------etei
+der Be-ginn der--- Zus-ammenarbeit für ein frie-dlich Europa
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: peace in Europe and the beginning of cooperation
+Alignment:
+béke-kötés Európa -és -az -együttműködés kezde--tei--
+--peace in Europe and the beg--inning of cooperat-ion
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: rahu Euroopa ja koostöö algus
+Alignment:
+békekötés Eur-ópa és az együttműködés kezdetei
+-----rahu Euroopa --ja- -koost---ö--ö ---algus
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: rauha aika Eurooppa – yhteistyö alkaa
+Alignment:
+-békekötés Eur--ópa és az együttműködés kezdetei
+rauha aika Eurooppa -– yhte--ist--yö--- ---alkaa
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: le paix en Europe et le début de le coopération
+Alignment:
+-békekötés Európa és az együttműködés ke-----zdetei--
+le paix en Europe et le -début--- d-e le coopérat-ion
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: ειρήνη στην Ευρώπη και απαρχή συνεργασία
+Alignment:
+békekötés Európa -és az együttműködés kezdetei
+---ειρήνη --στην Ευρώπη -και απαρχή συνεργασία
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: síocháin san Eoraip agus tús an comhair
+Alignment:
+-békekötés-- Európa és az együttműködés -kezdetei-
+síocháin san Eor--a-ip a---gus t-----ús an comhair
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: il pace in Europa e il inizio della cooperazione
+Alignment:
+-békekötés Európa és az együttműködés ---ke--zdetei
+il pace in Europa -e il -inizio della cooperazione-
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: miers Eiropa – sadarbības pirmsākums
+Alignment:
+békekötés Európa -és az együttműködés kezdetei
+-mie---rs Eiropa – s-a-darbības pirmsāk----ums
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: taika Europa ir bendradarbiavimas pradžia
+Alignment:
+békekötés Európa és -az együttműködés kezdetei-
+-taik---a Europa ir bendradarbiavimas prad--žia
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: vrede in Europa en het begin van de samenwerking
+Alignment:
+békekötés Európa és -az -együttműköd-és kezdetei--
+-vrede in Europa en het beg-in van de samenwerking
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: pokój w Europa i początek współpraca
+Alignment:
+békekötés Európa és az együttműködés kezdetei
+--pokój w Europa--- -i począt-ek- ws-półpraca
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: o paz o europa e o primórdio da cooperação
+Alignment:
+békekötés Európa és az együttműködés kezde--tei
+--o paz o europa -e -o primórdio d-a cooperação
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: pace în Europa și început cooperare
+Alignment:
+békekötés Európa és az együttműködés kezdetei
+pace-- în Europa și înce--put---- coope-rare-
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: freda i Europa och nytta samarbete
+Alignment:
+békekötés Európa és az együttműködés kezdetei
+-fre-da i Europa --och -ny-tt----a samarbete-
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: mier v Európa a začiatok spolupráca
+Alignment:
+békekötés Európa és az együttműködés kezdetei
+-mie--r v Európa--- a- začiat-ok-- spolupráca
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: mir v Evropa in začetek sodelovanje
+Alignment:
+békekötés Európa és -az együttműködés ke--zdetei
+----mir v Evropa in za-če----t-ek-- sodelovanje-
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: paz en europa y comienzo de el cooperación
+Alignment:
+-békekötés Európa és -az együttműködés kezde-tei--
+paz e----n europa -y comie---nzo de el cooperación
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: mírový Evropa – počátek spolupráce
+Alignment:
+békekötés Európa és az együttműködés- kezdetei
+---mírový Evropa--- -– -počát-ek-- spolupráce-
+------------------------------
+------------------------------
+Sentence 1: békekötés Európa és az együttműködés kezdetei
+Sentence 2: békekötés Európa és az együttműködés kezdetei
+Alignment:
+békekötés Európa és az együttműködés kezdetei
+békekötés Európa és az együttműködés kezdetei
+------------------------------
