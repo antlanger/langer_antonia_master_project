@@ -5,6 +5,12 @@ import helpers.textprocessing as nlp
 import matplotlib.pyplot as plt
 from scipy.cluster import hierarchy
 import os
+from datetime import datetime
+
+def measureTime(message):
+    now = datetime.now()
+    current_time = now.strftime("%H:%M:%S")
+    print(message, current_time)
 
 # ----------------------------------- MAIN ----------------------------------- #
 def main():
@@ -12,9 +18,15 @@ def main():
     
     dendrogramData = []
     languages, languageAbb, sentences, combinations = webscraper.start_scraping()
+
     
+
     # Original
-    dendrogramData.append(algorithm.start_needleman_wunsch(languages, sentences, combinations, filename="original"))
+    measureTime("Start Original Dendrogram at ")
+    #dendrogramData.append(algorithm.start_needleman_wunsch(languages, sentences, combinations, filename="original"))
+    dendrogram_original = algorithm.start_needleman_wunsch(languages, sentences, combinations, filename="original")
+    simpleCreatePlot(dendrogram_original, languages, "dendrogram_original")
+    measureTime("End Original Dendrogram at ")
 
     functions = [nlp.wordNormalization, nlp.removeSpecialCharacter, nlp.removePunctuation, nlp.removeWhitespace]
     filenames = ["wordNormalization", "removedDiacritics", "removedPunctuation", "removedWhitespace"]
@@ -24,13 +36,23 @@ def main():
     for func in functions:
         sentences = func(sentences)
         combinations = replaceCombinations(languages, sentences, combinations)
-        dendrogramData.append(algorithm.start_needleman_wunsch(languages, sentences, combinations, filename=filenames[i]))
+        measureTime("Start Dendrogram " + filenames[i] + " at ")
+        #dendrogramData.append(algorithm.start_needleman_wunsch(languages, sentences, combinations, filename=filenames[i]))
+        dendrogram = algorithm.start_needleman_wunsch(languages, sentences, combinations, filename=filenames[i])
+        simpleCreatePlot(dendrogram, languages, filenames[i])
+        measureTime("End Dendrogram " + filenames[i] + " at ")
         i = i + 1
 
-    createPlot(dendrogramData, languages)
+    #createPlot(dendrogramData, languages)
 
 
 # ------------------------------- PLOT CREATION ------------------------------ #
+
+def simpleCreatePlot(data, languages, filename):
+    plt.figure(figsize=(14,7))
+    dn = hierarchy.dendrogram(data, labels=languages)
+    plt.savefig(os.path.abspath(os.curdir) + '/sourcecode/files/' + filename +".jpg")
+
 def createPlot(data, languages):
     fig, axes = plt.subplots(3, 2, figsize=(12, 8))
     #print(axes)
