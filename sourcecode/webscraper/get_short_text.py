@@ -79,8 +79,3 @@ def getShortText(websiteUrl):
         f.close()
         
         return short_text
-            
-
-
-    #middle_text = ' '.join(paragraph_texts)
-    #print(middle_text)
