@@ -1,6 +1,7 @@
 import numpy as np
 import os
 from scipy.cluster import hierarchy
+import codecs
 
 # Declare values to calculate scores
 gap_penalty = -1
@@ -122,7 +123,7 @@ def scoring_matrix(languages, sentences, combinations, filename):
     scoring_matrix = np.zeros((len(languages),len(languages)))
 
     i = 0
-    f = open(os.path.abspath(os.curdir) + '/sourcecode/files/' + filename + ".txt", "w")
+    f = codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + filename + ".txt", "w", encoding='utf-16')
     
     for x in languages:
         j = 0

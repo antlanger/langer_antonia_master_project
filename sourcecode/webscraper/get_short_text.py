@@ -1,9 +1,14 @@
 import requests
 from bs4 import BeautifulSoup
+import io
 import os
+import codecs
 
 def getShortText(websiteUrl):
     page = requests.get(websiteUrl)
+
+    #print(page.content)
+
     soup = BeautifulSoup(page.content, "html.parser")
         
     results = soup.find(id="block-ewcms-theme-main-page-content")
@@ -69,11 +74,11 @@ def getShortText(websiteUrl):
         no_words = len(short_text.split())
         print("SHORT - Number of words: " + str(no_words))
 
-        short_text_file = open(os.path.abspath(os.curdir) + '/sourcecode/files/' + "short_text_file.txt", "w")
-        short_text_file.write(short_text)
-        short_text_file.close()  
-
-        return short_text  
+        f =  codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + "short_text_file.txt", "w", encoding="utf-16")
+        f.write(short_text)
+        f.close()
+        
+        return short_text
             
 
 

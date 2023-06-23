@@ -3,6 +3,7 @@ import os
 from bs4 import BeautifulSoup
 import pandas as pd
 from webscraper.get_short_text import getShortText
+import codecs
 
 
 # --------------------------------- VARIABLES -------------------------------- #
@@ -58,7 +59,7 @@ def start_scraping(filename="webscraper"):
     languageAbbreviationList = []
     combinationDictionary = {}
 
-    f = open(os.path.abspath(os.curdir) + '/sourcecode/files/' + filename + ".txt", "w")
+    f = codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + filename + ".txt", "w", encoding='utf-16')
 
     for language,language_abbreviation in offical_languages.items():
         url = "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_" + language_abbreviation
