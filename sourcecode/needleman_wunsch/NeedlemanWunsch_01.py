@@ -178,6 +178,11 @@ def scoring_distance_matrix(scoring_matrix, languages):
 def start_needleman_wunsch(languages, sentences, combinations, filename="algorithm"):
     scoring = scoring_matrix(languages, sentences, combinations, filename)
     scoring_distance_matrix1 = scoring_distance_matrix(scoring, languages)
-    print(scoring)
+    
+    f =  codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + filename + "_scoring_matrix" + ".txt", "w", encoding="utf-16")
+    f.write(np.array2string(scoring))
+    f.close()
+    
+    #print(scoring)
     average = hierarchy.linkage(scoring_distance_matrix1, "average")
     return average

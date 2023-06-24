@@ -28,22 +28,82 @@ def main():
     simpleCreatePlot(dendrogram_original, languages, "dendrogram_original")
     measureTime("End Original Dendrogram at ")
 
-    functions = [nlp.wordNormalization, nlp.removeSpecialCharacter, nlp.removePunctuation, nlp.removeWhitespace]
-    filenames = ["wordNormalization", "removedDiacritics", "removedPunctuation", "removedWhitespace"]
+    #functions = [nlp.wordNormalization, nlp.removeSpecialCharacter, nlp.removePunctuation, nlp.removeWhitespace]
+    #filenames = ["wordNormalization", "removedDiacritics", "removedPunctuation", "removedWhitespace"]
     nlp._ABBREVIATION = languageAbb
-    
-    i = 0
-    for func in functions:
-        sentences = func(sentences)
-        combinations = replaceCombinations(languages, sentences, combinations)
-        measureTime("Start Dendrogram " + filenames[i] + " at ")
-        #dendrogramData.append(algorithm.start_needleman_wunsch(languages, sentences, combinations, filename=filenames[i]))
-        dendrogram = algorithm.start_needleman_wunsch(languages, sentences, combinations, filename=filenames[i])
-        simpleCreatePlot(dendrogram, languages, filenames[i])
-        measureTime("End Dendrogram " + filenames[i] + " at ")
-        i = i + 1
 
-    #createPlot(dendrogramData, languages)
+#-------------------
+#FUNCTIONS
+    functions_Normalization = [nlp.wordNormalization]
+    functions_Punctuation = [nlp.removePunctuation]
+    functions_Diacritics = [nlp.removeSpecialCharacter]
+    functions_Whitespaces = [nlp.removeWhitespace]
+
+
+
+#--------------------------------------------------
+# Normal
+   
+    # Normalization x Original
+    normalizedSentences, normalizedCombinations = executeNLPSteps(sentences, combinations, functions_Normalization, languages, "wordNormalization")
+
+    # Remove Punctuation x Original   
+    punctuationSentences, puntuationCombinations = executeNLPSteps(sentences, combinations, functions_Punctuation, languages, "removedPunctuation")
+
+    # Remove Diacritics x Original   
+    diacriticsSentences, diacriticsCombinations = executeNLPSteps(sentences, combinations, functions_Diacritics, languages, "removedDiacritics")
+
+    # Remove Whitspaces x Original
+    executeNLPSteps(sentences, combinations, functions_Whitespaces, languages, "removedWhitespaces")
+    #whitespacesSentences, whitespacesCombinations = executeNLPSteps(sentences, combinations, functions_Whitespaces, languages, "removedWhitespaces")
+
+#--------------------------------------------------
+# Two
+
+
+    # Normalization x RemovePunctuation
+    normalization_punctuation_sentences, normalization_punctuation_combinations = executeNLPSteps(normalizedSentences, normalizedCombinations, functions_Punctuation, languages, "normalization_punctuation")
+
+    # Normalization x RemoveDiacritics
+    normalization_diacritics_sentences, normalization_diacritics_combinations = executeNLPSteps(normalizedSentences, normalizedCombinations, functions_Diacritics, languages, "normalization_diacritics")
+
+    # Normalization x RemoveWhitespaces
+    executeNLPSteps(normalizedSentences, normalizedCombinations, functions_Whitespaces, languages, "normalization_whitespaces")
+    #normalization_whitespaces_sentences, normalization_whitespaces_combinations = executeNLPSteps(normalizedSentences, normalizedCombinations, functions_Whitespaces, languages, "normalization_whitespaces")
+
+#--------------------------------------------------
+
+    # Remove Punctuation x Remove Diacritics
+    punctuation_diacritics_sentences, punctuation_diacritics_combinations = executeNLPSteps(punctuationSentences, puntuationCombinations, functions_Diacritics, languages, "punctuation_diacritics")
+
+    # Remove Punctuation x Remove Whitespaces
+    executeNLPSteps(punctuationSentences, puntuationCombinations, functions_Whitespaces, languages, "punctuation_whitespaces")
+
+#--------------------------------------------------
+
+    # Remove Diacritics x Remove Whitespaces
+    executeNLPSteps(diacriticsSentences, diacriticsCombinations, functions_Whitespaces, languages, "diacritics_whitespaces")
+
+#--------------------------------------------------
+# Three
+
+    # Normalization x Remove Punctuation x Remove Diacritics
+    executeNLPSteps(normalization_punctuation_sentences, normalization_punctuation_combinations, functions_Diacritics, languages, "normalization_punctuation_diacritics")
+
+    # Normalization x Remove Diacritics x Remove Whitespaces
+    normalization_diacritics_whitespaces_sentences, normalization_diacritics_whitespaces_combinations = executeNLPSteps(normalization_diacritics_sentences, normalization_diacritics_combinations, functions_Whitespaces, languages, "normalization_diacritics_whitespaces")
+
+    # Normalization x Remove Punctuation x Remove Whitespaces
+    executeNLPSteps(normalization_punctuation_sentences, normalization_punctuation_combinations, functions_Whitespaces, languages, "normalization_punctuation_whitespaces")
+
+    # Remove Punctuation x Remove Diacritics x Remove Whitespaces
+    executeNLPSteps(punctuation_diacritics_sentences, punctuation_diacritics_combinations, functions_Whitespaces, languages, "punctuation_diacritics_whitespaces")
+
+#--------------------------------------------------
+# Four
+
+    # Normalization x Remove Diacritcs x Remove Whitespaces x Remove Punctuation
+    executeNLPSteps(normalization_diacritics_whitespaces_sentences, normalization_diacritics_whitespaces_combinations, functions_Punctuation, languages, "allmethods")
 
 
 # ------------------------------- PLOT CREATION ------------------------------ #
@@ -81,6 +141,18 @@ def replaceCombinations(languages, sentences, combinations):
         combinations[language] = sentences[i]
         i = i + 1
     return combinations
+
+def executeNLPSteps(sentences, combinations, functions, languages, filename):
+    
+    modifiedSentences = functions[0](sentences)
+    modifiedCombinations = replaceCombinations(languages, modifiedSentences, combinations)
+
+    measureTime("Start Dendrogram " + filename + " at ")
+    dendrogram = algorithm.start_needleman_wunsch(languages, modifiedSentences, modifiedCombinations, filename=filename)
+    simpleCreatePlot(dendrogram, languages, filename)
+    measureTime("End Dendrogram " + filename + " at ")
+
+    return modifiedSentences,modifiedCombinations
 
 
 # ----------------------------------- START ---------------------------------- #
