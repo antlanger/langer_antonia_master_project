@@ -19,6 +19,8 @@ def main():
     dendrogramData = []
     languages, languageAbb, sentences, combinations = webscraper.start_scraping()
 
+    print(combinations)
+
     
 
     # Original
@@ -32,8 +34,9 @@ def main():
     #filenames = ["wordNormalization", "removedDiacritics", "removedPunctuation", "removedWhitespace"]
     nlp._ABBREVIATION = languageAbb
 
-#-------------------
-#FUNCTIONS
+
+# ------------------------------- NLP FUNCTIONS ------------------------------ #
+
     functions_Normalization = [nlp.wordNormalization]
     functions_Punctuation = [nlp.removePunctuation]
     functions_Diacritics = [nlp.removeSpecialCharacter]
@@ -41,8 +44,7 @@ def main():
 
 
 
-#--------------------------------------------------
-# Normal
+# ------------------------------ SINGLE NLP STEP ----------------------------- #
    
     # Normalization x Original
     normalizedSentences, normalizedCombinations = executeNLPSteps(sentences, combinations, functions_Normalization, languages, "wordNormalization")
@@ -57,9 +59,7 @@ def main():
     executeNLPSteps(sentences, combinations, functions_Whitespaces, languages, "removedWhitespaces")
     #whitespacesSentences, whitespacesCombinations = executeNLPSteps(sentences, combinations, functions_Whitespaces, languages, "removedWhitespaces")
 
-#--------------------------------------------------
-# Two
-
+# ------------------------------- TWO NLP STEPS ------------------------------ #
 
     # Normalization x RemovePunctuation
     normalization_punctuation_sentences, normalization_punctuation_combinations = executeNLPSteps(normalizedSentences, normalizedCombinations, functions_Punctuation, languages, "normalization_punctuation")
@@ -84,8 +84,8 @@ def main():
     # Remove Diacritics x Remove Whitespaces
     executeNLPSteps(diacriticsSentences, diacriticsCombinations, functions_Whitespaces, languages, "diacritics_whitespaces")
 
-#--------------------------------------------------
-# Three
+
+# ------------------------------ THREE NPL STEPS ----------------------------- #
 
     # Normalization x Remove Punctuation x Remove Diacritics
     executeNLPSteps(normalization_punctuation_sentences, normalization_punctuation_combinations, functions_Diacritics, languages, "normalization_punctuation_diacritics")
@@ -99,8 +99,7 @@ def main():
     # Remove Punctuation x Remove Diacritics x Remove Whitespaces
     executeNLPSteps(punctuation_diacritics_sentences, punctuation_diacritics_combinations, functions_Whitespaces, languages, "punctuation_diacritics_whitespaces")
 
-#--------------------------------------------------
-# Four
+# ------------------------------ FOUR NLP STEPS ------------------------------ #
 
     # Normalization x Remove Diacritcs x Remove Whitespaces x Remove Punctuation
     executeNLPSteps(normalization_diacritics_whitespaces_sentences, normalization_diacritics_whitespaces_combinations, functions_Punctuation, languages, "allmethods")
@@ -136,6 +135,10 @@ def createPlot(data, languages):
 
 # --------------------------- REPLACE COMBINATIONS --------------------------- #
 def replaceCombinations(languages, sentences, combinations):
+    """
+        Replace the corresponding text from the language with the modified text retrieved from the NLP step.
+    """   
+    
     i = 0
     for language in languages:
         combinations[language] = sentences[i]
