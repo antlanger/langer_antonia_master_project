@@ -1,8 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 import os
+import codecs
 
-def getMiddleText(websiteUrl):
+def getMiddleText(websiteUrl, textLength):
     page = requests.get(websiteUrl)
     soup = BeautifulSoup(page.content, "html.parser")
         
@@ -90,9 +91,9 @@ def getMiddleText(websiteUrl):
 
     middle_text = ' '.join(paragraph_and_list_item_0) + ' '.join(paragraph_texts)
     no_words = len(middle_text.split())
-    print(no_words)
+    print("MIDDLE - Number of words: " + str(no_words))
 
-    middle_text_file = open(os.path.abspath(os.curdir) + '/sourcecode/files/' + "middle_text_file.txt", "w")
+    middle_text_file = codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/'+ textLength + '/' + "middle_text_file.txt", "w", encoding="utf-16")
     middle_text_file.write(middle_text)
     middle_text_file.close() 
 

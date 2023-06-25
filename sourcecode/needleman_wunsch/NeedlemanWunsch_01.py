@@ -119,11 +119,11 @@ def needleman_wunsch(sequence_one, sequence_two):
     
     return (score, alignment_one, alignment_two)
 
-def scoring_matrix(languages, sentences, combinations, filename):
+def scoring_matrix(languages, sentences, combinations, filename, textLength):
     scoring_matrix = np.zeros((len(languages),len(languages)))
 
     i = 0
-    f = codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + filename + ".txt", "w", encoding='utf-16')
+    f = codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + textLength + '/' + filename + ".txt", "w", encoding='utf-16')
     
     for x in languages:
         j = 0
@@ -175,11 +175,11 @@ def scoring_distance_matrix(scoring_matrix, languages):
 
 
 # ------------------------------- START METHOD ------------------------------- #
-def start_needleman_wunsch(languages, sentences, combinations, filename="algorithm"):
-    scoring = scoring_matrix(languages, sentences, combinations, filename)
+def start_needleman_wunsch(languages, sentences, combinations, filename="algorithm", textLength="null"):
+    scoring = scoring_matrix(languages, sentences, combinations, filename, textLength)
     scoring_distance_matrix1 = scoring_distance_matrix(scoring, languages)
     
-    f =  codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + filename + "_scoring_matrix" + ".txt", "w", encoding="utf-16")
+    f =  codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + textLength + '/' + filename + "_scoring_matrix" + ".txt", "w", encoding="utf-16")
     f.write(np.array2string(scoring))
     f.close()
     

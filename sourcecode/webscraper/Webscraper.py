@@ -21,10 +21,10 @@ offical_languages = dict(zip(offical_languages_dataframe['Language'], offical_la
 
 
 # --------------------------------- SCRAPING --------------------------------- #
-def get_website_text(websiteUrl, template):
+def get_website_text(websiteUrl, textLength):
 
-    if template == "short":
-        return getShortText(websiteUrl)
+    if textLength == "short":
+        return getShortText(websiteUrl, textLength)
     #elif template == "middle":
     #    return getMiddleText(websiteUrl)
     #elif template == "long":
@@ -53,18 +53,18 @@ def get_website_text(websiteUrl, template):
 
 
 # ------------------------------- START METHOD ------------------------------- #
-def start_scraping(filename="webscraper"):
+def start_scraping(filename="webscraper", textLength="null"):
     languageList = []
     sentenceList = []
     languageAbbreviationList = []
     combinationDictionary = {}
 
-    f = codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + filename + ".txt", "w", encoding='utf-16')
+    f = codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + textLength + '/' + filename + ".txt", "w", encoding='utf-16')
 
     for language,language_abbreviation in offical_languages.items():
         url = "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_" + language_abbreviation
         
-        text = get_website_text(url, "short")
+        text = get_website_text(url, textLength)
     
         languageList.append(language)
         languageAbbreviationList.append(language_abbreviation)

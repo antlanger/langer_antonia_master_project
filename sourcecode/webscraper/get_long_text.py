@@ -1,8 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 import os
+import codecs
 
-def getLongText(websiteUrl):
+def getLongText(websiteUrl, textLength):
     page = requests.get(websiteUrl)
     soup = BeautifulSoup(page.content, "html.parser")
         
@@ -12,9 +13,6 @@ def getLongText(websiteUrl):
     list_texts.pop(3)
     list_texts.pop(11)
     list_texts.pop(11)
-
-
-    #print(list_texts)
 
     paragraph_texts = []
 
@@ -77,17 +75,19 @@ def getLongText(websiteUrl):
             for paragraph in paragraphs:
                 if 'https://www.ema.europa.eu/en/news-events/therapeutic-areas-latest-updates/viral-diseases' in str(paragraph):
                     break
+                if 'https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles_de?f%5B0%5D=oe_organisation_eu_type%3Ahttp%3A//publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EXEC' in str(paragraph):
+                    break
                 paragraph_text = paragraph_text + " " + paragraph.getText()
         
             paragraph_texts.append(paragraph_text)
 
     long_text = ' '.join(paragraph_and_list_item_0) + ' '.join(paragraph_texts)
     no_words = len(long_text.split())
-    print(no_words)
+    print("LONG - Number of words: " + str(no_words))
 
-    middle_text_file = open(os.path.abspath(os.curdir) + '/sourcecode/files/' + "long_text_file.txt", "w")
-    middle_text_file.write(long_text)
-    middle_text_file.close() 
+    long_text_file = codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/'+ textLength + '/' + "long_text_file.txt", "w")
+    long_text_file.write(long_text)
+    long_text_file.close() 
 
     return long_text
 
