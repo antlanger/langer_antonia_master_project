@@ -3,6 +3,8 @@ import os
 from bs4 import BeautifulSoup
 import pandas as pd
 from webscraper.get_short_text import getShortText
+from webscraper.get_middle_text import getMiddleText
+from webscraper.get_long_text import getLongText
 import codecs
 
 
@@ -25,10 +27,10 @@ def get_website_text(websiteUrl, textLength):
 
     if textLength == "short":
         return getShortText(websiteUrl, textLength)
-    #elif template == "middle":
-    #    return getMiddleText(websiteUrl)
-    #elif template == "long":
-    #    return getLongText(websiteUrl)
+    elif textLength == "middle":
+        return getMiddleText(websiteUrl, textLength)
+    elif textLength == "long":
+        return getLongText(websiteUrl, textLength)
 
     #page = requests.get(websiteUrl)
     #soup = BeautifulSoup(page.content, "html.parser")

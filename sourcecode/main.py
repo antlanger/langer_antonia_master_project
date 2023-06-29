@@ -17,7 +17,7 @@ def main():
     print('STARTING ALGORITHM...')
     
     dendrogramData = []
-    text_length = "short"
+    text_length = "middle"
     languages, languageAbb, sentences, combinations = webscraper.start_scraping(textLength=text_length)
 
     
