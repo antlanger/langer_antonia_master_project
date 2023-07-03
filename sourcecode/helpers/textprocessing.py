@@ -35,7 +35,7 @@ def modifySentence(sentences, operation):
         elif operation == 'normalizeSentence':
             modifiedSentence = text_lemmatizer(sentences[i], lang=_ABBREVIATION[i])
             modifiedSentence = ' '.join(modifiedSentence)
-            print(modifiedSentence)
+            #print(modifiedSentence)
         else:
             print('Nothing to do!')
 

@@ -17,7 +17,7 @@ def main():
     print('STARTING ALGORITHM...')
     
     dendrogramData = []
-    text_length = "short"
+    text_length = "middle"
     languages, languageAbb, sentences, combinations = webscraper.start_scraping(textLength=text_length)
 
     
@@ -151,7 +151,7 @@ def executeNLPSteps(sentences, combinations, functions, languages, filename, tex
 
     measureTime("Start Dendrogram " + filename + " at ")
     dendrogram = algorithm.start_needleman_wunsch(languages, modifiedSentences, modifiedCombinations, filename=filename, textLength=textLength)
-    simpleCreatePlot(dendrogram, languages, filename,  )
+    simpleCreatePlot(dendrogram, languages, filename,  textLength)
     measureTime("End Dendrogram " + filename + " at ")
 
     return modifiedSentences,modifiedCombinations
