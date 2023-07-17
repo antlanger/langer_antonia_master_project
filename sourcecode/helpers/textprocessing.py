@@ -5,26 +5,28 @@ from simplemma import text_lemmatizer
 _ABBREVIATION = []
 
 def removeWhitespace(sentences):
-    sentences = modifySentence(sentences, 'removeWhitespaces')
-    return sentences
+    modSentences = modifySentence(sentences, 'removeWhitespaces')
+    return modSentences
 
 def removePunctuation(sentences):
-    sentences = modifySentence(sentences, 'removePunctation')
-    return sentences
+    modSentences = modifySentence(sentences, 'removePunctation')
+    return modSentences
 
 def removeSpecialCharacter(sentences):
-    sentences = modifySentence(sentences, 'removeDiacritics')
-    return sentences
+    modSentences = modifySentence(sentences, 'removeDiacritics')
+    return modSentences
 
 def wordNormalization(sentences):   
-    sentences = modifySentence(sentences, 'normalizeSentence')
-    return sentences
+    modSentences = modifySentence(sentences, 'normalizeSentence')
+    return modSentences
     
 
 
 #def toLower():
 
 def modifySentence(sentences, operation):
+    modSentences = []
+
     for i in range(len(sentences)):
         if operation == 'removeWhitespaces':
             modifiedSentence = sentences[i].replace(' ', '')
@@ -39,7 +41,7 @@ def modifySentence(sentences, operation):
         else:
             print('Nothing to do!')
 
-        sentences[i] = modifiedSentence
-    return sentences
+        modSentences.append(modifiedSentence)
+    return modSentences
 
     

@@ -55,7 +55,7 @@ def main():
     diacriticsSentences, diacriticsCombinations = executeNLPSteps(sentences, combinations, functions_Diacritics, languages, "removedDiacritics", text_length)
 
     # Remove Whitspaces x Original
-    executeNLPSteps(sentences, combinations, functions_Whitespaces, languages, "removedWhitespaces", text_length)
+    whitespacesSentences, whitespacesCombinations = executeNLPSteps(sentences, combinations, functions_Whitespaces, languages, "removedWhitespaces", text_length)
     #whitespacesSentences, whitespacesCombinations = executeNLPSteps(sentences, combinations, functions_Whitespaces, languages, "removedWhitespaces")
 
 # ------------------------------- TWO NLP STEPS ------------------------------ #
@@ -137,12 +137,13 @@ def replaceCombinations(languages, sentences, combinations):
     """
         Replace the corresponding text from the language with the modified text retrieved from the NLP step.
     """   
-    
+    modCombinations = copy.copy(combinations)
+
     i = 0
     for language in languages:
-        combinations[language] = sentences[i]
+        modCombinations[language] = sentences[i]
         i = i + 1
-    return combinations
+    return modCombinations
 
 def executeNLPSteps(sentences, combinations, functions, languages, filename, textLength):
     

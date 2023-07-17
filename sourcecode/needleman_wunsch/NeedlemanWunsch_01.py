@@ -2,6 +2,7 @@ import numpy as np
 import os
 from scipy.cluster import hierarchy
 import codecs
+from numba import prange, njit
 
 # Declare values to calculate scores
 gap_penalty = -1
@@ -37,6 +38,7 @@ combinations = {
 }
 '''
 
+@njit
 def match_score(alpha, beta):
     if alpha == beta:
         return match_award
@@ -45,6 +47,7 @@ def match_score(alpha, beta):
     else:
         return mismatch_penalty
 
+@njit(parallel=True)
 def needleman_wunsch(sequence_one, sequence_two):
     n = len(sequence_one)
     m = len(sequence_two)
@@ -53,11 +56,11 @@ def needleman_wunsch(sequence_one, sequence_two):
     score = np.zeros((m+1, n+1))
     
     # Fill the first column
-    for i in range(0, m+1):
+    for i in prange(0, m+1):
         score[i][0] = gap_penalty * i
     
     # Fill the first row
-    for j in range(0, n+1):
+    for j in prange(0, n+1):
         score[0][j] = gap_penalty * j
 
 
@@ -122,6 +125,7 @@ def needleman_wunsch(sequence_one, sequence_two):
 def scoring_matrix(languages, sentences, combinations, filename, textLength):
     scoring_matrix = np.zeros((len(languages),len(languages)))
 
+
     i = 0
     f = codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + textLength + '/' + filename + ".txt", "w", encoding='utf-16')
     
@@ -149,19 +153,21 @@ def scoring_matrix(languages, sentences, combinations, filename, textLength):
     f.close()
     return scoring_matrix
 
+@njit(parallel=True)
 def get_matrix_max(matrix):
  
-    max_value = None
+    max_value = -np.inf
  
     for i in range(0, len(matrix[0])):
         for j in range(0, len(matrix[0])):
-            if(max_value == None):
+            if(max_value == -np.inf):
                 max_value = matrix[i][j]
             if(matrix[i][j] >= max_value):
                 max_value = matrix[i][j]
  
     return max_value
 
+@njit(parallel=True)
 def scoring_distance_matrix(scoring_matrix, languages):
  
     scoring_distance_matrix = np.zeros((len(scoring_matrix[0]), len(scoring_matrix[0])))
