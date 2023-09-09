@@ -1,5 +1,5 @@
 import webscraper.Webscraper as webscraper
-import needleman_wunsch.NeedlemanWunsch_01 as algorithm
+import needleman_wunsch.NeedlemanWunsch as algorithm
 import helpers.textprocessing as nlp
 
 import matplotlib.pyplot as plt

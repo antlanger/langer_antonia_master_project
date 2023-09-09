@@ -1,114 +1,184 @@
 import numpy as np
+import matplotlib.pyplot as plt
+import os
+from scipy.cluster import hierarchy
+import codecs
+from numba import prange, njit
 
-def add_bases (x, y, m):
-    matrix = m.tolist()
-    matrix.insert(0, [" ",  " "]+list(y))
-    for i in range(2, len(x) + 2):
-        matrix[i] = [list(x)[i-2]] + matrix[i]
-    matrix[1] = [" "] + matrix[1]
-    return matrix
-    
-def print_matrix(matrix):
-    s = [[str(e) for e in row] for row in matrix]
-    lens = [max(map(len, col)) for col in zip(*s)]
-    fmt = '\t'.join('{{:{}}}'.format(x) for x in lens)
-    table = [fmt.format(*row) for row in s]
-    print('\n'.join(table))
+# Declare values to calculate scores
+gap_penalty = -1
+match_award = 1
+mismatch_penalty = -1
 
-def needleman_wunsch(sequence_one, sequence_two, match = 1, mismatch = 1, gap = 2):
-    length_sequence_one = len(sequence_one)
-    length_sequence_two = len(sequence_two)
-    
-    # Initialization process - forming the base matrix
-    F = np.zeros((length_sequence_one + 1, length_sequence_two + 1))
-    F[:,0] = np.linspace(0, -gap*length_sequence_one, length_sequence_one + 1)
-    F[0,:] = np.linspace(0, -gap*length_sequence_two, length_sequence_two + 1)
-    
-    # Pointers to trace through an optimal aligment.
-    P = np.zeros((length_sequence_one + 1, length_sequence_two + 1))
-    P[:,0] = 3
-    P[0,:] = 4
+@njit
+def match_score(alpha, beta):
+    if alpha == beta:
+        return match_award
+    elif alpha == '-' or beta == '-':
+        return gap_penalty
+    else:
+        return mismatch_penalty
 
-    t = np.zeros(3)
-    for i in range(length_sequence_one):
-        for j in range(length_sequence_two):
-            # Iteration step: take the max (inserting gap in first sequence, inserting gap in second sequence, match or mutation)
-            if sequence_one[i] == sequence_two[j]:
-                t[0] = F[i,j] + match
-            else:
-                t[0] = F[i,j] - mismatch
-                    
-            # Inserting gap in first sequence
-            t[1] = F[i,j+1] - gap
-            # Inserting gap in second sequence
-            t[2] = F[i+1,j] - gap
-            tmax = np.max(t)
-                    
-            F[i+1,j+1] = tmax
-            if t[0] == tmax:
-                P[i+1,j+1] += 2
-                        
-            # Higher weights for inserting gaps rather than matches/mismatches
-            if t[1] == tmax:
-                P[i+1,j+1] += 3
-            if t[2] == tmax:
-                P[i+1,j+1] += 4
+@njit(parallel=True)
+def needleman_wunsch(sequence_one, sequence_two):
+    n = len(sequence_one)
+    m = len(sequence_two)
+
+    # Empty score matrix
+    score = np.zeros((m+1, n+1))
     
-    i = length_sequence_one
-    j = length_sequence_two
-    rx = []
-    ry = []
+    # Fill the first column
+    for i in prange(0, m+1):
+        score[i][0] = gap_penalty * i
     
-    tracer_matrix = np.zeros((length_sequence_one+1, length_sequence_two+1))
-    while i > 0 or j > 0:
-        tracer_matrix[i, j] = -1
-        
-        if P[i,j] in [2, 5, 6, 9]:
-            rx.append(sequence_one[i-1])
-            ry.append(sequence_two[j-1])
-            
+    # Fill the first row
+    for j in prange(0, n+1):
+        score[0][j] = gap_penalty * j
+
+
+    for k in range(1,m+1):
+        for l in range(1, n+1):
+            match = score[k - 1][l - 1] + match_score(sequence_one[l-1], sequence_two[k-1])
+            delete = score[k - 1][l] + gap_penalty
+            insert = score[k][l - 1] + gap_penalty
+
+            score[k][l] = max(match, delete, insert)
+    
+
+    # Traceback and alignment
+    alignment_one = ""
+    alignment_two = ""
+
+    i = m
+    j = n
+
+    while i > 0 and j > 0:
+        score_current = score[i][j]
+        score_diagonal = score[i-1][j-1]
+        score_up = score[i][j-1]
+        score_left = score[i-1][j]
+
+        # Check to figure out which cell the current score was calculated from,
+        # then update i and j to correspond to that cell.
+        if score_current == score_diagonal + match_score(sequence_one[j-1], sequence_two[i-1]):
+            alignment_one += sequence_one[j-1]
+            alignment_two += sequence_two[i-1]
             i -= 1
             j -= 1
-        
-        # if there's a gap in the first sequence
-        elif P[i,j] in [3, 7]:
-            rx.append(sequence_one[i-1])
-            ry.append('-')
-            i -= 1
-            
-        # if there's a gap in the second sequence
-        elif P[i,j] in [4]:
-            rx.append('-')
-            ry.append(sequence_two[j-1])
+
+        elif score_current == score_up + gap_penalty:
+            alignment_one += sequence_one[j-1]
+            alignment_two += '-'
             j -= 1
-
-    print("Pointer matrix:")
-    pointer_matrix = add_bases(x, y, P)
-    print_matrix(pointer_matrix)
+        elif score_current == score_left + gap_penalty:
+            alignment_one += '-'
+            alignment_two += sequence_two[i-1]
+            i -= 1
     
-    print()
-    print("Tracer matrix:")
-    tracer_matrix = add_bases(x, y, tracer_matrix)
-    print_matrix(tracer_matrix)
+
+    # Finish tracing up to the top left cell
+    while j > 0:
+        alignment_one += sequence_one[j-1]
+        alignment_two += '-'
+        j -= 1
+    while i > 0:
+        alignment_one += '-'
+        alignment_two += sequence_two[i-1]
+        i -= 1
+
+    # Since we traversed the score matrix from the bottom right, our two sequences will be reversed.
+    # These two lines reverse the order of the characters in each sequence.
+    alignment_one = alignment_one[::-1]
+    alignment_two = alignment_two[::-1]
     
-    # Reverse the strings.
-    print()
-    print("Final result:")
+    return (score, alignment_one, alignment_two)
+
+
+def scoring_matrix(languages, sentences, combinations, filename, textLength):
+    scoring_matrix = np.zeros((len(languages),len(languages)))
+
+    i = 0
+    f = codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + textLength + '/' + filename + ".txt", "w", encoding='utf-16')
     
-    rx = ''.join(rx)[::-1]
-    ry = ''.join(ry)[::-1]
+    for x in languages:
+        j = 0
+        for y in languages:
+            M, alignment1, alignment2 = needleman_wunsch(combinations.get(x), combinations.get(y))
+            f.write('------------------------------')
+            f.write("\n")
+            f.write('Sentence 1: ' + combinations.get(x))
+            f.write("\n")
+            f.write('Sentence 2: ' + combinations.get(y))
+            f.write("\n")
+            f.write('Alignment:')
+            f.write("\n")
+            f.write(alignment1)
+            f.write("\n")
+            f.write(alignment2)
+            f.write("\n")
+            f.write('------------------------------')
+            f.write("\n")
+            scoring_matrix[i][j] = M[-1][-1]
+            j = j + 1
+        i = i + 1
+    f.close()
+    return scoring_matrix
+
+@njit(parallel=True)
+def get_matrix_max(matrix):
+ 
+    max_value = -np.inf
+ 
+    for i in range(0, len(matrix[0])):
+        for j in range(0, len(matrix[0])):
+            if(max_value == -np.inf):
+                max_value = matrix[i][j]
+            if(matrix[i][j] >= max_value):
+                max_value = matrix[i][j]
+ 
+    return max_value
+
+@njit(parallel=True)
+def scoring_distance_matrix(scoring_matrix, languages):
+ 
+    scoring_distance_matrix = np.zeros((len(scoring_matrix[0]), len(scoring_matrix[0])))
+    maxR = get_matrix_max(scoring_matrix)
+ 
+    for i in range(0, len(languages)):
+        for j in range(0, len(languages)):
+            scoring_distance_matrix[i][j] = abs(scoring_matrix[i][j] - maxR)
+ 
+    return scoring_distance_matrix
+
+
+# ------------------------------- START METHOD ------------------------------- #
+def start_needleman_wunsch(languages, sentences, combinations, combination, filename="algorithm", textLength="null"):
+    scoring = scoring_matrix(languages, sentences, combinations, filename, textLength)
+    scoring_distance_matrix1 = scoring_distance_matrix(scoring, languages)
     
-    px = "Sequence 1: " + rx
-    py = "Sequence 2: " + ry
-    return ['\n'.join([px, py]), rx, ry]
+    f =  codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + textLength + '/' + filename + "_scoring_matrix" + ".txt", "w", encoding="utf-16")
+    f.write(np.array2string(scoring))
+    f.close()
+
+    # Create heatmaps
+    normalized_matrix = (scoring - np.min(scoring)) / (np.max(scoring) - np.min(scoring))
+
+    plt.figure(figsize = (9,7))
+    plt.imshow(normalized_matrix, cmap='hot', interpolation='none')
+    plt.colorbar(label='Similarity')
+
+    labels = ['Bulgarian', 'Danish', 'German','English', 'Estonian', 'Finnish','French','Greek','Irish','Italian','Latvian','Lithuanian','Dutch','Polish','Portuguese','Romanian','Swedish','Slovak','Slovenian','Spanish','Czech','Hungarian']
 
 
+    ax = plt.gca()
+    ax.set_xticks(np.arange(0, 22, 1))
+    ax.set_xticklabels(labels, rotation=45, ha="right")
 
-np.random.seed(12)
+    ax.set_yticks(np.arange(0, 22, 1))
+    ax.set_yticklabels(labels, rotation=45, rotation_mode="anchor")
 
-# For random sequences (sequence alignment not optimal)
-x = ['Hallo', 'Das', 'Ist', 'Ein', 'Test']
-y = ['Mama', 'Bitte', 'Gib', 'Mir', 'Das', 'Tuch']
+    plt.title('Heatmap of language similarity\n('+ textLength.capitalize() + ' text / ' + combination +')')
+    plt.savefig(os.path.abspath(os.curdir) + '/sourcecode/files/' + textLength + '/Heatmap/' + filename + '_heatmap.jpg')
+    average = hierarchy.linkage(scoring_distance_matrix1, "average")
 
-printseq, seq1, seq2 = needleman_wunsch(x,y)
-print(printseq)
+    return average
