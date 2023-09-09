@@ -2,21 +2,12 @@ import requests
 import os
 from bs4 import BeautifulSoup
 import pandas as pd
+from transliterate import translit
 from webscraper.get_short_text import getShortText
 from webscraper.get_middle_text import getMiddleText
 from webscraper.get_long_text import getLongText
 import codecs
 
-
-# --------------------------------- VARIABLES -------------------------------- #
-#offical_languages = {
-#    'English': 'en',
-#    'German': 'de',
-#    'Spanish': 'es',
-#    'Italian': 'it',
-#    'Gaelic': 'ga',
-#    'French': 'fr'
-#}
 
 offical_languages_dataframe = pd.read_excel(r'./sourcecode/webscraper/Abbreviations.xlsx')
 offical_languages = dict(zip(offical_languages_dataframe['Language'], offical_languages_dataframe['Version 1']))
@@ -32,27 +23,6 @@ def get_website_text(websiteUrl, textLength):
     elif textLength == "long":
         return getLongText(websiteUrl, textLength)
 
-    #page = requests.get(websiteUrl)
-    #soup = BeautifulSoup(page.content, "html.parser")
-    
-    #results = soup.find(id="main-content")
-    #list_elements = results.find_all("li", class_="ecl-timeline__item")
-
-    #titles = []
-
-    #for list_element in list_elements:
-    #    title_element = list_element.find("div", class_="ecl-timeline__title")
-        
-    #    content_element = list_element.find("div", class_="ecl-timeline__content")
-    #    paragraph_element = content_element.find("p")
-        
-        #print(title_element.text.strip())
-        #print(paragraph_element.text.strip())
-
-    #    titles.append(title_element.text.strip())
-
-    #return titles
-
 
 # ------------------------------- START METHOD ------------------------------- #
 def start_scraping(filename="webscraper", textLength="null"):
@@ -67,7 +37,11 @@ def start_scraping(filename="webscraper", textLength="null"):
         url = "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_" + language_abbreviation
         
         text = get_website_text(url, textLength)
-    
+
+        # Transliteration for Bulgarian and Greek
+        if(language_abbreviation == 'bg' or language_abbreviation == 'el'):
+            text = translit(text, language_abbreviation, reversed=True)
+
         languageList.append(language)
         languageAbbreviationList.append(language_abbreviation)
         sentenceList.append(text)

@@ -2,36 +2,80 @@ import helpers.textprocessing as nlp
 import copy
 import matplotlib.pyplot as plt
 from scipy.cluster import hierarchy
+import needleman_wunsch.NeedlemanWunsch_01 as algorithm
 import os
 from datetime import datetime
+from scipy.spatial.distance import pdist, squareform
 
 
 # ----------------------------------- MAIN ----------------------------------- #
 def main():
     print('STARTING ALGORITHM...')
     
+    languages = [
+    'Deutsch',
+    'Englisch',
+    'Französisch',
+    'Spanisch',
+    'Italienisch',
+    'Finnisch'
+    ]
+ 
     sentences = [
-        "Das ist das Leben!",
-        "This is life!"
+        'Das ist das Leben',
+        'This is life',
+        'C\'est la vie',
+        'Así es la vida',
+        'Questa è vita',
+        'Tämä on elämää'
     ]
 
     combinations = {
-        "Deutsch" : "Das ist das Leben!",
-        "Englisch" : "This is life!"
+        'Deutsch':'Das ist das Leben',
+        'Englisch':'This is life',
+        'Französisch':'C\'est la vie',
+        'Spanisch':'Así es la vida',
+        'Italienisch':'Questa è vita',
+        'Finnisch':'Tämä on elämää'   
     }
 
-    languages = [
-        "Deutsch",
-        "Englisch"
-    ]
+    scoring = algorithm.start_needleman_wunsch(languages, sentences, combinations, 'combo', filename="hello", textLength="short")
+    
+    textLength = 'short'
+
+    plt.figure(figsize=(14,9.5))
+    plt.title("Dendrogram of language similarity\n(" + textLength.capitalize() + ' text / x')
+    plt.xlabel('European languages') 
+    plt.ylabel('Similarity')
+    dn = hierarchy.dendrogram(scoring, labels=languages)
+    plt.show()
+   
+    '''
+    # Calculate the pairwise Euclidean distances for the first dendrogram
+    distances1 = pdist(scoring)
+
+    # Calculate the pairwise Euclidean distances for the second dendrogram
+    distances2 = pdist(scoring)
+
+    # Calculate the cophenetic correlation coefficient
+    c, coph_dists = hierarchy.cophenet(linkage, distances1)
+    print("Cophenetic correlation coefficient for dendrogram 1:", c)
+
+    print(squareform(hierarchy.cophenet(linkage)))
+
+    results2 = 1 - sp.distance.cdist(matrix1, matrix2, 'cosine')
+
+    print(coph_dists)
+    '''
+   
 
 
 # ------------------------------- NLP FUNCTIONS ------------------------------ #
 
-    functions_Normalization = [nlp.wordNormalization]
-    functions_Punctuation = [nlp.removePunctuation]
-    functions_Diacritics = [nlp.removeSpecialCharacter]
-    functions_Whitespaces = [nlp.removeWhitespace]
+    #functions_Normalization = [nlp.wordNormalization]
+    #functions_Punctuation = [nlp.removePunctuation]
+    #functions_Diacritics = [nlp.removeSpecialCharacter]
+    #functions_Whitespaces = [nlp.removeWhitespace]
 
 
 
@@ -40,7 +84,8 @@ def main():
     # Normalization x Original
     
 
-    # Remove Punctuation x Original   
+    # Remove Punctuation x Original  
+    '''
     punctuationSentences, puntuationCombinations = executeNLPSteps(sentences, combinations, functions_Punctuation, languages, "removedPunctuation")
     print("------------------")
     print(punctuationSentences)
@@ -80,7 +125,7 @@ def executeNLPSteps(sentences, combinations, functions, languages, filename):
     modifiedCombinations = replaceCombinations(languages, modifiedSentences, combinations)
 
     return modifiedSentences,modifiedCombinations
-
+'''
 
 # ----------------------------------- START ---------------------------------- #
 if __name__ == '__main__':

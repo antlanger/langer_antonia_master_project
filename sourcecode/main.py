@@ -3,9 +3,16 @@ import needleman_wunsch.NeedlemanWunsch_01 as algorithm
 import helpers.textprocessing as nlp
 
 import matplotlib.pyplot as plt
+import numpy as np
 from scipy.cluster import hierarchy
+from scipy.spatial.distance import pdist
 import os
 from datetime import datetime
+import pandas as pd
+import copy
+
+dendrograms = []
+labels = []
 
 def measureTime(message):
     now = datetime.now()
@@ -17,22 +24,18 @@ def main():
     print('STARTING ALGORITHM...')
     
     dendrogramData = []
-    text_length = "middle"
+    text_length = "short"
     languages, languageAbb, sentences, combinations = webscraper.start_scraping(textLength=text_length)
 
     
 
     # Original
     measureTime("Start Original Dendrogram at ")
-    #dendrogramData.append(algorithm.start_needleman_wunsch(languages, sentences, combinations, filename="original"))
-    dendrogram_original = algorithm.start_needleman_wunsch(languages, sentences, combinations, filename="original", textLength=text_length)
-    simpleCreatePlot(dendrogram_original, languages, "dendrogram_original", text_length)
+    dendrogram_original = algorithm.start_needleman_wunsch(languages, sentences, combinations, 'Combination 1', filename="original", textLength=text_length)
+    simpleCreatePlot(dendrogram_original, languages, "original", text_length, 'Combination 1')
     measureTime("End Original Dendrogram at ")
-
-    #functions = [nlp.wordNormalization, nlp.removeSpecialCharacter, nlp.removePunctuation, nlp.removeWhitespace]
-    #filenames = ["wordNormalization", "removedDiacritics", "removedPunctuation", "removedWhitespace"]
+    
     nlp._ABBREVIATION = languageAbb
-
 
 # ------------------------------- NLP FUNCTIONS ------------------------------ #
 
@@ -46,97 +49,77 @@ def main():
 # ------------------------------ SINGLE NLP STEP ----------------------------- #
    
     # Normalization x Original
-    normalizedSentences, normalizedCombinations = executeNLPSteps(sentences, combinations, functions_Normalization, languages, "wordNormalization", text_length)
+    normalizedSentences, normalizedCombinations = executeNLPSteps(sentences, combinations, functions_Normalization, languages, "wordNormalization", text_length, 'Combination 2')
 
     # Remove Punctuation x Original   
-    punctuationSentences, puntuationCombinations = executeNLPSteps(sentences, combinations, functions_Punctuation, languages, "removedPunctuation", text_length)
+    punctuationSentences, puntuationCombinations = executeNLPSteps(sentences, combinations, functions_Punctuation, languages, "removedPunctuation", text_length, 'Combination 3')
 
     # Remove Diacritics x Original   
-    diacriticsSentences, diacriticsCombinations = executeNLPSteps(sentences, combinations, functions_Diacritics, languages, "removedDiacritics", text_length)
+    diacriticsSentences, diacriticsCombinations = executeNLPSteps(sentences, combinations, functions_Diacritics, languages, "removedDiacritics", text_length, 'Combination 4')
 
     # Remove Whitspaces x Original
-    whitespacesSentences, whitespacesCombinations = executeNLPSteps(sentences, combinations, functions_Whitespaces, languages, "removedWhitespaces", text_length)
-    #whitespacesSentences, whitespacesCombinations = executeNLPSteps(sentences, combinations, functions_Whitespaces, languages, "removedWhitespaces")
+    whitespacesSentences, whitespacesCombinations = executeNLPSteps(sentences, combinations, functions_Whitespaces, languages, "removedWhitespaces", text_length, 'Combination 5')
 
 # ------------------------------- TWO NLP STEPS ------------------------------ #
 
     # Normalization x RemovePunctuation
-    normalization_punctuation_sentences, normalization_punctuation_combinations = executeNLPSteps(normalizedSentences, normalizedCombinations, functions_Punctuation, languages, "normalization_punctuation", text_length)
+    normalization_punctuation_sentences, normalization_punctuation_combinations = executeNLPSteps(normalizedSentences, normalizedCombinations, functions_Punctuation, languages, "normalization_punctuation", text_length, 'Combination 6')
 
     # Normalization x RemoveDiacritics
-    normalization_diacritics_sentences, normalization_diacritics_combinations = executeNLPSteps(normalizedSentences, normalizedCombinations, functions_Diacritics, languages, "normalization_diacritics", text_length)
+    normalization_diacritics_sentences, normalization_diacritics_combinations = executeNLPSteps(normalizedSentences, normalizedCombinations, functions_Diacritics, languages, "normalization_diacritics", text_length, 'Combination 7')
 
     # Normalization x RemoveWhitespaces
-    executeNLPSteps(normalizedSentences, normalizedCombinations, functions_Whitespaces, languages, "normalization_whitespaces", text_length)
-    #normalization_whitespaces_sentences, normalization_whitespaces_combinations = executeNLPSteps(normalizedSentences, normalizedCombinations, functions_Whitespaces, languages, "normalization_whitespaces")
+    executeNLPSteps(normalizedSentences, normalizedCombinations, functions_Whitespaces, languages, "normalization_whitespaces", text_length, 'Combination 8')
 
 #--------------------------------------------------
 
     # Remove Punctuation x Remove Diacritics
-    punctuation_diacritics_sentences, punctuation_diacritics_combinations = executeNLPSteps(punctuationSentences, puntuationCombinations, functions_Diacritics, languages, "punctuation_diacritics", text_length)
+    punctuation_diacritics_sentences, punctuation_diacritics_combinations = executeNLPSteps(punctuationSentences, puntuationCombinations, functions_Diacritics, languages, "punctuation_diacritics", text_length, 'Combination 9')
 
     # Remove Punctuation x Remove Whitespaces
-    executeNLPSteps(punctuationSentences, puntuationCombinations, functions_Whitespaces, languages, "punctuation_whitespaces", text_length)
+    executeNLPSteps(punctuationSentences, puntuationCombinations, functions_Whitespaces, languages, "punctuation_whitespaces", text_length, 'Combination 10')
 
 #--------------------------------------------------
 
     # Remove Diacritics x Remove Whitespaces
-    executeNLPSteps(diacriticsSentences, diacriticsCombinations, functions_Whitespaces, languages, "diacritics_whitespaces", text_length)
+    executeNLPSteps(diacriticsSentences, diacriticsCombinations, functions_Whitespaces, languages, "diacritics_whitespaces", text_length, 'Combination 11')
 
 
 # ------------------------------ THREE NPL STEPS ----------------------------- #
 
     # Normalization x Remove Punctuation x Remove Diacritics
-    executeNLPSteps(normalization_punctuation_sentences, normalization_punctuation_combinations, functions_Diacritics, languages, "normalization_punctuation_diacritics", text_length)
+    executeNLPSteps(normalization_punctuation_sentences, normalization_punctuation_combinations, functions_Diacritics, languages, "normalization_punctuation_diacritics", text_length, 'Combination 12')
 
     # Normalization x Remove Diacritics x Remove Whitespaces
-    normalization_diacritics_whitespaces_sentences, normalization_diacritics_whitespaces_combinations = executeNLPSteps(normalization_diacritics_sentences, normalization_diacritics_combinations, functions_Whitespaces, languages, "normalization_diacritics_whitespaces", text_length)
+    normalization_diacritics_whitespaces_sentences, normalization_diacritics_whitespaces_combinations = executeNLPSteps(normalization_diacritics_sentences, normalization_diacritics_combinations, functions_Whitespaces, languages, "normalization_diacritics_whitespaces", text_length, 'Combination 13')
 
     # Normalization x Remove Punctuation x Remove Whitespaces
-    executeNLPSteps(normalization_punctuation_sentences, normalization_punctuation_combinations, functions_Whitespaces, languages, "normalization_punctuation_whitespaces", text_length)
+    executeNLPSteps(normalization_punctuation_sentences, normalization_punctuation_combinations, functions_Whitespaces, languages, "normalization_punctuation_whitespaces", text_length, 'Combination 14')
 
     # Remove Punctuation x Remove Diacritics x Remove Whitespaces
-    executeNLPSteps(punctuation_diacritics_sentences, punctuation_diacritics_combinations, functions_Whitespaces, languages, "punctuation_diacritics_whitespaces", text_length)
+    executeNLPSteps(punctuation_diacritics_sentences, punctuation_diacritics_combinations, functions_Whitespaces, languages, "punctuation_diacritics_whitespaces", text_length, 'Combination 15')
 
 # ------------------------------ FOUR NLP STEPS ------------------------------ #
 
     # Normalization x Remove Diacritcs x Remove Whitespaces x Remove Punctuation
-    executeNLPSteps(normalization_diacritics_whitespaces_sentences, normalization_diacritics_whitespaces_combinations, functions_Punctuation, languages, "allmethods", text_length)
+    executeNLPSteps(normalization_diacritics_whitespaces_sentences, normalization_diacritics_whitespaces_combinations, functions_Punctuation, languages, "allmethods", text_length, 'Combination 16')
 
+    #executeDendrogramComparison(text_length)
 
 # ------------------------------- PLOT CREATION ------------------------------ #
 
-def simpleCreatePlot(data, languages, filename, textLength):
-    plt.figure(figsize=(14,7))
+def simpleCreatePlot(data, languages, filename, textLength, combination):
+    plt.figure(figsize=(14,10))
+    plt.title('Dendrogram of language similarity\n('+ textLength.capitalize() + ' text / ' + combination +')')
+    plt.xlabel('European languages') 
+    plt.ylabel('Similarity')
     dn = hierarchy.dendrogram(data, labels=languages)
     plt.savefig(os.path.abspath(os.curdir) + '/sourcecode/files/' + textLength + '/' + filename +".jpg")
 
-def createPlot(data, languages, textLength):
-    fig, axes = plt.subplots(3, 2, figsize=(12, 8))
-    #print(axes)
-    
-    #original
-    dn1 = hierarchy.dendrogram(data[0],labels=languages, orientation='top', ax=axes[0][0])
-    # without diacritics
-    dn2= hierarchy.dendrogram(data[1], ax=axes[0][1],
-                           orientation='top', labels=languages)
-    # without punctuation
-    dn3 = hierarchy.dendrogram(data[2], ax=axes[1][0],
-                           orientation='top', labels=languages)
-    # without whitespaces
-    dn4 = hierarchy.dendrogram(data[3], ax=axes[1][1],
-                           orientation='top', labels=languages)
-    dn5 = hierarchy.dendrogram(data[4], ax=axes[2][0],
-                           orientation='top', labels=languages)
-    plt.savefig(os.path.abspath(os.curdir) + '/sourcecode/files/' + textLength + '/' + "dendrogramplt1.jpg")
-    plt.show()
-
 
 # --------------------------- REPLACE COMBINATIONS --------------------------- #
-def replaceCombinations(languages, sentences, combinations):
-    """
-        Replace the corresponding text from the language with the modified text retrieved from the NLP step.
-    """   
+#Replace the corresponding text from the language with the modified text retrieved from the NLP step.
+def replaceCombinations(languages, sentences, combinations):   
     modCombinations = copy.copy(combinations)
 
     i = 0
@@ -145,14 +128,16 @@ def replaceCombinations(languages, sentences, combinations):
         i = i + 1
     return modCombinations
 
-def executeNLPSteps(sentences, combinations, functions, languages, filename, textLength):
+def executeNLPSteps(sentences, combinations, functions, languages, filename, textLength, combination):
     
     modifiedSentences = functions[0](sentences)
     modifiedCombinations = replaceCombinations(languages, modifiedSentences, combinations)
 
     measureTime("Start Dendrogram " + filename + " at ")
-    dendrogram = algorithm.start_needleman_wunsch(languages, modifiedSentences, modifiedCombinations, filename=filename, textLength=textLength)
-    simpleCreatePlot(dendrogram, languages, filename,  )
+    dendrogram = algorithm.start_needleman_wunsch(languages, modifiedSentences, modifiedCombinations, combination, filename=filename, textLength=textLength)
+    dendrograms.append(dendrogram);
+    labels.append(textLength + ' ' + filename)
+    simpleCreatePlot(dendrogram, languages, filename,  textLength, combination)
     measureTime("End Dendrogram " + filename + " at ")
 
     return modifiedSentences,modifiedCombinations

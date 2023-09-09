@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib.pyplot as plt
 import os
 from scipy.cluster import hierarchy
 import codecs
@@ -8,35 +9,6 @@ from numba import prange, njit
 gap_penalty = -1
 match_award = 1
 mismatch_penalty = -1
-
-'''
-language = [
-    'Deutsch',
-    'Englisch',
-    'Französisch',
-    'Spanisch',
-    'Italienisch',
-    'Finnisch'
-]
- 
-sentences = [
-    'Das ist das Leben',
-    'This is life',
-    'C\'est la vie',
-    'Así es la vida',
-    'Questa è vita',
-    'Tämä on elämää'
-]
-
-combinations = {
-    'Deutsch':'Das ist das Leben',
-    'Englisch':'This is life',
-    'Französisch':'C\'est la vie',
-    'Spanisch':'Así es la vida',
-    'Italienisch':'Questa è vita',
-    'Finnisch':'Tämä on elämää'   
-}
-'''
 
 @njit
 def match_score(alpha, beta):
@@ -71,12 +43,9 @@ def needleman_wunsch(sequence_one, sequence_two):
             insert = score[k][l - 1] + gap_penalty
 
             score[k][l] = max(match, delete, insert)
-
-    #print(score)
     
 
     # Traceback and alignment
-    
     alignment_one = ""
     alignment_two = ""
 
@@ -96,6 +65,7 @@ def needleman_wunsch(sequence_one, sequence_two):
             alignment_two += sequence_two[i-1]
             i -= 1
             j -= 1
+
         elif score_current == score_up + gap_penalty:
             alignment_one += sequence_one[j-1]
             alignment_two += '-'
@@ -104,6 +74,7 @@ def needleman_wunsch(sequence_one, sequence_two):
             alignment_one += '-'
             alignment_two += sequence_two[i-1]
             i -= 1
+    
 
     # Finish tracing up to the top left cell
     while j > 0:
@@ -122,9 +93,9 @@ def needleman_wunsch(sequence_one, sequence_two):
     
     return (score, alignment_one, alignment_two)
 
+
 def scoring_matrix(languages, sentences, combinations, filename, textLength):
     scoring_matrix = np.zeros((len(languages),len(languages)))
-
 
     i = 0
     f = codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + textLength + '/' + filename + ".txt", "w", encoding='utf-16')
@@ -181,14 +152,33 @@ def scoring_distance_matrix(scoring_matrix, languages):
 
 
 # ------------------------------- START METHOD ------------------------------- #
-def start_needleman_wunsch(languages, sentences, combinations, filename="algorithm", textLength="null"):
+def start_needleman_wunsch(languages, sentences, combinations, combination, filename="algorithm", textLength="null"):
     scoring = scoring_matrix(languages, sentences, combinations, filename, textLength)
     scoring_distance_matrix1 = scoring_distance_matrix(scoring, languages)
     
     f =  codecs.open(os.path.abspath(os.curdir) + '/sourcecode/files/' + textLength + '/' + filename + "_scoring_matrix" + ".txt", "w", encoding="utf-16")
     f.write(np.array2string(scoring))
     f.close()
-    
-    #print(scoring)
+
+    # Create heatmaps
+    normalized_matrix = (scoring - np.min(scoring)) / (np.max(scoring) - np.min(scoring))
+
+    plt.figure(figsize = (9,7))
+    plt.imshow(normalized_matrix, cmap='hot', interpolation='none')
+    plt.colorbar(label='Similarity')
+
+    labels = ['Bulgarian', 'Danish', 'German','English', 'Estonian', 'Finnish','French','Greek','Irish','Italian','Latvian','Lithuanian','Dutch','Polish','Portuguese','Romanian','Swedish','Slovak','Slovenian','Spanish','Czech','Hungarian']
+
+
+    ax = plt.gca()
+    ax.set_xticks(np.arange(0, 22, 1))
+    ax.set_xticklabels(labels, rotation=45, ha="right")
+
+    ax.set_yticks(np.arange(0, 22, 1))
+    ax.set_yticklabels(labels, rotation=45, rotation_mode="anchor")
+
+    plt.title('Heatmap of language similarity\n('+ textLength.capitalize() + ' text / ' + combination +')')
+    plt.savefig(os.path.abspath(os.curdir) + '/sourcecode/files/' + textLength + '/Heatmap/' + filename + '_heatmap.jpg')
     average = hierarchy.linkage(scoring_distance_matrix1, "average")
+
     return average
